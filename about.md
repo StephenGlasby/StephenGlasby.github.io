@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Reasearch Fellow at [Center for the Mathematics of Symmetry and Computation](ttps://cmsc.io)
+Reasearch Fellow at [Center for the Mathematics of Symmetry and Computation](https://cmsc.io)
