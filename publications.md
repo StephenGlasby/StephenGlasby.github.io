@@ -29,4 +29,10 @@ linear groups,
 [arXiv](https://arxiv.org/abs/2012.04189) | 
 [DOI](https://doi.org/10.26493/1855-3974.2049.3db)
 
-* X
++   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger)
+[Colva M. Roney-Dougal](http://www-groups.mcs.st-and.ac.uk/~colva/),
+Involution centralisers in finite unitary groups of odd characteristic
+*J. Algebra* **545** (2020), 245--299.
+[arXiv](https://arxiv.org/abs/1812.01362) 
+
