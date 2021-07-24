@@ -5,9 +5,12 @@ permalink: /GandCSeminars/
 ---
 
 #Groups and Combinatorics Seminars
-##Groups and Combinatorics Seminars
-###Groups and Combinatorics Seminars
-####Groups and Combinatorics Seminars
+
+|Aa|Bb|Cc|
+|--|:-|-:|
+|1|2|3|
+|4|5|6|
+|7|8|9|
 
 |Date|Speaker and Affiliation|Location|Title|Abstract|
 |----|-----------------------|--------|-----|--------|
