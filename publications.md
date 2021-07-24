@@ -49,7 +49,7 @@ Permutations with orders coprime to a given integer,
 + [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Classifying uniformly generated groups,
 *Commun. Algebra* **48** (2020), 101--104. 
-[arXiv](https://arxiv.org/abs/1901.06480)
+[arXiv](https://arxiv.org/abs/1901.06480) | 
 [DOI](https://doi.org/10.1080/00927872.2019.1632333)
 
 + [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
