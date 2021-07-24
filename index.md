@@ -5,9 +5,7 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
----
-Home page of Stephen Glasby
+
 
 #Groups and Combinatorics Seminars
 ##Groups and Combinatorics Seminars
@@ -29,4 +27,9 @@ this talk I will focus on primitive groups of simple diagonal (SD) type.
 I will also present the main tool I use to structure both theory and
 algorithms: permutation morphisms, a generalization of permutation
 isomorphisms.|
+
+
+layout: home
+---
+Home page of Stephen Glasby
 
