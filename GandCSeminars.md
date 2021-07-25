@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Groups and Combinatorics Seminars
+title: GandC Seminars
 permalink: /GandCSeminars/
 ---
 
@@ -14,12 +14,8 @@ permalink: /GandCSeminars/
 
 |**Speaker:** Binzhou Xia (The University of Melbourne)<br />**Title:** Constructing tetravalent half-arc-transitive graphs<br />**Time and place:** 4pm Fri 16 Apr 2021, Weatherburn LT<br /><br />**Abstract:**  Half-arc-transitive graphs are a fascinating topic, which connects graph theory, Riemann surfaces and group theory. Although fruitful results have been obtained over the last half a century, it is still challenging to construct half-arc-transitive graphs with prescribed vertex stabilizers. In this talk, I'll focus on the tetravalent case, giving new constructions of half-arc-transitive graphs with various vertex stabilizers. This sheds light on the larger problem of which groups can be the vertex stabilizer of a tetravalent half-arc-transitive graph.|
 
-|**Date:** 30 July 2021<br>                                                     **Speaker:** Sergio Siccia (Kaiserslautern)<br>                                 **Location:** Robert Street LT<br>                                              **Title:** Normalizers of simple diagonal groups in polynomial time<br>         **Abstract:** The *normalizer problem* has as input generating sets X and Y for subgroups $G$ and $H$ of the symmetric group $S_n$, and asks one to return generators for the normalizer of $H$ in $G$.<br><br>                                          In my PhD thesis I developed algorithms for the situation where $G$ is the symmetric group $S_n$ and $H$ is primitive with non-regular socle. These algorithms are both practically efficient and run in polynomial time. In this talk I will focus on primitive groups of simple diagonal (SD) type. I will also present the main tool I use to structure both theory and algorithms: permutation morphisms, a generalization of permutation isomorphisms.|
+|**Date:** 30 July 2021<br>                                                     **Speaker:** Sergio Siccia (Kaiserslautern)<br>                                 **Location:** Robert Street LT<br>                                              **Title:** Normalizers of simple diagonal groups in polynomial time<br>         **Abstract:** The *normalizer problem* has as input generating sets X and Y for subgroups G and H of the symmetric group S_n, and asks one to return generators for the normalizer of H in G.<br><br>                                          In my PhD thesis I developed algorithms for the situation where G is the symmetric group S_n and H is primitive with non-regular socle. These algorithms are both practically efficient and run in polynomial time. In this talk I will focus on primitive groups of simple diagonal (SD) type. I will also present the main tool I use to structure both theory and algorithms: permutation morphisms, a generalization of permutation isomorphisms.|
 
-|Aa|Bb|Cc|
-|--|:-|-:|
-|1|2|3|
-|4|5|6|
-|7|8|9| 
+
 
 
