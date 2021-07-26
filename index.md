@@ -23,7 +23,7 @@ with Praeger and Niemeyer). This required us to solve an interesting
 problem in "probabilistic geometry": given a nondegenerate symplectic,
 unitary, or orthogonal space V and nondegenerate proper subspaces U
 and U' with dim(U) + dim(U') <= dim(V), what is the probability that
-the subspace U+U' is
+the subspace U + U' is
 nondegenerate and has dimension dim(U) + dim(U')?
 
 Stephen has published a series of papers that bound the number of composition
@@ -33,5 +33,13 @@ factors of a primitive permutation group of degree n is at
 most (8/3)log_2(n) - 4/3 and that this bound is attained infinitely often.
 This paper and may others stem from problems he posed at the
 annual Research Retreat of the Center for the Mathematics of
-Symmetry and Computation (CMSC). He enjoys solving research problems, and
-especially enjoys joint research.
+Symmetry and Computation (CMSC). Another result (with
+Giudici, Li, Verret) is remiscent of
+Legendre's formula (a.k.a. Polignac’s formula): given a prime p,
+the largest k such that p^k divides n! is (n-s)/(p-1) where s is the sum
+of the "digits" of the p-adic expansion of n. Our result bounds the
+number c_p(G) of composition factors or order p of a completely reducible
+subgroup G of GL(n,p^f). We show that c_p(G) <= (c_p*n-s)/(p-1) where c_p is
+a constant depending on p. Further, this result is best possible.
+Stephen enjoys solving research problems, and working jointly with
+other mathematicians. 
