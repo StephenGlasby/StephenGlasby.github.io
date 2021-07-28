@@ -88,7 +88,7 @@ On the second-largest Sylow subgroup
   of a finite simple group of Lie type (with
   <a href="https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php">
     Alice Niemeyer</a> and Tomasz Popiel)
-  * Bull. Austral. Math. Soc.* **99** (2019), 203--211. 
+  *Bull. Austral. Math. Soc.* **99** (2019), 203--211. 
   <a href="https://arxiv.org/abs/1712.05899"> arXiv</a> |
   <a href="ExceptionsCheck.mag"> Magma code</a> |
   <a href="https://doi.org/10.1017/S0004972718000928"> DOI</a>
@@ -293,7 +293,8 @@ and <a href="http://www.mnhn.fr/mnhn/bimm/pleijel_.htm"> F. Pleijel</a> )
 [arXiv](https://arxiv.org/abs/math/0312070) | 
   <a href="https://doi.org/10.1016/j.jalgebra.2007.10.024"> DOI</a>
 
-+ The shape of solvable groups with odd order,
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+The shape of solvable groups with odd order,
 in: Groups St Andrews 2005, vol. 2, Edited by C.M. Campbell,
 M.R. Quick, E.F. Robertson and G.C. Smith, London
 Mathematical Society Lecture Notes Series **340**, Cambridge
@@ -312,82 +313,97 @@ Univ. Press, (2007), 432--437.
   *J. Algebra* **295** (2006), 51--61.
   <a href="PAPER30.PDF"> pdf</a>
 
-+ Solvable groups with a given solvable length, and minimal composition length,
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Solvable groups with a given solvable length, and minimal composition length,
 *J. Group Theory* **8** (2005), 339--350.
 <a href="PAPER28.PDF"> pdf</a> |
 [arXiv](https://arxiv.org/abs/math/0309313)
 
-+ Modules induced from a normal subgroup of prime index, in
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Modules induced from a normal subgroup of prime index, in
 Rings, Modules, and Abelian Groups, Eds. A. Facchini, E. Houston and L. Salce,
 Lecture Notes in Pure and Applied Mathematics **236** (2004), 257--270.
 <a href="PAPER27.PDF"> pdf</a>
 
-+ On the tensor product of polynomials over a ring, *J. Austral. Math. Soc.*
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+On the tensor product of polynomials over a ring, *J. Austral. Math. Soc.*
 **71** (2001), 1--17.
 <a href="PAPER14.PDF"> pdf</a>
 
-+ Using recurrence relations to count certain elements in 
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Using recurrence relations to count certain elements in 
 symmetric groups, *European J. Combin.*
 **22** (2001), 497--501.
 [arXiv](https://arxiv.org/abs/1405.5620)
 
-+ Extended Euclid's algorithm via backward recurrence relations,
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Extended Euclid's algorithm via backward recurrence relations,
 *Math. Mag.* **75** (1999), 228--230.
 <a href="PAPER19.PDF"> pdf</a>
 
-+ Subgroups of the upper-triangular matrix group
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Subgroups of the upper-triangular matrix group
 with maximal derived length and a minimal number of generators,
 in Groups St Andrews 1997 in Bath, I, Edited by C.M. Campbell
-et al., London Mathematical Society Lecture Notes Series
+*et al.*, London Mathematical Society Lecture Notes Series
 **260**, Cambridge Univ. Press, (1999), 275--281.
 <a href="PAPER20.PDF"> pdf</a> |
 [arXiv](https://arxiv.org/abs/1410.5052)
 
 
-+ Writing representations over minimal fields (with 
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Writing representations over minimal fields (with 
 <a href="http://www.maths.usyd.edu.au:8000/u/bobh/"> R.B. Howlett</a> ),
 *Comm. Algebra* **25** (1997), 1703--1712.
 <a href="PAPER15.PDF"> pdf</a>
 
-+ Irreducible modules and normal subgroups of prime index (with
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Irreducible modules and normal subgroups of prime index (with
 <a href="http://maths.anu.edu.au/about-us/news/dr-laci-kovacs"> L.G. Kov&aacute;cs</a> ),
 *Comm. Algebra* **24** (1996), 1529--1546.
 <a href="PAPER18.PDF"> pdf</a> |
 <a href="WallKovacsAustMS2001.JPG"> WallKovacs</a>
 
-+ On generators for the group of units of the ring of integers modulo *n*,
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+On generators for the group of units of the ring of integers modulo *n*,
 *Austral. Math. Soc. Gaz.* **22** (1995), 226--228.
 <a href="PAPER16.PDF"> pdf</a>
 
-+ On the faithful representations, of degree 2<sup>n</sup>, of certain
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+On the faithful representations, of degree 2<sup>n</sup>, of certain
 extensions of 2-groups by orthogonal or symplectic groups,
 *J. Austral. Math. Soc. Ser. A* **58** (1995), 232--247.
 <a href="PAPER10.PDF"> pdf</a>
 
-+ Extraspecial towers and Weil representations (with 
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Extraspecial towers and Weil representations (with 
 <a href="http://www.maths.usyd.edu.au:8000/u/bobh/"> R.B. Howlett</a> ),
 *J. Algebra* **151** (1992), 236--260.
 <a href="PAPER6.PDF"> pdf</a>
 
-+ Computing intersections and normalizers in soluble groups (with
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Computing intersections and normalizers in soluble groups (with
 <a href="http://www.mscs.mu.edu/~mikes/"> M.C. Slattery</a> ),
 *J. Symbolic Comput.* **9** (1990), 637--651.
 <a href="PAPER5.PDF"> pdf</a>
 
-+ The composition and derived lengths of a finite soluble group,
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+The composition and derived lengths of a finite soluble group,
 *J. Algebra* **120** (1989), 406--413.
 <a href="PAPER4.PDF"> pdf</a>
 
-+ Constructing normalisers in finite soluble groups, *J. Symolic Comput.*
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Constructing normalisers in finite soluble groups, *J. Symolic Comput.*
 **5** (1988), 285--294.
 <a href="PAPER2.PDF"> pdf</a> 
 
-+ Intersecting subgroups of finite soluble groups. *J. Symbolic Comput.*
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Intersecting subgroups of finite soluble groups. *J. Symbolic Comput.*
 **5** (1988), 295--301.
 (Reprint available upon request.)
 
-
-+ 2-groups with every automorphism central. 
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+2-groups with every automorphism central. 
 *J. Austral. Math. Soc. Ser. A* **41** (1986), 233--236. 
 <a href="PAPER1.PDF"> pdf</a> 
 
