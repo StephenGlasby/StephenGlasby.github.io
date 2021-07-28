@@ -105,14 +105,14 @@ Arc-transitive digraphs with quasiprimitive local actions (with
 
 
 + [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
+[Binzhou Xia](https://sites.google.com/site/binzhouxia/),
 `Norman involutions' and tensor products of unipotent Jordan blocks
-  (with <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>
-  and <a href="http://ms.unimelb.edu.au/people/profile?id=1612Binzhou"> Binzhou Xia</a>) *Israel J. Math.* **230**(1) (2019), 153--181.
+*Israel J. Math.* **230**(1) (2019), 153--181.
   <a href="https://arxiv.org/abs/1711.06860"> arXiv</a> |
   <!--<a href="http://www.ams.org/mathscinet-getitem?mr=3430240"> MR**</a> |--> 
   <a href="JCF"> Magma code</a>  |
-  <a href="https://doi.org/10.1007/s11856-018-1812-z"> DOI</a> 
-
+[DOI](https://doi.org/10.1007/s11856-018-1812-z)
 
 + [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 On the parameters of intertwining codes
@@ -151,7 +151,7 @@ The number of composition factors of order *p* in completely
   (with <a href="http://www.maths.uwa.edu.au/~giudici"> Michael Giudici</a>,
   <a href="http://www.maths.uwa.edu.au/~li"> Cai Heng Li</a>, and
   <a href="http://www.maths.uwa.edu.au/~verret"> Gabriel Verret</a>)
-  *J. Alg.* **490** (2017), 241--255. 
+  *J. Algebra* **490** (2017), 241--255. 
 [arXiv](https://arxiv.org/abs/1602.07829) |
   <a href="https:doi.org/10.1016/j.jalgebra.2017.07.009"> DOI</a>
 
@@ -218,12 +218,13 @@ Twisted Centralizer Codes (with
 [arXiv](https://arxiv.org/abs/1406.6445) | 
   <a href="https://doi.org/10.1002/jcd.21411"> DOI</a>
 
-+ Decomposing modular tensor products, and periodicity of `Jordan partitions'
-  (with <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>
-  and Binzhou Xia), *J. Algebra* **450** (2016), 570--587.
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
+[Binzhou Xia](https://sites.google.com/site/binzhouxia/),
+Decomposing modular tensor products, and periodicity of `Jordan partitions'
+*J. Algebra* **450** (2016), 570--587.
 [arXiv](https://arxiv.org/abs/1401.2748) |
-  <a href="https://doi.org/10.1016/j.jalgebra.2015.11.025"> DOI</a>
-
+[DOI](https://doi.org/10.1016/j.jalgebra.2015.11.025)
 
 + AS-configurations and skew-translation generalised quadrangles
   (with <a href="http://www.maths.uwa.edu.au/~bamberg"> John Bamberg</a>
@@ -232,44 +233,44 @@ Twisted Centralizer Codes (with
 [arXiv](https://arxiv.org/abs/1405.5063) | 
   <a href="https://doi.org/10.1016/j.jalgebra.2014.08.031"> DOI</a>
 
-+ Decomposing modular tensor products: `Jordan partitions', their parts
-  and *p*-parts
-  (with <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>
-  and Binzhou Xia), *Israel J. Math.* **209**(1) (2015), 215--233.
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
+[Binzhou Xia](https://sites.google.com/site/binzhouxia/),
+Decomposing modular tensor products: `Jordan partitions', their parts
+and *p*-parts
+*Israel J. Math.* **209**(1) (2015), 215--233.
 [arXiv](https://arxiv.org/abs/1403.4685) |
-  <a href="https://doi.org/10.1007/s11856-015-1217-1"> DOI</a>
+[DOI](https://doi.org/10.1007/s11856-015-1217-1)
 
 + Distant parents in complete binary trees, *Math. Scientist*
-   **38**(1) (2013), 1--10. <a href="PAPER39.PDF"> pdf</a> |
+**38**(1) (2013), 1--10.
 [arXiv](https://arxiv.org/abs/1405.5624)
 
 + Proportion of cyclic matrices in maximal reducible matrix algebras
   (with Scott Brown, <a href="http://www.maths.uwa.edu.au/~giudici">
   Michael Giudici</a>, and <a href="http://www.maths.uwa.edu.au/~praeger">
-  Cheryl E. Praeger</a> ), * J. Algebra* **369** (2012),
+  Cheryl E. Praeger</a> ), *J. Algebra* **369** (2012),
   360--368.
 [arXiv](https://arxiv.org/abs/1405.6609) | 
-  <a href="https://doi.org/10.1016/j.jalgebra.2012.06.024"> DOI</a> 
+[DOI](https://doi.org/10.1016/j.jalgebra.2012.06.024)
 
 + *p*-groups having a unique proper nontrivial characteristic subgroup
   (with <a href="http://www.renyi.hu/~ppp/"> P.P. P&aacute;lfy</a> and
   <a href="http://www.sztaki.hu/~schneider/"> Csaba Schneider</a>),
   *J. Algebra* **348** (2011), 85--109.
-  <a href="PAPER43.PDF">pdf</a> |
 [arXiv](https://arxiv.org/abs/1007.4084) | 
-  <a href="https://doi.org/10.1016/j.jalgebra.2011.10.005"> DOI</a>
+[DOI](https://doi.org/10.1016/j.jalgebra.2011.10.005)
 
-+
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Enumerating the rationals from left to right, *Amer. Math. Monthly*
-  **118** (2011), 830--835.
-  <a href="PAPER37.PDF">pdf</a> |
+**118** (2011), 830--835.
 [arXiv](http://arxiv.org/abs/1011.2823) | 
-  <a href="https://doi.org/10.4169/amer.math.monthly.118.09.830"> DOI</a>
+[DOI](https://doi.org/10.4169/amer.math.monthly.118.09.830)
 
 + Towards an efficient Meat-axe algorithm using *f*-cyclic matrices:
 the density of uncyclic matrices in *M(n,q)*
 (with <a href="http://www.maths.uwa.edu.au/~praeger">
-    Cheryl E. Praeger</a> ), * J. Algebra* **322** (2009), 766--790.
+    Cheryl E. Praeger</a> ), *J. Algebra* **322** (2009), 766--790.
   <a href="PAPER34.FDF">pdf</a> | <a href="PAPER34.DVI"> dvi</a> | 
   <a href="https://doi.org/10.1016/j.jalgebra.2009.02.021"> DOI</a>
   <a href="APP1"> Appendix 1</a> The polynomials *unc(n,q)* for
@@ -285,7 +286,7 @@ and <a href="http://www.mnhn.fr/mnhn/bimm/pleijel_.htm"> F. Pleijel</a> )
 *Proc. Royal Soc. B* **295** (2008), 2071--2076.
   <a href="PAPER31.PDF"> pdf</a> |
   <a href="ProcRSocB2008.pdf"> ProcRoyalSocBpdf</a> |
-  <a href="https://doi.org/10.1098/rspb.2008.0418"> DOI</a>  
+[DOI](https://doi.org/10.1098/rspb.2008.0418)
 
 + Writing representations over proper division subrings,
 <a href=""></a> *J. Algebra* **319** (2008), 77--92.
@@ -298,12 +299,12 @@ M.R. Quick, E.F. Robertson and G.C. Smith, London
 Mathematical Society Lecture Notes Series **340**, Cambridge
 Univ. Press, (2007), 432--437.
 [arXiv](https://arxiv.org/abs/1801.05536) | 
-  <a href="https://doi.org/10.1017/CBO9780511721205.006"> DOI</a>
+[DOI](https://doi.org/10.1017/CBO9780511721205.006)
 
 + The Meat-axe and *f*-cyclic matrices
 *J. Algebra* **300** (2006), 77--90.
   <a href="PAPER33.PDF"> pdf</a> |
-  <a href="https://doi.org/10.1016/j.jalgebra.2006.01.026"> DOI</a>
+[DOI](https://doi.org/10.1016/j.jalgebra.2006.01.026)
   
 + Writing projective representations over proper subfields (with
   <a href="http://www.maths.qmul.ac.uk/~crlg/"> C.R. Leedham-Green</a> and
