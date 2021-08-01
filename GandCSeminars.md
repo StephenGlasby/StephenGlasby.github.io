@@ -4,7 +4,7 @@ title: GandC Seminars
 permalink: /GandCSeminars/
 ---
 
-The Centre organises a number of open seminars, public lectures, and events.
+The Centre organises a number of open seminars, public lectures, and events.</br>
 ​
 The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16:00. There will be `cake' in the Mathematics and Statistics tea room at 15:40 beforehand, and after 17:05 we go to the University Club for a drink. Everyone is welcome to join us. Please email the seminar convener <Stephen.Glasby@uwa.edu.au> if you would like to give a seminar.
 
