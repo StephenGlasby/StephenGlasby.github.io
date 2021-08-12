@@ -26,3 +26,15 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 |**Time and Place:** 4pm Fri 13 August 2021, Weatherburn LT<br>                  **Speaker:** Kurt Williams (University of Western Australia)<br>               **Title:** Rayleigh-Taylor instability: an application of group theory methods<br>           **Abstract:** The Rayleigh-Taylor instability is a ubiquitous phenomenon of significant interest to both physics and mathematics, occurring whenever two fluids of differing densities are accelerated against the density gradient. The problem is ill-posed, but by careful appeal to the theory of space-groups, a solution can be constructed in full consistency with physics principles. We apply the theory of space groups to resolve the development of structures – both bubbles and spikes – along the interface. By constructing a velocity potential invariant under action of the relevant group, the interface conditions can be reduced to a system of coupled ordinary differential equations, which we solve in the early time “linear” regime and the later time “nonlinear” regime. We construct a geometry-independent form of the nonlinear dynamics including the structure velocity and the interfacial shear. The redimensionalisation transformations are used to compare the relative velocity and shear of both bubble and spike structures and compare the effect of dimensionality and symmetry on Rayleigh-Taylor instability.|
 
 |**Time and Place:** 4pm Fri 20 August 2021, Weatherburn LT<br>                 **Speaker:** Phill Schulz (University of Western Australia)<br>                 **Title:**  The automorphism group of an abelian p-group<br>                    **Abstract:**  This is an expository talk about the structure of Aut(G) for an abelian p-group G.  I present a sequence of increasingly complex examples: cyclic, finite, bounded, direct sum of cyclics, simply presented, leading to the open general case. No previous knowledge of abelian group theory is required.|
+
+|**Time and Place:** 4pm Fri 27 August 2021, Weatherburn LT<br>                 **Speaker:** Ted Dobson (FAMNIT, University of Primorska)<br>                 **Title:**  <br>                    **Abstract:**  |
+
+|**Time and Place:** 4pm Fri 03 September 2021, Weatherburn LT<br>                 **Speaker:** Primož Potočnik (FAMNIT, University of Primorska)<br>                 **Title:**  <br>                    **Abstract:**  |
+
+|**Time and Place:** 4pm Fri 17 September 2021, Weatherburn LT<br>                 **Speaker:** Lie Chen (UWA in China)<br>                 **Title:**  <br>                    **Abstract:**  |
+
+|**Time and Place:** 4pm Fri 24 September 2021, Weatherburn LT<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>                 **Title:**  <br>                    **Abstract:**  |
+
+
+
+
