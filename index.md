@@ -41,5 +41,6 @@ of the "digits" of the p-adic expansion of n. Our result bounds the
 number c_p(G) of composition factors or order p of a completely reducible
 subgroup G of GL(n,p^f). We show that c_p(G) <= (c_p*n-s)/(p-1) where c_p is
 an explicit constant depending on p. Further, this result is best possible.
+
 Stephen enjoys solving research problems, and working jointly with
 other mathematicians. 
