@@ -38,7 +38,7 @@ transitive 2-closed permutation groups. There are 3-closed groups which do not h
 so in a way this class is “between” 2-closed and 3-closed. So we call this class 5/2-closed. It turns
 out that not only are 2-closed groups contained in this new class, but also the automorphism groups
 of configurations, and in more generality, combinatorial objects whose “edge” set is a 1-intersecting
-set system (that is, any two “edges” intersect in exactly one vertex).<br>
+set system (that is, any two “edges” intersect in exactly one vertex).<br><br>
 To demonstrate this idea, we solve two problems in the more general context of 5/2-closed
 transitive group, and so obtain as corollaries the solutions to the two problems for 2-closed groups.
 Let p, q, and r, be distinct primes. We show that any 5/2-closed group with a normally (or
@@ -47,7 +47,7 @@ is known that for each of these four families, there is a vertex-transitive grap
 group contains a minimal transitive subgroup in the family but does not have a minimal transitive
 subgroup in the other three families. Next, we determine all 5/2-closed permutation groups of
 odd prime-power degree that contain a regular cyclic subgroup, and so also determine all 2-closed
-permutation groups of odd prime-power order that contain a regular cyclic subgroup. |
+permutation groups of odd prime-power order that contain a regular cyclic subgroup.|
 
 |**Time and Place:** 4pm Fri 03 September 2021, Weatherburn LT<br>                 **Speaker:** Primož Potočnik (FAMNIT, University of Primorska)<br>                 **Title:**  <br>                    **Abstract:**  |
 
