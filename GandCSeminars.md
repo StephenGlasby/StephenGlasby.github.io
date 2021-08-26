@@ -35,8 +35,9 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 
 |**Time and Place:** 4pm Fri 24 September 2021, Weatherburn LT<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>                 **Title:**  <br><br>                    **Abstract:**  |
 
-|**Time and Place:** 4pm Fri 01 October 2021, Weatherburn LT<br>                 **Speaker:** Natalia Maslova (RAS and Krasovsky Institute of Mathematics and Mechanics)<br><br>                 **Title:**  <br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 01 October 2021, WIMSIG no seminar<br>|
 
+|**Time and Place:** 4pm Fri 08 October 2021, Weatherburn LT<br>                 **Speaker:** Natalia Maslova (RAS and Krasovsky Institute of Mathematics and Mechanics)<br><br>                 **Title:**  <br>                    **Abstract:**  |
 
 
 
