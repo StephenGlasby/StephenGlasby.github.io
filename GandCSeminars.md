@@ -33,7 +33,7 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 
 |**Time and Place:** 4pm Fri 17 September 2021, Weatherburn LT<br>                 **Speaker:** Lie Chen (UWA in China)<br>                 **Title:**  <br><br>                    **Abstract:**  |
 
-|**Time and Place:** 4pm Fri 24 September 2021, Weatherburn LT<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>                 **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 24 September 2021, Weatherburn LT<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>                 **Title:**  On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$<br><br>                    **Abstract:** Adding up the first r+1 binomial coeffients in the row m of Yan Hui's (aka Pascal's) triangle and dividing by 2^r gives a function which appears in probability, coding theory, information theory, and even permutation group theory. For most values of r there is no closed formula for this sum. We prove that the maximum of this function occurs when r equals Floor(m/3)+1. Half of the proof is easy and the other half is quite difficult. The talk ends with some open questions but is very non-technical. This is joint with G.R. Paseman. |
 
 |**Time and Place:** 4pm Fri 01 October 2021, WIMSIG no seminar<br>|
 
