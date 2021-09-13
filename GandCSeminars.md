@@ -39,5 +39,10 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 
 |**Time and Place:** 4pm Fri 08 October 2021, Weatherburn LT<br>                 **Speaker:** Natalia Maslova (RAS and Krasovsky Institute of Mathematics and Mechanics)<br><br>                 **Title:**  <br>                    **Abstract:**  |
 
+|**Event:** 5th Australian Algebra Conference)<br> Wednesday November 17 - Friday November 19, 2021.  [05ACC](https://aac05.github.io/) |
+
+
+
+
 
 
