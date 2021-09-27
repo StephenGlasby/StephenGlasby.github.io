@@ -96,10 +96,9 @@ Cyclotomic ordering Conjecture
 
 
 + [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-On the second-largest Sylow subgroup
-  of a finite simple group of Lie type (with
-  <a href="https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php">
-    Alice Niemeyer</a> and Tomasz Popiel)
+[Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
+   Tomasz Popiel,
+  On the second-largest Sylow subgroup of a finite simple group of Lie type,
   *Bull. Austral. Math. Soc.* **99** (2019), 203--211. 
   <a href="https://arxiv.org/abs/1712.05899"> arXiv</a> |
   <a href="ExceptionsCheck.mag"> Magma code</a> |
