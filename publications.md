@@ -6,7 +6,7 @@ permalink: /publications/
 
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 G.R. Paseman,
-On the maximum of the weighted binomial sum 2^{-r}\sum_{i=0}^r\binom{m}{i},
+On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
 [arXiv](https://arxiv.org/abs/2109.11396)
 
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
