@@ -4,6 +4,18 @@ title: Publications
 permalink: /publications/
 ---
 
+- [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+G.R. Paseman,
+On the maximum of the weighted binomial sum 2^{-r}\sum_{i=0}^r\binom{m}{i},
+[arXiv](https://arxiv.org/abs/2109.11396)
+
+- [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
+[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+The probability of spanning a classical space by two non-degenerate subspaces
+of complementary dimension,
+[arXiv](https://arxiv.org/abs/2109.10015)
+
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 and
