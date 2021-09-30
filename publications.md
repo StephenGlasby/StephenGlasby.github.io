@@ -106,11 +106,11 @@ Cyclotomic ordering Conjecture
   <a href="https://doi.org/10.1017/S0004972718000928"> DOI</a>
 
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Arc-transitive digraphs with quasiprimitive local actions (with 
-  <a href="http://www.maths.uwa.edu.au/~giudici"> Michael Giudici</a>,
-  <a href="http://www.maths.uwa.edu.au/~li"> Cai Heng Li</a>, and
-  <a href="http://www.maths.uwa.edu.au/~verret"> Gabriel Verret</a>)
++ [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+  [Cai Heng Li](http://www.maths.uwa.edu.au/~li), and
+  [Gabriel Verret](http://www.maths.uwa.edu.au/~verret),
+  Arc-transitive digraphs with quasiprimitive local actions,
   *J. Pure Appl. Algebra* **223** (2019), 1217-1226. 
   <a href="https://arxiv.org/abs/1610.06222"> arXiv</a> |
   <a href="https://doi.org/10.1016/j.jpaa.2018.06.002"> DOI</a>
@@ -126,20 +126,21 @@ Arc-transitive digraphs with quasiprimitive local actions (with
   <a href="JCF"> Magma code</a>  |
 [DOI](https://doi.org/10.1007/s11856-018-1812-z)
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-On the parameters of intertwining codes
-  (with <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>) *Ars Math. Contemp.* **16** (2019), 49--58. 
-[arXiv](https://arxiv.org/abs/1711.04104) |
++ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+  [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger),
+  On the parameters of intertwining codes,
+  *Ars Math. Contemp.* **16** (2019), 49--58. 
+  [arXiv](https://arxiv.org/abs/1711.04104) |
   <a href="https://doi.org/10.26493/1855-3974.1547.454"> DOI</a> 
 
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Maximal linear groups induced on the Frattini quotient of a *p*-group
-  (with <a href="http://www.maths.uwa.edu.au/~bamberg"> John Bamberg</a>,
-  <a href="http://www.maths.uwa.edu.au/contact/staff"> Luke Morgan</a>, and
-  <a href="https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php"> Alice Niemeyer</a>)
++  [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+  [Luke Morgan](http://www.maths.uwa.edu.au/contact/staff), and
+  [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
+  Maximal linear groups induced on the Frattini quotient of a *p*-group
   *J. Pure Appl. Algebra* **222** (2018), 2931--2951.
-[arXiv](https://arxiv.org/abs/1603.05384) |
+  [arXiv](https://arxiv.org/abs/1603.05384) |
   <a href="https://doi.org/10.1016/j.jpaa.2017.11.006"> DOI</a> |
   <a href="BGMNAssocComm.mag"> Magma code: associative & commutator laws</a> |
   <a href="http://www.ams.org/mathscinet-getitem?mr=***"> MR**</a> |
@@ -147,28 +148,28 @@ Maximal linear groups induced on the Frattini quotient of a *p*-group
 
 
 + [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Bounding the composition length of primitive permutation groups and
-  completely reducible linear groups (with
-  <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>,
+  [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger),
   Kyle Rosa and
-  <a href="https://www.math.auckland.ac.nz/people/gver006"> Gabriel Verret </a>)
+  [Gabriel Verret](http://www.maths.uwa.edu.au/~verret),
+  Bounding the composition length of primitive permutation groups and
+  completely reducible linear groups,
   *J. London Math. Soc* **98**(2) (2018), 557--572.
-[arXiv](https://arxiv.org/abs/1712.05520) |
+  [arXiv](https://arxiv.org/abs/1712.05520) |
   <a href="https://doi.org/10.1112/jlms.12138"> DOI</a>
 
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-The number of composition factors of order *p* in completely
-  reducible groups of characteristic *p*
-  (with <a href="http://www.maths.uwa.edu.au/~giudici"> Michael Giudici</a>,
-  <a href="http://www.maths.uwa.edu.au/~li"> Cai Heng Li</a>, and
-  <a href="http://www.maths.uwa.edu.au/~verret"> Gabriel Verret</a>)
++ [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+  [Cai Heng Li](http://www.maths.uwa.edu.au/~li), and
+  [Gabriel Verret](http://www.maths.uwa.edu.au/~verret),
+  The number of composition factors of order *p* in completely
+  reducible groups of characteristic *p*,
   *J. Algebra* **490** (2017), 241--255. 
-[arXiv](https://arxiv.org/abs/1602.07829) |
+  [arXiv](https://arxiv.org/abs/1602.07829) |
   <a href="https:doi.org/10.1016/j.jalgebra.2017.07.009"> DOI</a>
 
 + [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-On the dimension of twisted centralizer codes (with
+  On the dimension of twisted centralizer codes (with
   <a href="http://analahmadi.kau.edu.sa/Default.aspx?Site_ID=0003974&lng=EN"> Adel Alahmadi</a>, and
   <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>)
   *Finite Fields Appl.* **48** (2017), 43--59.
