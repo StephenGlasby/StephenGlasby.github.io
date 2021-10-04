@@ -39,13 +39,10 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 
 |**Time and Place:** 4pm Fri 08 October 2021, Weatherburn LT<br>                 **Speaker:** Natalia Maslova (RAS and Krasovsky Institute of Mathematics and Mechanics)<br><br>                 **Title:** On characterization of a finite group by its Gruenberg-Kegel graph <br>                    **Abstract:** The Gruenberg-Kegel graph GK(G) associated with a finite group G is an undirected graph without loops and multiple edges whose vertices are the prime divisors of the order of G and in which vertices p and q are adjacent in GK(G) if and only if G contains an element of order pq. This graph has been the subject of much recent interest. In this talk we discuss a recent progress in characterization of a finite group by its Gruenberg-Kegel graph. |
 
-|**Time and Place:** 4pm Fri 15 October 2021, Weatherburn LT<br>                 **Speaker:** <br>                 **Title:**  <br><br>                    **Abstract:**  |
+|**No Seminar:** 15 and 22 October 2021<br> |
 
 
-|**Time and Place:** 4pm Fri 22 October 2021, Weatherburn LT<br>                 **Speaker:** <br>                 **Title:**  <br><br>                    **Abstract:**  |
-
-
-|**Time and Place:** 4pm Fri 29 October 2021, Robert Street LT<br>                 **Speaker:** <br>                 **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 29 October 2021, Robert Street LT<br>                 **Speaker:** John Bamberg (University of Western Australia)<br>                 **Title:**  TBA <br><br>                    **Abstract:**  |
 
 
 |**Time and Place:** 4pm Fri 05 November 2021, Robert Street LT<br>                 **Speaker:** <br>                 **Title:**  <br><br>                    **Abstract:**  |
