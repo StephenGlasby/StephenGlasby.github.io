@@ -21,7 +21,7 @@ of complementary dimension,
 and
 [W.R. Unger](https://sydney.edu.au/science/about/our-people/academic-staff/william-unger.html), 
 Most permutations power to a cycle of small prime length,
-*Proc. R. Soc. Edinb. **64**(2) (2021), 234--246.
+*Proc. R. Soc. Edinb.* **64**(2) (2021), 234--246.
 [arXiv](https://arxiv.org/abs/1911.12613) |
 [DOI](https://doi.org/10.1017/S0013091521000110)
 
