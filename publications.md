@@ -38,7 +38,7 @@ E. Pierro and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Point-primitive generalised hexagons and octagons and projective
 linear groups,
-*Ars Math. Contemp.* **XX(X)** (2021), **XX** (to appear).
+*Ars Math. Contemp.* **21** (2021), #P2.10.
 [arXiv](https://arxiv.org/abs/2012.04189) | 
 [DOI](https://doi.org/10.26493/1855-3974.2049.3db)
 
