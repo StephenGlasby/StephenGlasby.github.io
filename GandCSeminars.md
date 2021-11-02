@@ -45,10 +45,13 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 |**Time and Place:** 4pm Fri 29 October 2021, Robert Street LT<br>                 **Speaker:** John Bamberg (University of Western Australia)<br>                 **Title:** On Shult and Thas' special sets <br><br>                    **Abstract:** Shult and Thas ("Constructions of polygons from buildings", Proc. LMS, 1995) showed that a certain configuration of totally singular lines of a nonsingular elliptic quadric in the finite projective space PG(5,q) gives rise to a generalised quadrangle of order (q^2,q^2). This geometric object can also be seen as a certain configuration of totally singular points of the Hermitian space H(3,q^2), and is often called a "special set" in the literature. The generalised quadrangle Q(4,q^2) arises this way, from the classical special set, and it is an open problem to find non-classical special sets. This talk is on joint work with Giusy Monzillo and Alessandro Siciliano, where we characterise special sets from an algebraic combinatorial point of view.  |
 
 
-|**Time and Place:** 4pm Fri 05 November 2021, Robert Street LT<br>                 **Speaker:** <br>                 **Title:**  <br><br>                    **Abstract:**  |
-
-
 |**Event:** [5th Australian Algebra Conference](https://aac05.github.io/)<br> Wed Nov 17 - Fri Nov 19, 2021. No G&C seminar. |
+
+|**Time and Place:** 4pm Fri 26 November 2021, Weatherburn LT<br>                 **Speaker:** Dan Hawtin (University of Rijeka)<br>                 **Title:** TBA <br><br>                    **Abstract:**  |
+
+
+|**Time and Place:** 4pm Fri 03 December 2021, Weatherburn LT<br>                 **Speaker:** <br>                 **Title:**  <br><br>                    **Abstract:**  |
+
 
 
 
