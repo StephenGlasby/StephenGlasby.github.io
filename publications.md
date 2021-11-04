@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+- [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
+[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+Random generation of direct sums of finite non-degenerate subspaces,
+[arXiv](https://arxiv.org/abs/2111.02198)
+
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 G.R. Paseman,
 On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
