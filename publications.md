@@ -10,6 +10,12 @@ permalink: /publications/
 Random generation of direct sums of finite non-degenerate subspaces,
 [arXiv](https://arxiv.org/abs/2111.02198)
 
+- Faezeh Alizadeh,
+[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+Sequences of linear codes where the rate times distance grows rapidly,
+[arXiv](https://arxiv.org/abs/2110.01277)
+
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 G.R. Paseman,
 On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
