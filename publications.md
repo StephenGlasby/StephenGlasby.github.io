@@ -14,7 +14,6 @@ The groups *G* satisfying a functional equation
 *J. Group Theory* **XXX**(XXX) (20XX), XXX--XXX.
 [arXiv](https://arxiv.org/abs/2105.09117) |
 [Magma code](https://research-repository.uwa.edu.au/en/datasets/magma-computer-program-for-j-groups-and-exponent-polynomials) | 
-[DOI](10.26182/x36d-3b55)
 
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
