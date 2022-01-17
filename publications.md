@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 - [Dominik Bernhardt](https://www.mathematik.rwth-aachen.de/go/id/bkbg/gguid/0xF033AE30691E4645A7355F6BBD82B37D/ikz/11/allou/1),
-[Tim Boykett](),
+[Tim Boykett](http://www.algebra.uni-linz.ac.at/~tim/),
 [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
 [Johannes Flake](https://johannesflake.github.io/)
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
