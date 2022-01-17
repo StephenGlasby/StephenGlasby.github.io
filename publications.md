@@ -4,6 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
+- [Dominik Bernhardt](https://www.mathematik.rwth-aachen.de/go/id/bkbg/gguid/0xF033AE30691E4645A7355F6BBD82B37D/ikz/11/allou/1),
+[Tim Boykett](),
+[Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
+[Johannes Flake](https://johannesflake.github.io/)
+[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+The groups *G* satisfying a functional equation
+*f(xk) = xf(x)* for some *k ∈ G*,
+*J. Group Theory* **XXX**(XXX) (20XX), XXX--XXX.
+[arXiv](https://arxiv.org/abs/2105.09117) |
+Magma code [JGroupResearchRepository.mag](JGroupResearchRepository.mag)
+
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
