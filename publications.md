@@ -4,17 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-- [Dominik Bernhardt](https://www.mathematik.rwth-aachen.de/go/id/bkbg/gguid/0xF033AE30691E4645A7355F6BBD82B37D/ikz/11/allou/1),
-[Tim Boykett](http://www.algebra.uni-linz.ac.at/~tim/),
-[Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
-[Johannes Flake](https://johannesflake.github.io/),
-[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-The groups *G* satisfying a functional equation
-*f(xk) = xf(x)* for some *k ∈ G*,
-*J. Group Theory* **XXX**(XXX) (20XX), XXX--XXX.
-[arXiv](https://arxiv.org/abs/2105.09117) |
-[Magma code](https://research-repository.uwa.edu.au/en/datasets/magma-computer-program-for-j-groups-and-exponent-polynomials) | 
-
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
@@ -38,6 +27,18 @@ On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
 The probability of spanning a classical space by two non-degenerate subspaces
 of complementary dimension,
 [arXiv](https://arxiv.org/abs/2109.10015)
+
+- [Dominik Bernhardt](https://www.mathematik.rwth-aachen.de/go/id/bkbg/gguid/0xF033AE30691E4645A7355F6BBD82B37D/ikz/11/allou/1),
+[Tim Boykett](http://www.algebra.uni-linz.ac.at/~tim/),
+[Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
+[Johannes Flake](https://johannesflake.github.io/),
+[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+The groups *G* satisfying a functional equation
+*f(xk) = xf(x)* for some *k ∈ G*,
+*J. Group Theory* **XXX**(XXX) (20XX), XXX--XXX.
+[arXiv](https://arxiv.org/abs/2105.09117) |
+[Magma code](https://research-repository.uwa.edu.au/en/datasets/magma-computer-program-for-j-groups-and-exponent-polynomials) |
+[DOI](http://doi.org/10.26182/x36d-3b55)
 
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
