@@ -42,13 +42,17 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 |**No Seminar:** 15 and 22 October 2021<br> |
 
 
-|**Time and Place:** 4pm Fri 29 October 2021, Robert Street LT<br>                 **Speaker:** John Bamberg (University of Western Australia)<br>                 **Title:**  TBA <br><br>                    **Abstract:**  |
-
-
-|**Time and Place:** 4pm Fri 05 November 2021, Robert Street LT<br>                 **Speaker:** <br>                 **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 29 October 2021, Robert Street LT<br>                 **Speaker:** John Bamberg (University of Western Australia)<br>                 **Title:** On Shult and Thas' special sets <br><br>                    **Abstract:** Shult and Thas ("Constructions of polygons from buildings", Proc. LMS, 1995) showed that a certain configuration of totally singular lines of a nonsingular elliptic quadric in the finite projective space PG(5,q) gives rise to a generalised quadrangle of order (q^2,q^2). This geometric object can also be seen as a certain configuration of totally singular points of the Hermitian space H(3,q^2), and is often called a "special set" in the literature. The generalised quadrangle Q(4,q^2) arises this way, from the classical special set, and it is an open problem to find non-classical special sets. This talk is on joint work with Giusy Monzillo and Alessandro Siciliano, where we characterise special sets from an algebraic combinatorial point of view.  |
 
 
 |**Event:** [5th Australian Algebra Conference](https://aac05.github.io/)<br> Wed Nov 17 - Fri Nov 19, 2021. No G&C seminar. |
+
+|**Time and Place:** 4pm Fri 26 November 2021, Weatherburn LT<br>               **Speaker:** Dan Hawtin (University of Rijeka)<br>
+**Title:** Neighbour-transitive codes in generalised quadrangles <br><br>       **Abstract:**  A code C in an arbitrary graph \varGamma is a subset of the vertex set of \varGamma. The minimum distance \delta of a code C is the smallest distance between a pair of distinct elements of C and the graph metric gives rise to a partition {C_0,C_1,\ldots,C_\rho} of the vertices of \varGamma where C_0=C and \rho is the maximum distance between any vertex of \varGamma and its nearest element in C. In this talk we consider the case where \varGamma is the point-line incidence graph of a generalised quadrangle {\mathcal Q} and we say that C is a code in the generalised quadrangle {\mathcal Q}. Since the diameter of \varGamma is 4, both \rho and \delta are at most 4. If \delta=4 then C is a partial ovoid or partial spread of {\mathcal Q}, and if, additionally, \rho=2 then C is an ovoid or a spread. A code C in {\mathcal Q} is neighbour-transitive if its automorphism group acts transitively on each of the sets C and C_1. The talk includes some examples, some partial classification results and some open questions. |
+
+
+|**Time and Place:** 4pm Fri 03 December 2021, Weatherburn LT<br>                 **Speaker:** <br>                 **Title:**  <br><br>                    **Abstract:**  |
+
 
 
 
