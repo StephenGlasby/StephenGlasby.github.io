@@ -1,0 +1,264 @@
+/*
+  The Magma code below was written by Stephen Glasby in 2019.
+  
+  The following 9 functions have comments describing their use:
+  _IsJGroup(G), _IsWitness(G,k), _B(G), _W(G), _w(G,n),
+  _Binomial(t,k), _IntPolyBinomSum(P), _Sift(G,g,s), _FactorizationAsString
+  
+  In addition, data for Table 4.1 of the J-group paper by BBDFG is constructed.
+*/
+
+_IsJGroup:=function(G)
+/*
+  Input:  a finite group G
+  Output: true, k if there exists a k in G with |k|=n such that
+    x^n*(k^{n-1})^{x^{n-1}}*\cdots*(k^2)^{x^2}*k^x for all x in G.
+    That is, G is a J-group. Otherwise output false, G!1.
+*/
+  local C,IsJGroup,i,K,k,n,X,x;
+  if IsEven(Order(G)) then return false,_;end if; // henceforth |G| is odd
+  C:=ConjugacyClasses(G);
+  for i in [#C..2 by -1] do  // larger order elements likely to be witnesses
+    k:=C[i][3];n:=Order(k);
+    if IsAbelian(G) and n eq Exponent(G) then return true,k;end if;
+    K:=sub<G|k>;X:=DoubleCosetRepresentatives(G,K,K);IsJGroup:=true;
+    for x in X do
+      if &*[x*k^(n-i): i in [1..n]] ne G!1 then IsJGroup:=false;break x;end if;
+    end for;
+    if IsJGroup eq true then return true,k;end if;
+  end for;
+  return false,_;
+end function;
+
+_IsWitness:=function(G,k)
+/*
+  Input:  a finite group G, an element k of G
+  Output: true if (G,k) is a J-group, and false o/w.
+*/
+  local i,K,n,X,x;
+  n:=Order(k);K:=sub<G|k>;X:=DoubleCosetRepresentatives(G,K,K);
+  for x in X do
+    if &*[x*k^(n-i): i in [1..n]] ne G!1 then return false;end if;
+  end for;
+  return true;
+end function;
+
+_B:=function(G)
+/*
+  Input:  a finite group G
+  Output: b, bw, B where b is the number of big elts (elts of maxl order),
+    bw=|B(G)\cap W(G)|, and B is a sequence of conjugacy class reps for
+    B(G)\cap W(G)
+*/
+  local B,b,bw,C,e,i,k;
+  C:=ConjugacyClasses(G);B:=[];e:=Exponent(G);b:=0;bw:=0;
+  for i in [#C..1 by -1] do // classes are ordered by order of rep, but not used
+    k:=C[i][3];if Order(k) ne e then continue i;end if;
+    b+:=C[i][2];
+    if _IsWitness(G,k) then bw+:=C[i][2];Append(~B,k);end if;
+  end for;
+  return b,bw,B;
+end function;
+
+_W:=function(G)
+/*
+  Input:  a finite group G
+  Output: w, W where w is the number of witnesses and W is a sequence of
+    conjugacy class reps for W(G)
+*/
+  local C,i,k,w,W;
+  C:=ConjugacyClasses(G);W:=[];w:=0;
+  for i in [1..#C] do
+    k:=C[i][3];
+    if not _IsWitness(G,k) then continue i;end if;
+    w+:=C[i][2];Append(~W,k);
+  end for;
+  return w,W;
+end function;
+
+_w:=function(G,n)
+/*
+  Input:  a non-negative integer n
+  Output: the product &*[ x*k^(n-i): i in [1..n]] where x:=G.1 and k=G.2
+*/
+  local i;
+  if n eq 0 then return G!1;end if;
+  return &*[ G.1*G.2^(n-i): i in [1..n]];
+end function;
+
+_Binomial:=function(t,k)
+// Suppose t is an indeterminant. Return t*(t-1)*...*(t-k+1)/k!
+  local i,P;
+  P:=Parent(t);
+  if k eq 0 then return P!1;end if;
+  return &*[(t-i): i in [0..k-1]]/Factorial(k);
+end function;
+
+_IntPolyBinomSum:=function(P)
+/*
+  Input:  an integer-valued polynomial P(t) with rational coefficients
+  Output: a sequence [a_0,a_1,..a_k] such that P(t)=\sum{i=0}^k a_i _Binom(t,k)
+*/
+  local a,f,i,j,S,t;
+  f:=P;t:=Parent(f).1;S:=[];
+  for i in [Degree(P)..0 by -1] do
+    if Degree(f) lt i then S:=S cat [0];continue;end if;
+    a:=Factorial(i)*LeadingCoefficient(f);Append(~S,a);f:=f-a*_Binomial(t,i);
+  end for;
+  S:=Reverse(S);return S;
+end function;
+
+/*  // test _IntPolyBinomSum is working correctly
+for i in [1..1000] do
+  S:=[Random([-5..5]): i in [1..20]];if S[#S] eq 0 then continue i;end if;
+  P:=&+[S[i]*_Binomial(t,i-1): i in [1..#S]]; // P is an int val poly of deg #S
+  f:=_IntPolyBinomSum(P);if f ne S then print <f,S>;end if;
+end for;
+*/
+
+_Sift:=function(G,g,s)
+/*
+  Input: a polycyclic group G, an element g of G, a sequence [g_1,g_2,..,g_n]
+    elements. Suppose G_i=<g_i,..,g_n> and for each i, G_i/G_{i+1} is cyclic
+    of order n_i where 1\ge n_i\le infinity, and assume that G_1 equals G.
+  Output: a sequence [e_1,...,e_n] such that g=g_1^{e_1}...g_n^{e_n} and
+    e_i in {0,1,...,n_i-1} when n_i is finite, otherwise e_i is an integer.
+*/
+  local C,E,e,f,h,I,i,j,Pi,Q,quot,n,S,x;
+  n:=#s;I:=[1..n];
+  S:=[sub<G| [s[j]: j in [i..n]]>: i in I] cat [sub<G|>];  // S[i] equals G_i
+  if S[1] ne G then error "_Sift: G_1 must equal G",G,S[1];end if;
+  C:=[IsNormal(S[i],S[i+1]): i in I];
+  if C ne [true: i in I] then
+    error "_Sift: G_{i+1} must be normal in G_i for all i in I",C;end if;
+  Q:=[];Pi:=[]; // Q[i] equals G_i/G_{i+1} and Pi[i] equals nat homo G_i-> G_i/G_{i+1}
+  for i in I do 
+    quot,f:=S[i]/S[i+1];Append(~Q,quot);Pi:=Pi cat [f]; // cat avoids a Magma error
+  end for;
+  C:=[IsCyclic(Q[i]): i in I];
+  if not C eq [true: i in I] then
+    error "_Sift: the quotients G_i/G_{i+1} must all be cyclic",C;end if;
+  h:=g;E:=[];  // at stage i, h in S[i] and h\equiv s[i]^E[i] mod G_{i+1}
+  for i in [1..n] do
+    x:=ElementToSequence(Pi[i](s[i]))[1];
+//  print <"i,h**",i,h, h in S[i],x,x*ElementToSequence(Pi[i](h))[1]>;
+    if Index(S[i],S[i+1]) eq 1 then Append(~E,0);continue i;end if;
+    if not (h in S[i]) then error "_Sift: h not in G_i",h,i;end if;
+    e:=ElementToSequence(Pi[i](h))[1];h:=s[i]^(-e*x)*h;Append(~E,e*x);
+  end for;
+  return E;
+end function;
+
+// --------------------------------------------------------------------------
+
+/*
+  The following code generates data for Table 4.1 which is used in the proof
+  of Theorem 4.13. The code takes a long time for c=7, so the output is
+  listed in the sequence E below.
+*/
+
+F<x,y>:=FreeGroup(2);Q:=Rationals();P<t>:=PolynomialAlgebra(Q);
+for c in [1..6] do  // c is the nilpotency class
+  G:=NilpotentQuotient(F,c);
+  x:=G.1;k:=G.2;
+  if c eq 1 then s:=[x,k];end if;
+  g3:=(k,x);
+  if c eq 2 then s:=[x,k,g3];end if;
+  g4:=(k,x,x);g5:=(k,x,k);
+  if c eq 3 then s:=[x,k,g3,g4,g5];end if;
+  g6:=(k,x,x,x);g7:=(k,x,x,k);g8:=(k,x,k,k);
+  if c eq 4 then s:=[x,k,g3,g4,g5,g6,g7,g8];end if;
+  g9:=(k,x,x,x,x);g10:=(k,x,x,x,k);g11:=(k,x,x,k,k);
+  g12:=(k,x,k,k,k);g13:=(k,x,x,(k,x));g14:=(k,x,k,(k,x));
+  if c eq 5 then s:=[x,k,g3,g4,g5,g6,g7,g8,g9,g10,g11,g12,g13,g14];end if;
+  g15:=(k,x,x,x,x,x);g16:=(k,x,x,x,x,k);g17:=(k,x,x,x,k,k);
+  g18:=(k,x,x,k,k,k);g19:=(k,x,k,k,k,k);g20:=(k,x,x,x,(k,x));
+  g21:=(k,x,x,k,(k,x));g22:=(k,x,k,k,(k,x));g23:=(k,x,k,(k,x,x));
+  if c eq 6 then s:=[x,k,g3,g4,g5,g6,g7,g8,g9,g10,g11,g12,g13,g14,g15,
+    g16,g17,g18,g19,g20,g21,g22,g23];end if;
+  g24:=(k,x,x,x,x,x,x);g25:=(k,x,x,x,x,x,k);g26:=(k,x,x,x,x,k,k);
+  g27:=(k,x,x,x,k,k,k);g28:=(k,x,x,k,k,k,k);g29:=(k,x,k,k,k,k,k);
+  g30:=(k,x,x,x,x,(k,x));g31:=(k,x,x,x,k,(k,x));g32:=(k,x,x,k,k,(k,x));
+  g33:=(k,x,k,k,k,(k,x));g34:=(k,x,x,(k,x),(k,x));g35:=(k,x,k,(k,x),(k,x));
+  g36:=(k,x,x,x,(k,x,x));g37:=(k,x,x,k,(k,x,x));g38:=(k,x,k,k,(k,x,x));
+  g39:=(k,x,x,x,(k,x,k));g40:=(k,x,x,k,(k,x,k));g41:=(k,x,k,k,(k,x,k));
+  if c eq 7 then s:=[x,k,g3,g4,g5,g6,g7,g8,g9,g10,g11,g12,g13,g14,g15,
+    g16,g17,g18,g19,g20,g21,g22,g23,g24,g25,g26,g27,g28,g29,g30,g31,g32,g33,
+    g34,g35,g36,g37,g38,g39,g40,g41];end if;
+  m:=#s;  // m+1 function values determine a degree poly of degree at most m
+  I:=[0..m];
+  Xvals:=[Q!i: i in I];Yvals:=[[0: i in I]: i in I]; // rational values
+  polys:=[P!0: i in [1..m]];   // these m polynomials interpolate the m+1 values
+  for n in [0..m] do
+    x:=G.1;k:=G.2;
+    if n eq 0 then g:=G!1;else g:=&*[x*k^(n-i): i in [1..n]];end if;
+    // coerce so Yvals[i] is a sequence with rational entries
+    Yvals[n+1]:=_Sift(G,g,s);//ElementToSequence(g);
+   end for;
+  // print "Xvals,Yvals=",Xvals,Yvals;
+  for n in [1..m] do
+    polys[n]:=P!Interpolation(Xvals,[Q!Yvals[i+1][n]: i in I]);
+  end for;
+  print <c,[_IntPolyBinomSum(polys[i]): i in [1..m]]>;
+end for;
+
+// Data for Table 4.1 of BBDFG. The ith row is the commutator R_i. The jth
+// entry of E[j] is for j=0,1,...,m_i. Note that Table 4.1 starts with j=1.
+E:=[
+[ 0,1 ],
+[ 0,0,1 ],
+[ 0,0,1,2 ],
+[ 0,0,0,2,3 ],
+[ 0,0,0,6,18,12 ],
+[ 0,0,0,0,3,4 ],
+[ 0,0,0,3,27,54,30 ],
+[ 0,0,0,2,51,184,225,90 ],
+[ 0,0,0,0,0,4,5 ],
+[ 0,0,0,0,12,72,120,60 ],
+[ 0,0,0,1,54,378,910,900,315 ],
+[ 0,0,0,0,45,600,2325,3870,2940,840 ],
+[ 0,0,0,4,63,220,280,120 ],
+[ 0,0,0,17,291,1394,2800,2520,840 ],
+[ 0,0,0,0,0,0,5,6 ],
+[ 0,0,0,0,0,30,150,225,105 ],
+[ 0,0,0,0,19,324,1540,3020,2625,840 ],
+[ 0,0,0,0,45,990,6150,16650,22365,14700,3780 ],
+[ 0,0,0,0,18,912,9015,35946,72030,77280,42525,9450 ],
+[ 0,0,0,0,24,228,645,720,280 ],
+[ 0,0,0,7,297,2610,9010,14670,11340,3360 ],
+[ 0,0,0,7,555,6898,33115,77970,96565,60480,15120 ],
+[ 0,0,0,10,264,2004,6640,10770,8400,2520 ],
+[ 0,0,0,0,0,0,0,6,7 ],
+[ 0,0,0,0,0,0,60,270,378,168 ],
+[ 0,0,0,0,0,100,1175,4575,7910,6300,1890 ],
+[ 0,0,0,0,15,720,7800,34500,76125,89040,52920,12600 ],
+[ 0,0,0,0,18,1404,20310,116910,341901,558600,517860,255150,51975],
+[ 0,0,0,0,3,824,19825,164184,662774,1501024,2012850,1590750,686070,124740 ],
+[ 0,0,0,0,0,80,605,1506,1540,560 ],
+[ 0,0,0,0,102,2102,13270,37485,53095,36960,10080 ],
+[ 0,0,0,3,529,11106,82250,292310,561120,597520,332640,75600 ],
+[ 0,0,0,0,486,16530,170265,816624,2141223,3265500,2895480,1386000,277200 ],
+[ 0,0,0,3,294,3930,19655,47760,60865,39200,10080 ],
+[ 0,0,0,19,1512,23238,144975,463290,829220,841960,453600,100800],
+[ 0,0,0,0,15,276,1340,2724,2485,840 ],
+[ 0,0,0,2,228,3306,17870,46500,62790,42420,11340 ],
+[ 0,0,0,4,488,8864,62035,216160,413455,441840,247590,56700 ],
+[ 0,0,0,0,48,1150,7670,22185,31745,22176,6048 ],
+[ 0,0,0,4,677,13788,100500,353980,676011,717864,399168,90720 ],
+[ 0,0,0,6,1410,36550,338965,1545696,3947181,5935692,5226228,2494800,498960 ]
+];
+
+// It is better to view the exponent polynomials as linear combinations of
+// binomials Binomial(t,j) than as polynomials t (t is like n in the paper).
+
+for i in [1..#E] do if #E[i] gt 9 then print <i,E[i][10] mod 3>;end if;end for;
+S:=[sub<G|[s[j]: j in [i..#s]]>: i in [1..#s+1]];
+print [Index(S[i],S[i+1]):i in [1..#s]];
+Q:=Rationals();P<t>:=PolynomialAlgebra(Q);
+for i in [1..#E] do
+  poly:=&+[E[i][j]*_Binomial(t,j-1): j in [1..#E[i]]];
+  denom:=Lcm([Denominator(Coefficient(poly,j)): j in [0..Degree(poly)]]);
+  print <i,Factorization(denom)>;
+end for;
+
+//----------------------------------------------------------------------------
