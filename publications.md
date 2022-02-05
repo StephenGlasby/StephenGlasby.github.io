@@ -4,14 +4,20 @@ title: Publications
 permalink: /publications/
 ---
 
+- [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
+[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+Subgroups of classical groups that are transitive on subspaces.
+[arXiv](https://arxiv.org/abs/2012.07213)
+
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
+[Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Random generation of direct sums of finite non-degenerate subspaces,
 [arXiv](https://arxiv.org/abs/2111.02198)
 
 - Faezeh Alizadeh,
-[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Sequences of linear codes where the rate times distance grows rapidly,
 [arXiv](https://arxiv.org/abs/2110.01277)
@@ -22,7 +28,7 @@ On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
 [arXiv](https://arxiv.org/abs/2109.11396)
 
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
+[Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 The probability of spanning a classical space by two non-degenerate subspaces
 of complementary dimension,
@@ -31,7 +37,7 @@ of complementary dimension,
 - [Dominik Bernhardt](https://www.mathematik.rwth-aachen.de/go/id/bkbg/gguid/0xF033AE30691E4645A7355F6BBD82B37D/ikz/11/allou/1),
 [Tim Boykett](http://www.algebra.uni-linz.ac.at/~tim/),
 [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
-[Johannes Flake](https://johannesflake.github.io/),
+[Johannes Flake](https://johannesflake.github.io/) and
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 The groups *G* satisfying a functional equation
 *f(xk) = xf(x)* for some *k ∈ G*,
