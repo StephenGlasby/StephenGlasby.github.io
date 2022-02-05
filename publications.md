@@ -398,7 +398,8 @@ in Groups St Andrews 1997 in Bath, I, Edited by C.M. Campbell
 Writing representations over minimal fields (with 
 <a href="http://www.maths.usyd.edu.au:8000/u/bobh/"> R.B. Howlett</a> ),
 *Comm. Algebra* **25** (1997), 1703--1712.
-<a href="PAPER15.PDF"> pdf</a>
+<a href="PAPER15.PDF"> pdf</a> | 
+[arXiv](https://arXiv:1405.7236)
 
 + [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Irreducible modules and normal subgroups of prime index (with
