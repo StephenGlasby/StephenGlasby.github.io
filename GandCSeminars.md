@@ -51,7 +51,16 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 **Title:** Neighbour-transitive codes in generalised quadrangles <br><br>       **Abstract:**  A code C in an arbitrary graph \varGamma is a subset of the vertex set of \varGamma. The minimum distance \delta of a code C is the smallest distance between a pair of distinct elements of C and the graph metric gives rise to a partition {C_0,C_1,\ldots,C_\rho} of the vertices of \varGamma where C_0=C and \rho is the maximum distance between any vertex of \varGamma and its nearest element in C. In this talk we consider the case where \varGamma is the point-line incidence graph of a generalised quadrangle {\mathcal Q} and we say that C is a code in the generalised quadrangle {\mathcal Q}. Since the diameter of \varGamma is 4, both \rho and \delta are at most 4. If \delta=4 then C is a partial ovoid or partial spread of {\mathcal Q}, and if, additionally, \rho=2 then C is an ovoid or a spread. A code C in {\mathcal Q} is neighbour-transitive if its automorphism group acts transitively on each of the sets C and C_1. The talk includes some examples, some partial classification results and some open questions. |
 
 
-|**Time and Place:** 4pm Fri 03 December 2021, Weatherburn LT<br>                 **Speaker:** <br>                 **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 01 April 2022, Weatherburn LT<br>                 **Speaker:** Michael Giudici<br>                 **Title:**  <br><br>                    **Abstract:**  |
+
+
+|**Time and Place:** 4pm Fri 22 April 2021, Weatherburn LT<br>                 **Speaker:** Heiko Dietrich<br>                 **Title:**  <br><br>                    **Abstract:**  |
+
+
+|**Time and Place:** 4pm Fri 06 May 2022, Weatherburn LT<br>                 **Speaker:** Pablo Spiga<br>                 **Title:**  <br><br>                    **Abstract:**  |
+
+
+|**Time and Place:** 4pm Fri 20 May 2022, Weatherburn LT<br>                 **Speaker:** Andrea Lucchini<br>                 **Title:**  <br><br>                    **Abstract:**  |
 
 
 
