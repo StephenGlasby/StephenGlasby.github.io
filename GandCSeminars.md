@@ -8,8 +8,8 @@ The Centre organises a number of open seminars, public lectures, and events.<br 
 ​
 The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16:00. There will be `cake' in the Mathematics and Statistics tea room at 15:40 beforehand, and after 17:05 we go to the University Club for a drink. Everyone is welcome to join us. Please email the seminar convener <Stephen.Glasby@uwa.edu.au> if you would like to give a seminar.
 
-<hr><\hr>
-<b> 2021 Seminars<\b>
+<hr></hr>
+<h2> 2021 Seminars</h2>
 
 |**Speaker:** Stephen Glasby (University of Western Australia)<br />**Title:** Recognizing simple groups: alternating and classical<br />**Time and place:** 26 Feb 2021, 4pm at Weatherburn LT<br /><br />**Abstract:**  The structure of a non-solvable finite group is strongly influenced by its non-abelian composition factors.  A central problem in computational group theory, therefore, involves quickly recognizing non-abelian simple composition factors. I will consider the most commonly occurring non-abelian simple groups namely the alternating (Alt_n) or the classical groups (PSL_d(q), PSp_d(q), PSU_d(q), POmega_d(q)).  The idea is to find by random selection group elements with certain properties including being relatively abundant. This is joint work with Niemeyer, Praeger and Unger.|
 
