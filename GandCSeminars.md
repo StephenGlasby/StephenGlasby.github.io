@@ -8,7 +8,25 @@ The Centre organises a number of open seminars, public lectures, and events.<br 
 ​
 The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16:00. There will be `cake' in the Mathematics and Statistics tea room at 15:40 beforehand, and after 17:05 we go to the University Club for a drink. Everyone is welcome to join us. Please email the seminar convener <Stephen.Glasby@uwa.edu.au> if you would like to give a seminar.
 
-<hr></hr>
+<h2> 2022 Seminars</h2>
+
+|**Time and Place:** 4pm Fri 25 March 2022, Weatherburn LT<br>                 **Speaker:** Tony Li<br>                 **Title:**  The chromatic polynomial of a graph and its roots<br><br>                    **Abstract:**  |
+
+|**Time and Place:** 4pm Fri 01 April 2022, Weatherburn LT<br>                 **Speaker:** Michael Giudici<br>                 **Title:**  <br><br>                    **Abstract:**  |
+
+
+|**Time and Place:** 4pm Fri 22 April 2021, Weatherburn LT<br>                 **Speaker:** Heiko Dietrich<br>                 **Title:**  <br><br>                    **Abstract:**  |
+
+
+|**Time and Place:** 4pm Fri 06 May 2022, Weatherburn LT<br>                 **Speaker:** Pablo Spiga<br>                 **Title:**  <br><br>                    **Abstract:**  |
+
+
+|**Time and Place:** 4pm Fri 20 May 2022, Weatherburn LT<br>                 **Speaker:** Andrea Lucchini<br>                 **Title:**  <br><br>                    **Abstract:**  |
+
+
+
+
+
 <h2> 2021 Seminars</h2>
 
 |**Speaker:** Stephen Glasby (University of Western Australia)<br />**Title:** Recognizing simple groups: alternating and classical<br />**Time and place:** 26 Feb 2021, 4pm at Weatherburn LT<br /><br />**Abstract:**  The structure of a non-solvable finite group is strongly influenced by its non-abelian composition factors.  A central problem in computational group theory, therefore, involves quickly recognizing non-abelian simple composition factors. I will consider the most commonly occurring non-abelian simple groups namely the alternating (Alt_n) or the classical groups (PSL_d(q), PSp_d(q), PSU_d(q), POmega_d(q)).  The idea is to find by random selection group elements with certain properties including being relatively abundant. This is joint work with Niemeyer, Praeger and Unger.|
@@ -52,22 +70,5 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 
 |**Time and Place:** 4pm Fri 26 November 2021, Weatherburn LT<br>               **Speaker:** Dan Hawtin (University of Rijeka)<br>
 **Title:** Neighbour-transitive codes in generalised quadrangles <br><br>       **Abstract:**  A code C in an arbitrary graph \varGamma is a subset of the vertex set of \varGamma. The minimum distance \delta of a code C is the smallest distance between a pair of distinct elements of C and the graph metric gives rise to a partition {C_0,C_1,\ldots,C_\rho} of the vertices of \varGamma where C_0=C and \rho is the maximum distance between any vertex of \varGamma and its nearest element in C. In this talk we consider the case where \varGamma is the point-line incidence graph of a generalised quadrangle {\mathcal Q} and we say that C is a code in the generalised quadrangle {\mathcal Q}. Since the diameter of \varGamma is 4, both \rho and \delta are at most 4. If \delta=4 then C is a partial ovoid or partial spread of {\mathcal Q}, and if, additionally, \rho=2 then C is an ovoid or a spread. A code C in {\mathcal Q} is neighbour-transitive if its automorphism group acts transitively on each of the sets C and C_1. The talk includes some examples, some partial classification results and some open questions. |
-
-
-|**Time and Place:** 4pm Fri 01 April 2022, Weatherburn LT<br>                 **Speaker:** Michael Giudici<br>                 **Title:**  <br><br>                    **Abstract:**  |
-
-
-|**Time and Place:** 4pm Fri 22 April 2021, Weatherburn LT<br>                 **Speaker:** Heiko Dietrich<br>                 **Title:**  <br><br>                    **Abstract:**  |
-
-
-|**Time and Place:** 4pm Fri 06 May 2022, Weatherburn LT<br>                 **Speaker:** Pablo Spiga<br>                 **Title:**  <br><br>                    **Abstract:**  |
-
-
-|**Time and Place:** 4pm Fri 20 May 2022, Weatherburn LT<br>                 **Speaker:** Andrea Lucchini<br>                 **Title:**  <br><br>                    **Abstract:**  |
-
-
-
-
-
 
 
