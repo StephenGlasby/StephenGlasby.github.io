@@ -20,7 +20,7 @@ Random generation of direct sums of finite non-degenerate subspaces,
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Sequences of linear codes where the rate times distance grows rapidly,
-[arXiv](https://arxiv.org/abs/2110.01277)
+*J. Algebra Comb. Discrete Struct. Appl.*  **XXX**(XXX) (2022), XXX--XXX. [arXiv](https://arxiv.org/abs/2110.01277)
 
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 G.R. Paseman,
