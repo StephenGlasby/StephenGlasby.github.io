@@ -3,6 +3,12 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+[Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
+Saul D. Freedman,
+[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger), and
+[Gordon F. Royle](https://www.uwa.edu.au/people/gordon.royle),
+Tournaments and Even Graphs are Equinumerous.
 
 - [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
@@ -37,7 +43,7 @@ of complementary dimension,
 
 - [Dominik Bernhardt](https://www.mathematik.rwth-aachen.de/go/id/bkbg/gguid/0xF033AE30691E4645A7355F6BBD82B37D/ikz/11/allou/1),
 [Tim Boykett](http://www.algebra.uni-linz.ac.at/~tim/),
-[Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
+[Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
 [Johannes Flake](https://johannesflake.github.io/) and
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 The groups *G* satisfying a functional equation
@@ -96,7 +102,7 @@ Classifying uniformly generated groups,
 [arXiv](https://arxiv.org/abs/1901.06480) | 
 [DOI](https://doi.org/10.1080/00927872.2019.1632333)
 
-+ [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
++ [Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Roots of unity and unreasonable differentiation,
 *Archiv der Mathematik* **113**(4) (2019), 367--371.
