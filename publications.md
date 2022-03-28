@@ -3,12 +3,13 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-[Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
+- [Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
 Saul D. Freedman,
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger), and
 [Gordon F. Royle](https://www.uwa.edu.au/people/gordon.royle),
-Tournaments and Even Graphs are Equinumerous.
+Tournaments and even graphs are equinumerous.
+[arXiv](https://arxiv.org/abs/xxx.xxxxx)
 
 - [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
