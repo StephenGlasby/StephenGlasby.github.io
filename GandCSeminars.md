@@ -16,8 +16,7 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 
 <h2> Upcoming 2022 Seminars (details may change)</h2>
 
-|**Time and Place:** 4pm Fri 22 April 2021, Weatherburn LT<br>                 **Speaker:** Heiko Dietrich (Monash University)<br>                 **Title:**  Computing with groups<br><br>                    **Abstract:** Many groups (and other algebraic structures) can be described concisely by small generating sets, which makes them suitable for machine computations. My talk will report on some common ways to describe groups for a computer, and then
-focus on some specific results: this could be classical results for permutation groups, recent results from the so-called Matrix Group Recognitions Projects, and/or a survey of known and new quotient algorithms.|
+|**Time and Place:** 4pm Fri 22 April 2021, Weatherburn LT<br>                 **Speaker:** Heiko Dietrich (Monash University)<br>                 **Title:**  Computing with groups<br><br>                    **Abstract:** Many groups (and other algebraic structures) can be described concisely by small generating sets, which makes them suitable for machine computations. My talk will report on some common ways to describe groups for a computer, and then focus on some specific results: this could be classical results for permutation groups, recent results from the so-called Matrix Group Recognitions Projects, and/or a survey of known and new quotient algorithms.|
 
 
 |**Time and Place:** 4pm Fri 06 May 2022, Weatherburn LT<br>                 **Speaker:** Pablo Spiga<br>                 **Title:**  <br><br>                    **Abstract:**  |
