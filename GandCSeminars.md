@@ -12,21 +12,21 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 
 |**Time and Place:** 4pm Fri 25 March 2022, MS Teams<br>                 **Speaker:** Tony Li (University of Western Australia)<br>                 **Title:**  The chromatic polynomial of a graph and its roots<br><br>                    **Abstract:**  |
 
-|**Time and Place:** 4pm Fri 01 April 2022, Weatherburn LT<br>                 **Speaker:** Michael Giudici (University of Western Australia)<br>                 **Title:**  $2$-closed groups and automorphism groups of digraphs<br><br>                    **Abstract:** Wielandt introduced the notion of the 2-closure of a permutation group $G$ on a set $\Omega$. This is the largest subgroup of $\mathrm{Sym}(\Omega)$ with the same set of orbits on ordered pairs as $G$. We say that $G$ is 2-closed if $G$ is equal to its 2-closure. The automorphism group of a graph or digraph is a 2-closed group. In this talk I will discuss some recent work with Luke Morgan and Jin-Xin Zhou on 2-closed groups that are not the automorphism group of a graph or digraph.|
+|**Time and Place:** 4pm Fri 01 April 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Michael Giudici (University of Western Australia)<br>                 **Title:**  $2$-closed groups and automorphism groups of digraphs<br><br>                    **Abstract:** Wielandt introduced the notion of the 2-closure of a permutation group $G$ on a set $\Omega$. This is the largest subgroup of $\mathrm{Sym}(\Omega)$ with the same set of orbits on ordered pairs as $G$. We say that $G$ is 2-closed if $G$ is equal to its 2-closure. The automorphism group of a graph or digraph is a 2-closed group. In this talk I will discuss some recent work with Luke Morgan and Jin-Xin Zhou on 2-closed groups that are not the automorphism group of a graph or digraph.|
 
 <h2> Upcoming 2022 Seminars (details may change)</h2>
 
-|**Time and Place:** 4pm Fri 22 April 2021, Weatherburn LT<br>                 **Speaker:** Heiko Dietrich (Monash University)<br>                 **Title:**  Computing with groups<br><br>                    **Abstract:** Many groups (and other algebraic structures) can be described concisely by small generating sets, which makes them suitable for machine computations. My talk will report on some common ways to describe groups for a computer, and then focus on some specific results: this could be classical results for permutation groups, recent results from the so-called Matrix Group Recognitions Projects, and/or a survey of known and new quotient algorithms.|
+|**Time and Place:** 4pm Fri 22 April 2021, Weatherburn LT, MS Teams<br>                 **Speaker:** Heiko Dietrich (Monash University)<br>                 **Title:**  Computing with groups<br><br>                    **Abstract:** Many groups (and other algebraic structures) can be described concisely by small generating sets, which makes them suitable for machine computations. My talk will report on some common ways to describe groups for a computer, and then focus on some specific results: this could be classical results for permutation groups, recent results from the so-called Matrix Group Recognitions Projects, and/or a survey of known and new quotient algorithms.|
 
 
-|**Time and Place:** 4pm Fri 06 May 2022, Weatherburn LT<br>                 **Speaker:** Pablo Spiga<br>                 **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 06 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Pablo Spiga<br>                 **Title:**  <br><br>                    **Abstract:**  |
 
 
-|**Time and Place:** 4pm Fri 20 May 2022, Weatherburn LT<br>                 **Speaker:** Andrea Lucchini<br>                 **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 20 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Andrea Lucchini<br>                 **Title:**  <br><br>                    **Abstract:**  |
 
-|**Time and Place:** 4pm Fri 03 June 2022, Weatherburn LT<br>                 **Speaker:** Alice Devillers (University of Western Australia)<br>                 **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 03 June 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Alice Devillers (University of Western Australia)<br>                 **Title:**  <br><br>                    **Abstract:**  |
 
-|**Time and Place:** 4pm Fri ** *** 2022, Weatherburn LT<br>                 **Speaker:** Anton Baykalov (University of Western Australia)<br>                 **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri XX XXX 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Anton Baykalov (University of Western Australia)<br>        Title:**  <br><br>                    **Abstract:**  |
 
 
 
