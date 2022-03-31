@@ -32,7 +32,7 @@ Sequences of linear codes where the rate times distance grows rapidly,
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 G.R. Paseman,
 On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
-*Electon. J. Comb.* **XXX**(XXX) (2022), XXX--XXX.
+*Electon. J. Comb.* **29**(1) (2022), #P1.68.
 [arXiv](https://arxiv.org/abs/2109.11396)
 
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
