@@ -3,13 +3,14 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-- [Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
-Saul D. Freedman,
+
+- [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
+[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger), and
-[Gordon F. Royle](https://www.uwa.edu.au/people/gordon.royle),
+Saul D. Freedman,
+[Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
 Tournaments and even graphs are equinumerous.
-[arXiv](https://arxiv.org/abs/xxx.xxxxx)
+[arXiv](http://arxiv.org/abs/2204.01947)
 
 - [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
@@ -27,12 +28,11 @@ Random generation of direct sums of finite non-degenerate subspaces,
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Sequences of linear codes where the rate times distance grows rapidly,
-*J. Algebra Comb. Discrete Struct. Appl.*  **XXX**(XXX) (2022), XXX--XXX. [arXiv](https://arxiv.org/abs/2110.01277)
+[arXiv](https://arxiv.org/abs/2110.01277)
 
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 G.R. Paseman,
 On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
-*Electon. J. Comb.* **29**(1) (2022), #P1.68.
 [arXiv](https://arxiv.org/abs/2109.11396)
 
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
@@ -44,7 +44,7 @@ of complementary dimension,
 
 - [Dominik Bernhardt](https://www.mathematik.rwth-aachen.de/go/id/bkbg/gguid/0xF033AE30691E4645A7355F6BBD82B37D/ikz/11/allou/1),
 [Tim Boykett](http://www.algebra.uni-linz.ac.at/~tim/),
-[Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
+[Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
 [Johannes Flake](https://johannesflake.github.io/) and
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 The groups *G* satisfying a functional equation
@@ -63,6 +63,14 @@ Most permutations power to a cycle of small prime length,
 [arXiv](https://arxiv.org/abs/1911.12613) |
 [DOI](https://doi.org/10.1017/S0013091521000110)
 
+- [Mariagrazia Bianchi](https://www.unimi.it/en/ugov/person/mariagrazia-bianchi),
+[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/)
+and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+Conjugacy class sizes in arithmetic progression
+*J. Group Theory* **23**(6) (2020), 1039--1056.
+[pdf](https://staffhome.ecm.uwa.edu.au/~00059629/BianchiGlasbyPraegerConjugacyClassSizesInAP.pdf) | [arXiv](https://arxiv.org/abs/2003.03906) |
+[DOI](https://doi.org/10.1515/jgth-2020-0046)
+
 +  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 E. Pierro and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
@@ -71,14 +79,6 @@ linear groups,
 *Ars Math. Contemp.* **21** (2021), #P2.10.
 [arXiv](https://arxiv.org/abs/2012.04189) | 
 [DOI](https://doi.org/10.26493/1855-3974.2049.3db)
-
-- [Mariagrazia Bianchi](https://www.unimi.it/en/ugov/person/mariagrazia-bianchi),
-[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/)
-and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
-Conjugacy class sizes in arithmetic progression
-*J. Group Theory* **23**(6) (2020), 1039--1056.
-[pdf](https://staffhome.ecm.uwa.edu.au/~00059629/BianchiGlasbyPraegerConjugacyClassSizesInAP.pdf) | [arXiv](https://arxiv.org/abs/2003.03906) |
-[DOI](https://doi.org/10.1515/jgth-2020-0046)
 
 +   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger)
@@ -103,7 +103,7 @@ Classifying uniformly generated groups,
 [arXiv](https://arxiv.org/abs/1901.06480) | 
 [DOI](https://doi.org/10.1080/00927872.2019.1632333)
 
-+ [Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
++ [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Roots of unity and unreasonable differentiation,
 *Archiv der Mathematik* **113**(4) (2019), 367--371.
@@ -406,8 +406,7 @@ in Groups St Andrews 1997 in Bath, I, Edited by C.M. Campbell
 Writing representations over minimal fields (with 
 <a href="http://www.maths.usyd.edu.au:8000/u/bobh/"> R.B. Howlett</a> ),
 *Comm. Algebra* **25** (1997), 1703--1712.
-<a href="PAPER15.PDF"> pdf</a> | 
-[arXiv](https://arXiv:1405.7236)
+<a href="PAPER15.PDF"> pdf</a>
 
 + [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Irreducible modules and normal subgroups of prime index (with
