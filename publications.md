@@ -125,7 +125,7 @@ Frederico A. M. Ribeiro,
 [Csaba Schneider](http://www.sztaki.hu/~schneider/),
 Duality between *p*-groups with three characteristic subgroups and
 semisimple anti-commutative algebras,
-*Proc. R. Soc. Edinb.* **150**(4) (2020), 1827--1852. 
+*Proc. R. Soc. Edinb.* **150**(4) (2019), 1827--1852. 
   <a href="https://arxiv.org/abs/1711.04998"> arXiv</a> |
   <a href="https://doi.org/10.1017/prm.2018.159"> DOI</a>
 
