@@ -24,6 +24,13 @@ Subgroups of classical groups that are transitive on subspaces.
 Random generation of direct sums of finite non-degenerate subspaces,
 [arXiv](https://arxiv.org/abs/2111.02198)
 
+- [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
+[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+The probability of spanning a classical space by two non-degenerate subspaces
+of complementary dimension,
+[arXiv](https://arxiv.org/abs/2109.10015)
+
 - Faezeh Alizadeh,
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
@@ -34,13 +41,6 @@ Sequences of linear codes where the rate times distance grows rapidly,
 G.R. Paseman,
 On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
 [arXiv](https://arxiv.org/abs/2109.11396)
-
-- [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
-[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
-The probability of spanning a classical space by two non-degenerate subspaces
-of complementary dimension,
-[arXiv](https://arxiv.org/abs/2109.10015)
 
 - [Dominik Bernhardt](https://www.mathematik.rwth-aachen.de/go/id/bkbg/gguid/0xF033AE30691E4645A7355F6BBD82B37D/ikz/11/allou/1),
 [Tim Boykett](http://www.algebra.uni-linz.ac.at/~tim/),
