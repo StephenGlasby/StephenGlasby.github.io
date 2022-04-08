@@ -4,19 +4,24 @@ title: Groups and Combinatorics Seminars
 permalink: /GandCSeminars/
 ---
 
-The Centre organises a number of open seminars, public lectures, and events.<br /><br />
+The Centre for the Mathematics of Symmetry and Computation organises a number of open seminars, public lectures, and events.<br /><br />
 ​
 The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16:00. There will be `cake' in the Mathematics and Statistics tea room at 15:40 beforehand, and after 17:05 we go to the University Club for a drink. Everyone is welcome to join us. Please email the seminar convener <Stephen.Glasby@uwa.edu.au> if you would like to give a seminar.
 
 <h2> 2022 Seminars</h2>
 
-|**Time and Place:** 4pm Fri 25 March 2022, MS Teams<br>                 **Speaker:** Tony Li (University of Western Australia)<br>                 **Title:**  The chromatic polynomial of a graph and its roots<br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 25 March 2022, MS Teams<br>                 **Speaker:** Tony Li (University of Western Australia)<br>                 **Title:**  The chromatic polynomial of a graph and its roots<br><br> |
 
 |**Time and Place:** 4pm Fri 01 April 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Michael Giudici (University of Western Australia)<br>                 **Title:**  $2$-closed groups and automorphism groups of digraphs<br><br>                    **Abstract:** Wielandt introduced the notion of the 2-closure of a permutation group $G$ on a set $\Omega$. This is the largest subgroup of $\mathrm{Sym}(\Omega)$ with the same set of orbits on ordered pairs as $G$. We say that $G$ is 2-closed if $G$ is equal to its 2-closure. The automorphism group of a graph or digraph is a 2-closed group. In this talk I will discuss some recent work with Luke Morgan and Jin-Xin Zhou on 2-closed groups that are not the automorphism group of a graph or digraph.|
 
 <h2> Upcoming 2022 Seminars (details may change)</h2>
 
-|**Time and Place:** 4pm Fri 22 April 2021, Weatherburn LT, MS Teams<br>                 **Speaker:** Heiko Dietrich (Monash University)<br>                 **Title:**  Computing with groups<br><br>                    **Abstract:** Many groups (and other algebraic structures) can be described concisely by small generating sets, which makes them suitable for machine computations. My talk will report on some common ways to describe groups for a computer, and then focus on some specific results: this could be classical results for permutation groups, recent results from the so-called Matrix Group Recognitions Projects, and/or a survey of known and new quotient algorithms.|
+|**Time and Place:** 4pm Fri 22 April 2021, Weatherburn LT, MS Teams<br>                 **Speaker:** Heiko Dietrich (Monash University)<br>                 **Title:**  Computing with groups<br><br>                    **Abstract:** Many groups (and other algebraic structures) can be described concisely by small generating sets, which makes them suitable for machine computations. My talk will report on some common ways to describe groups for a computer and how to compute them, and then focus on a survey of known and new quotient algorithms.|
+
+The Maths and Stastistics Coloquium on *Thursday 28 May* will be by Heiko Dietrich.
+
+|**Time and Place:** 4pm Thu 28 2022, XX LT, MS Teams<br>                 **Speaker:** Heiko Dietrich (Monash University)<br>                 **Title:**  An update on group isomorphism<br><br>                    **Abstract:** Two groups are isomorphic if there is a 1-to-1 correspondence between their elements that preserves the group operations. Isomorphic groups essentially describe the same data, but they might be given with respect to different frameworks of reference. The group isomorphism problem is a decision problem that asks whether two given groups are isomorphic. This problem is of interest in theoretical computer science (with focus on the complexity of the problem) and in computational group theory (with focus on practical algorithms). My talk will survey some known results and comment on some recent new results, covering both complexity theory and practical applications to computer algebra systems. |
+
 
 
 |**Time and Place:** 4pm Fri 06 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Pablo Spiga<br>                 **Title:**  <br><br>                    **Abstract:**  |
