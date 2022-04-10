@@ -14,14 +14,13 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 
 |**Time and Place:** 4pm Fri 01 April 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Michael Giudici (University of Western Australia)<br>                 **Title:**  $2$-closed groups and automorphism groups of digraphs<br><br>                    **Abstract:** Wielandt introduced the notion of the 2-closure of a permutation group $G$ on a set $\Omega$. This is the largest subgroup of $\mathrm{Sym}(\Omega)$ with the same set of orbits on ordered pairs as $G$. We say that $G$ is 2-closed if $G$ is equal to its 2-closure. The automorphism group of a graph or digraph is a 2-closed group. In this talk I will discuss some recent work with Luke Morgan and Jin-Xin Zhou on 2-closed groups that are not the automorphism group of a graph or digraph.|
 
-<h2> Upcoming 2022 Seminars (details may change)</h2>
-
 |**Time and Place:** 4pm Fri 22 April 2021, Weatherburn LT, MS Teams<br>                 **Speaker:** Heiko Dietrich (Monash University)<br>                 **Title:**  Computing with groups<br><br>                    **Abstract:** Many groups (and other algebraic structures) can be described concisely by small generating sets, which makes them suitable for machine computations. My talk will report on some common ways to describe groups for a computer and how to compute them, and then focus on a survey of known and new quotient algorithms.|
 
-The Maths and Stastistics Coloquium on *Thursday 28 May* will be by Heiko Dietrich.
+<h2> Upcoming 2022 Seminars (details may change)</h2>
+
+The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Dietrich.
 
 |**Time and Place:** 4pm Thu 28 April 2022, XX LT, MS Teams<br>                 **Speaker:** Heiko Dietrich (Monash University)<br>                 **Title:**  An update on group isomorphism<br><br>                    **Abstract:** Two groups are isomorphic if there is a 1-to-1 correspondence between their elements that preserves the group operations. Isomorphic groups essentially describe the same data, but they might be given with respect to different frameworks of reference. The group isomorphism problem is a decision problem that asks whether two given groups are isomorphic. This problem is of interest in theoretical computer science (with focus on the complexity of the problem) and in computational group theory (with focus on practical algorithms). My talk will survey some known results and comment on some recent new results, covering both complexity theory and practical applications to computer algebra systems. |
-
 
 
 |**Time and Place:** 4pm Fri 06 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Pablo Spiga<br>                 **Title:**  <br><br>                    **Abstract:**  |
@@ -29,10 +28,11 @@ The Maths and Stastistics Coloquium on *Thursday 28 May* will be by Heiko Dietri
 
 |**Time and Place:** 4pm Fri 20 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Andrea Lucchini<br>                 **Title:**  <br><br>                    **Abstract:**  |
 
-|**Time and Place:** 4pm Fri 03 June 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Alice Devillers (University of Western Australia)<br>                 **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 03 Jun 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Cheryl Praeger (University of Western Australia)<br>        Title:**  <br><br>                    **Abstract:**  |
+
+|**Time and Place:** 4pm Fri 17 June 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Alice Devillers (University of Western Australia)<br>                 **Title:**  <br><br>                    **Abstract:**  |
 
 |**Time and Place:** 4pm Fri XX XXX 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Anton Baykalov (University of Western Australia)<br>        Title:**  <br><br>                    **Abstract:**  |
-
 
 
 
