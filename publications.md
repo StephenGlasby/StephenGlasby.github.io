@@ -28,20 +28,21 @@ Random generation of direct sums of finite non-degenerate subspaces,
 [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 The probability of spanning a classical space by two non-degenerate subspaces
-of complementary dimension,
+of complementary dimension, *Finite Fields Their Appl.* **XX**(X) (2022),
+XX--XX.
 [arXiv](https://arxiv.org/abs/2109.10015)
 
 - Faezeh Alizadeh,
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Sequences of linear codes where the rate times distance grows rapidly,
-*J. Algebra Comb. Discrete Struct. Appl.* **XXX**(X) (2022), XXX--XXX.
+*J. Algebra Comb. Discrete Struct. Appl.* **XX**(X) (2022), XX--XX.
 [arXiv](https://arxiv.org/abs/2110.01277)
 
 - [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 G.R. Paseman,
 On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
-*Electron. J. Combin.* **XXX**(X) (2022), XXX--XXX.
+*Electron. J. Combin.* **XX**(X) (2022), XX--XX.
 [arXiv](https://arxiv.org/abs/2109.11396)
 
 - [Dominik Bernhardt](https://www.mathematik.rwth-aachen.de/go/id/bkbg/gguid/0xF033AE30691E4645A7355F6BBD82B37D/ikz/11/allou/1),
@@ -51,7 +52,7 @@ On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 The groups *G* satisfying a functional equation
 *f(xk) = xf(x)* for some *k ∈ G*,
-*J. Group Theory* **XXX**(X) (2022), XXX--XXX.
+*J. Group Theory* **XX**(X) (2022), XX--XX.
 [arXiv](https://arxiv.org/abs/2105.09117) |
 [Magma code](https://research-repository.uwa.edu.au/en/datasets/magma-computer-program-for-j-groups-and-exponent-polynomials) |
 [DOI](http://doi.org/10.26182/x36d-3b55)
