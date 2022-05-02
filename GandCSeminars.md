@@ -16,14 +16,15 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 
 |**Time and Place:** 4pm Fri 22 April 2021, Weatherburn LT, MS Teams<br>                 **Speaker:** Heiko Dietrich (Monash University)<br>                 **Title:**  Computing with groups<br><br>                    **Abstract:** Many groups (and other algebraic structures) can be described concisely by small generating sets, which makes them suitable for machine computations. My talk will report on some common ways to describe groups for a computer and how to compute them, and then focus on a survey of known and new quotient algorithms.|
 
-<h2> Upcoming 2022 Seminars (details may change)</h2>
-
 The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Dietrich.
 
 |**Time and Place:** 4pm Thu 28 April 2022, XX LT, MS Teams<br>                 **Speaker:** Heiko Dietrich (Monash University)<br>                 **Title:**  Deciding that two groups are the same: an update on group isomorphism<br><br>                    **Abstract:** Groups are mathematical objects that abstractly capture the concept of symmetry. Two groups are isomorphic if they essentially describe the same data, but they might be given with respect to different frameworks of reference. More specifically, two groups are isomorphic if there is a 1-to-1 correspondence between their elements that preserves the group operations. The group isomorphism problem is a decision problem that asks whether two given groups are isomorphic. This problem is of interest in theoretical computer science (with focus on the complexity of the problem) and in computational group theory (with focus on practical algorithms). My talk will survey some known results and comment on some recent new results, covering both complexity theory and practical applications to computer algebra systems. |
 
 
 |**Time and Place:** 4pm Fri 06 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Pablo Spiga<br>                 **Title:** Erdos-Ko-Rado theorems for permutation groups <br><br>                    **Abstract:**  The Erdos-Ko-Rado theorem is a classical result in extremal set theory which has remarkable generalizations in various areas of mathematics.  In this talk, we are interested in a generalization of the Erdos-Ko-Rado theorem for permutation groups. In this talk, we review some of the early results of Erdos on intersecting sets of permutations and some recent developments. |
+
+<! -- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MOVE THIS LINE%%%%%%%%%%%%%%%%%%%%%%%%%-->
+<h2> Upcoming 2022 Seminars (details may change)</h2>
 
 
 |**Time and Place:** 4pm Fri 20 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Andrea Lucchini<br>                 **Title:**  <br><br>                    **Abstract:**  |
