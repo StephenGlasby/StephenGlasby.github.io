@@ -23,7 +23,7 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 
 |**Time and Place:** 4pm Fri 06 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Pablo Spiga (Università degli Studi di Milano-Bicocca)<br>                 **Title:** Erdős-Ko-Rado theorems for permutation groups <br><br>                    **Abstract:**  The Erdos-Ko-Rado theorem is a classical result in extremal set theory which has remarkable generalizations in various areas of mathematics.  In this talk, we are interested in a generalization of the Erdős-Ko-Rado theorem for permutation groups. In this talk, we review some of the early results of Erdős on intersecting sets of permutations and some recent developments. |
 
-<! -- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MOVE THIS LINE%%%%%%%%%%%%%%%%%%%%%%%%%-->
+<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MOVE THIS LINE%%%%%%%%%%%%%%%%%%%%%%%%%-->
 <h2> Upcoming 2022 Seminars (details may change)</h2>
 
 
