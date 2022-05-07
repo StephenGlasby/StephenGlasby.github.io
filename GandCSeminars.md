@@ -23,13 +23,15 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 
 |**Time and Place:** 4pm Fri 06 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Pablo Spiga (Università degli Studi di Milano-Bicocca)<br>                 **Title:** Erdős-Ko-Rado theorems for permutation groups <br><br>                    **Abstract:**  The Erdős-Ko-Rado theorem is a classical result in extremal set theory which has remarkable generalizations in various areas of mathematics.  In this talk, we are interested in a generalization of the Erdős-Ko-Rado theorem for permutation groups. In this talk, we review some of the early results of Erdős on intersecting sets of permutations and some recent developments. |
 
-<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MOVE THIS LINE%%%%%%%%%%%%%%%%%%%%%%%%%-->
-<h2> Upcoming 2022 Seminars (details may change)</h2>
-
 
 |**Time and Place:** 4pm Fri 20 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Andrea Lucchini<br>                 **Title:**  <br><br>                    **Abstract:**  |
 
+<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MOVE THIS LINE%%%%%%%%%%%%%%%%%%%%%%%%%-->
+<h2> Upcoming 2022 Seminars (details may change)</h2>
+
 |**Time and Place:** 4pm Fri 27 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Cheryl Praeger (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
+
+|**Time and Place:** 4pm Fri 27 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
 |**Time and Place:** 4pm Fri 17 June 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Alice Devillers (University of Western Australia)<br>                 **Title:**  <br><br>                    **Abstract:**  |
 
