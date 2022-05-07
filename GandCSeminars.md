@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Groups and Combinatorics Seminars
+title: GandC Seminars
 permalink: /GandCSeminars/
 ---
 
