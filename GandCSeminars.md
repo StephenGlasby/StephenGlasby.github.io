@@ -31,7 +31,7 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 
 |**Time and Place:** 4pm Fri 27 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Cheryl Praeger (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
-|**Time and Place:** 4pm Fri 27 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 03 June 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
 |**Time and Place:** 4pm Fri 17 June 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Alice Devillers (University of Western Australia)<br>                 **Title:**  <br><br>                    **Abstract:**  |
 
