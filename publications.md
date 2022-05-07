@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+<ol reversed>
+
 - [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
@@ -461,3 +463,4 @@ Intersecting subgroups of finite soluble groups. *J. Symbolic Comput.*
 *J. Austral. Math. Soc. Ser. A* **41** (1986), 233--236. 
 <a href="PAPER1.PDF"> pdf</a> 
 
+</ol>
