@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Publications
+title: Research
 permalink: /publications/
 ---
+
+<h1> Publications (and submitted papers) </h1>
+<h2> Publications (and submitted papers) </h2>
+<h3> Publications (and submitted papers) </h3>
+<h4> Publications (and submitted papers) </h4>
 
 0. [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
