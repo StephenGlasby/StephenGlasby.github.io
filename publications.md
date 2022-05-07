@@ -4,9 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<ol reversed>
-
-- [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
+60. [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Saul D. Freedman,
@@ -14,7 +12,7 @@ Saul D. Freedman,
 Tournaments and even graphs are equinumerous.
 [arXiv](http://arxiv.org/abs/2204.01947)
 
-- [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
+59. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Subgroups of classical groups that are transitive on subspaces.
@@ -463,4 +461,3 @@ Intersecting subgroups of finite soluble groups. *J. Symbolic Comput.*
 *J. Austral. Math. Soc. Ser. A* **41** (1986), 233--236. 
 <a href="PAPER1.PDF"> pdf</a> 
 
-</ol>
