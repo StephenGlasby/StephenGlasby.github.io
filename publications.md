@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Publications
+title: Publications and submitted papers
 permalink: /publications/
 ---
 
-60. [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
+0. [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Saul D. Freedman,
@@ -12,19 +12,19 @@ Saul D. Freedman,
 Tournaments and even graphs are equinumerous.
 [arXiv](http://arxiv.org/abs/2204.01947)
 
-59. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
+0. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Subgroups of classical groups that are transitive on subspaces.
 [arXiv](https://arxiv.org/abs/2012.07213)
 
-- [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Random generation of direct sums of finite non-degenerate subspaces,
 [arXiv](https://arxiv.org/abs/2111.02198)
 
-- [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 The probability of spanning a classical space by two non-degenerate subspaces
@@ -32,14 +32,14 @@ of complementary dimension, *Finite Fields Their Appl.* **XX**(X) (2022),
 XX--XX.
 [arXiv](https://arxiv.org/abs/2109.10015)
 
-- Faezeh Alizadeh,
+0. Faezeh Alizadeh,
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Sequences of linear codes where the rate times distance grows rapidly,
 *J. Algebra Comb. Discrete Struct. Appl.* **XX**(X) (2022), XX--XX.
 [arXiv](https://arxiv.org/abs/2110.01277)
 
-- [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 G.R. Paseman,
 On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
 *Electron. J. Combin.* **XX**(X) (2022), XX--XX.
@@ -66,7 +66,7 @@ Most permutations power to a cycle of small prime length,
 [arXiv](https://arxiv.org/abs/1911.12613) |
 [DOI](https://doi.org/10.1017/S0013091521000110)
 
-+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+0.  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 E. Pierro and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Point-primitive generalised hexagons and octagons and projective
@@ -83,14 +83,14 @@ Conjugacy class sizes in arithmetic progression
 [pdf](https://staffhome.ecm.uwa.edu.au/~00059629/BianchiGlasbyPraegerConjugacyClassSizesInAP.pdf) | [arXiv](https://arxiv.org/abs/2003.03906) |
 [DOI](https://doi.org/10.1515/jgth-2020-0046)
 
-+   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+0.   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger)
 [Colva M. Roney-Dougal](http://www-groups.mcs.st-and.ac.uk/~colva/),
 Involution centralisers in finite unitary groups of odd characteristic
 *J. Algebra* **545** (2020), 245--299.
 [arXiv](https://arxiv.org/abs/1812.01362)
 
-+ [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
+0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Scott Harper](https://seis.bristol.ac.uk/~sh15083/),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
@@ -100,20 +100,20 @@ Permutations with orders coprime to a given integer,
 [Magma code](DataSPG.mag) |
 [DOI](https://doi.org/10.37236/8678)
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Classifying uniformly generated groups,
 *Commun. Algebra* **48** (2020), 101--104. 
 [arXiv](https://arxiv.org/abs/1901.06480) | 
 [DOI](https://doi.org/10.1080/00927872.2019.1632333)
 
-+ [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
+0. [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Roots of unity and unreasonable differentiation,
 *Archiv der Mathematik* **113**(4) (2019), 367--371.
 [arXiv](https://arxiv.org/abs/1901.06157) | 
 [DOI](https://doi.org/10.1007/s00013-019-01342-5)
 
-+ [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
+0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Luke Morgan](https://www.famnit.upr.si/en/about-faculty/staff/luke.morgan/),
 [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
@@ -121,7 +121,7 @@ Corrigendum: Maximal linear groups induced on the Frattini quotient
 of a *p*-group, *J. Pure Appl. Algebra* **223** (2019), no. 12, 5428--5429. 
 [DOI](https://doi.org/10.1016/j.jpaa.2019.04.006)
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Frederico A. M. Ribeiro,
 [Csaba Schneider](http://www.sztaki.hu/~schneider/),
 Duality between *p*-groups with three characteristic subgroups and
@@ -131,13 +131,13 @@ semisimple anti-commutative algebras,
   <a href="https://doi.org/10.1017/prm.2018.159"> DOI</a>
 
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Cyclotomic ordering Conjecture
   <a href="https://arxiv.org/abs/1903.02951"> arXiv</a> (2019)
   <a href="https://arxiv.org/abs/1903.01962"> solution</a> by Pomerance and Rubinstein-Salzedo.
 
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
    Tomasz Popiel,
   On the second-largest Sylow subgroup of a finite simple group of Lie type,
@@ -147,7 +147,7 @@ Cyclotomic ordering Conjecture
   <a href="https://doi.org/10.1017/S0004972718000928"> DOI</a>
 
 
-+ [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
+0. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Cai Heng Li](http://www.maths.uwa.edu.au/~li), and
   [Gabriel Verret](http://www.maths.uwa.edu.au/~verret),
@@ -157,7 +157,7 @@ Cyclotomic ordering Conjecture
   <a href="https://doi.org/10.1016/j.jpaa.2018.06.002"> DOI</a>
 
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
 [Binzhou Xia](https://sites.google.com/site/binzhouxia/),
 `Norman involutions' and tensor products of unipotent Jordan blocks
@@ -167,7 +167,7 @@ Cyclotomic ordering Conjecture
   <a href="JCF"> Magma code</a>  |
 [DOI](https://doi.org/10.1007/s11856-018-1812-z)
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
   [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger),
   On the parameters of intertwining codes,
   *Ars Math. Contemp.* **16** (2019), 49--58. 
@@ -175,7 +175,7 @@ Cyclotomic ordering Conjecture
   <a href="https://doi.org/10.26493/1855-3974.1547.454"> DOI</a> 
 
 
-+  [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
+0.  [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Luke Morgan](http://www.maths.uwa.edu.au/contact/staff), and
   [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
@@ -188,7 +188,7 @@ Cyclotomic ordering Conjecture
   <a href="https://zbmath.org/?q=an:**********"> Zbl**</a> 
 
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger),
   Kyle Rosa and
   [Gabriel Verret](http://www.maths.uwa.edu.au/~verret),
@@ -199,7 +199,7 @@ Cyclotomic ordering Conjecture
   <a href="https://doi.org/10.1112/jlms.12138"> DOI</a>
 
 
-+ [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
+0. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Cai Heng Li](http://www.maths.uwa.edu.au/~li), and
   [Gabriel Verret](http://www.maths.uwa.edu.au/~verret),
@@ -209,7 +209,7 @@ Cyclotomic ordering Conjecture
   [arXiv](https://arxiv.org/abs/1602.07829) |
   <a href="https:doi.org/10.1016/j.jalgebra.2017.07.009"> DOI</a>
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   On the dimension of twisted centralizer codes (with
   <a href="http://analahmadi.kau.edu.sa/Default.aspx?Site_ID=0003974&lng=EN"> Adel Alahmadi</a>, and
   <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>)
@@ -217,7 +217,7 @@ Cyclotomic ordering Conjecture
 [arXiv](https://arxiv.org/abs/1607.05838)
 
 
-+ [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Twisted Centralizer Codes (with 
   <a href="http://analahmadi.kau.edu.sa/Default.aspx?Site_ID=0003974&lng=EN"> Adel Alahmadi</a>,
   <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>,
@@ -228,7 +228,7 @@ Twisted Centralizer Codes (with
   <a href="https:doi.org/10.1016/j.laa.2017.03.011"> DOI</a> |
   <a href="TwistedCodesNKD.mag"> Magma code</a>
 
-+ Managing Editor:
+0. Managing Editor:
   <a href="http://www.austms.org.au/Journal+of+the+Australian+Mathematical+Society"> *J. Austral. Math. Soc.*</a> **102**(1) (2017), 1--161. Special issue dedicated to the
   memory of L.G. Kov&aacute;cs. Editors: 
   <a href="http://www.maths.nuigalway.ie/~dane/"> Dane Flannery</a>,
@@ -461,3 +461,4 @@ Intersecting subgroups of finite soluble groups. *J. Symbolic Comput.*
 *J. Austral. Math. Soc. Ser. A* **41** (1986), 233--236. 
 <a href="PAPER1.PDF"> pdf</a> 
 
+{: reversed="reversed"}
