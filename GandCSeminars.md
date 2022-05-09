@@ -29,7 +29,6 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MOVE THIS LINE%%%%%%%%%%%%%%%%%%%%%%%%%-->
 <h2> Upcoming 2022 Seminars (details may change)</h2>
 
-|**Time and Place:** 4pm Fri 27 May 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Cheryl Praeger (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
 |**Time and Place:** 4pm Fri 03 June 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
@@ -38,6 +37,7 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 |**Time and Place:** 4pm Fri XX XXX 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Anton Baykalov (University of Western Australia)<br>        Title:**  <br><br>                    **Abstract:**  |
 
 
+|**Time and Place:** 4pm Fri XXX Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Cheryl Praeger (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
 
 <h2> 2021 Seminars</h2>
