@@ -40,6 +40,12 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 |**Time and Place:** 4pm Fri XXX Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Cheryl Praeger (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
 
+|**Time and Place:** 4pm Fri 16 Sep 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Nick Gill (Open University)<br>       **Title:**  <br><br>                    **Abstract:**  |
+
+
+|**Time and Place:** 4pm Fri 28 Oct 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Tim Burness (University of Bristol)<br>       **Title:**  <br><br>                    **Abstract:**  |
+
+
 <h2> 2021 Seminars</h2>
 
 |**Speaker:** Stephen Glasby (University of Western Australia)<br />**Title:** Recognizing simple groups: alternating and classical<br />**Time and place:** 26 Feb 2021, 4pm at Weatherburn LT<br /><br />**Abstract:**  The structure of a non-solvable finite group is strongly influenced by its non-abelian composition factors.  A central problem in computational group theory, therefore, involves quickly recognizing non-abelian simple composition factors. I will consider the most commonly occurring non-abelian simple groups namely the alternating (Alt_n) or the classical groups (PSL_d(q), PSp_d(q), PSU_d(q), POmega_d(q)).  The idea is to find by random selection group elements with certain properties including being relatively abundant. This is joint work with Niemeyer, Praeger and Unger.|
