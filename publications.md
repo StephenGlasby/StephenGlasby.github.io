@@ -24,6 +24,7 @@ Subgroups of classical groups that are transitive on subspaces.
 [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Random generation of direct sums of finite non-degenerate subspaces,
+*Linear Algebra Appl.* **XX**(X) (2022), XX--XX.
 [arXiv](https://arxiv.org/abs/2111.02198)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
@@ -56,8 +57,9 @@ The groups *G* satisfying a functional equation
 *f(xk) = xf(x)* for some *k ∈ G*,
 *J. Group Theory* **XX**(X) (2022), XX--XX.
 [arXiv](https://arxiv.org/abs/2105.09117) |
+[DOI paper](https://doi.org/10.1515/jgth-2021-0158) |
 [Magma code](https://research-repository.uwa.edu.au/en/datasets/magma-computer-program-for-j-groups-and-exponent-polynomials) |
-[DOI](http://doi.org/10.26182/x36d-3b55)
+[DOI Magma code](http://doi.org/10.26182/x36d-3b55)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
