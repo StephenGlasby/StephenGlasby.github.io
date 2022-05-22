@@ -385,7 +385,8 @@ Lecture Notes in Pure and Applied Mathematics **236** (2004), 257--270.
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 On the tensor product of polynomials over a ring, *J. Austral. Math. Soc.*
 **71** (2001), 1--17.
-<a href="PAPER14.PDF"> pdf</a>
+[DOI](https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society/article/on-the-tensor-product-of-polynomials-over-a-ring/B99CD3A00264FABF637D615B34B78D3E)
+<!-- <a href="PAPER14.PDF"> pdf</a> -->
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Using recurrence relations to count certain elements in 
