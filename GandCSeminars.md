@@ -34,7 +34,7 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 
 |**Time and Place:** 4pm Fri 03 June 2022, Robert Street LT, MS Teams<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>       **Title:** Derangements in wreath products <br><br>                    **Abstract:** A derangement is a permutation with no fixed points. Much research has gone into studying the proportion of derangements in a finite permutation group G. This talk was motivated by the question: What can we say about the proportion of derangements in a large primitive permutation group? Such a group preserves a cartesian power structure and its socle is a power of an alternating group. I will make several connections with past research and some classical combinatorics. This is joint work with V. Arumugam and H. Dietrich.  |
 
-|**Time and Place:** 4pm Fri 22 June 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Alice Devillers (University of Western Australia)<br>                 **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 24 June 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Alice Devillers (University of Western Australia)<br>                 **Title:**  <br><br>                    **Abstract:**  |
 
 |**Time and Place:** 4pm Fri XX XXX 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Anton Baykalov (University of Western Australia)<br>        Title:**  <br><br>                    **Abstract:**  |
 
