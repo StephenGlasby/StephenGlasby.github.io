@@ -6,6 +6,14 @@ permalink: /publications/
 
 <h2> Publications (and submitted papers) </h2>
 
+<!--
+[V. Arumugam](https://staffportal.curtin.edu.au/staff/profile/view/vishnuram-arumugam-fa070dec/),
+[Heiko Dietrich](https://users.monash.edu/~heikod/) and
+[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Derrangements in wreath products.
+[arXiv](https://arxiv.org/abs/xxxxxxxx)
+-->
+
 0. [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
@@ -245,7 +253,7 @@ Twisted Centralizer Codes (with
   (with <a href="http://www.maths.nuigalway.ie/~dane/"> Dane Flannery</a>,
   <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>,
   <a href="http://www.maths.manchester.ac.uk/~rs/"> Ralph St&ouml;hr</a>),
-  *J. Austral. Math. Soc.*</a> **102**(1) (2017), 1--2.
+  *J. Austral. Math. Soc.* **102**(1) (2017), 1--2.
   <a href="https://doi.org/10.1017/S144678871600046X"> DOI</a>
 
 0. Primitive prime divisors and the *n*-th cyclotomic polynomial
