@@ -6,6 +6,7 @@ permalink: /publications/
 
 <h2> Publications (and submitted papers) </h2>
 
+
 <!--
 [V. Arumugam](https://staffportal.curtin.edu.au/staff/profile/view/vishnuram-arumugam-fa070dec/),
 [Heiko Dietrich](https://users.monash.edu/~heikod/) and
