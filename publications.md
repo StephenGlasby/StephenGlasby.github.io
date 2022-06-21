@@ -8,12 +8,19 @@ permalink: /publications/
 
 
 <!--
+-->
+
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[Ferdinand Ihringer](http://math.ihringer.org/),
+[Sam Mattheus](http://homepages.vub.ac.be/~samatthe/),
+The proportion of non-degenerate complementary subspaces in classical spaces.
+[arXiv](http://arxiv.org/abs/xxxxxxxx) | [GAP FinIng code](FinIngGAPcode.g)
+
 [V. Arumugam](https://staffportal.curtin.edu.au/staff/profile/view/vishnuram-arumugam-fa070dec/),
 [Heiko Dietrich](https://users.monash.edu/~heikod/) and
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Derrangements in wreath products.
 [arXiv](https://arxiv.org/abs/xxxxxxxx)
--->
 
 0. [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
