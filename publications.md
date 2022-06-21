@@ -25,7 +25,7 @@ Derrangements in wreath products.
 0. [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Saul D. Freedman,
+Saul D. Freedman and
 [Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
 Tournaments and even graphs are equinumerous.
 [arXiv](http://arxiv.org/abs/2204.01947)
@@ -104,7 +104,7 @@ Conjugacy class sizes in arithmetic progression
 [DOI](https://doi.org/10.1515/jgth-2020-0046)
 
 0.   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger)
+[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger) and
 [Colva M. Roney-Dougal](http://www-groups.mcs.st-and.ac.uk/~colva/),
 Involution centralisers in finite unitary groups of odd characteristic
 *J. Algebra* **545** (2020), 245--299.
@@ -112,7 +112,7 @@ Involution centralisers in finite unitary groups of odd characteristic
 
 0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Scott Harper](https://seis.bristol.ac.uk/~sh15083/),
+[Scott Harper](https://seis.bristol.ac.uk/~sh15083/) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Permutations with orders coprime to a given integer,
 *Electron. J. Combin.* **27**(1) (2020), #P1.6.
@@ -126,7 +126,7 @@ Classifying uniformly generated groups,
 [arXiv](https://arxiv.org/abs/1901.06480) | 
 [DOI](https://doi.org/10.1080/00927872.2019.1632333)
 
-0. [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
+0. [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers) and
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Roots of unity and unreasonable differentiation,
 *Archiv der Mathematik* **113**(4) (2019), 367--371.
@@ -135,14 +135,14 @@ Roots of unity and unreasonable differentiation,
 
 0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Luke Morgan](https://www.famnit.upr.si/en/about-faculty/staff/luke.morgan/),
+[Luke Morgan](https://www.famnit.upr.si/en/about-faculty/staff/luke.morgan/) and
 [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
 Corrigendum: Maximal linear groups induced on the Frattini quotient
 of a *p*-group, *J. Pure Appl. Algebra* **223** (2019), no. 12, 5428--5429. 
 [DOI](https://doi.org/10.1016/j.jpaa.2019.04.006)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Frederico A. M. Ribeiro,
+Frederico A. M. Ribeiro and
 [Csaba Schneider](http://www.sztaki.hu/~schneider/),
 Duality between *p*-groups with three characteristic subgroups and
 semisimple anti-commutative algebras,
@@ -166,19 +166,17 @@ Cyclotomic ordering Conjecture
   <a href="ExceptionsCheck.mag"> Magma code</a> |
   <a href="https://doi.org/10.1017/S0004972718000928"> DOI</a>
 
-
 0. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-  [Cai Heng Li](http://www.maths.uwa.edu.au/~li), and
+  [Cai Heng Li](http://www.maths.uwa.edu.au/~li) and
   [Gabriel Verret](http://www.maths.uwa.edu.au/~verret),
   Arc-transitive digraphs with quasiprimitive local actions,
   *J. Pure Appl. Algebra* **223** (2019), 1217-1226. 
   <a href="https://arxiv.org/abs/1610.06222"> arXiv</a> |
   <a href="https://doi.org/10.1016/j.jpaa.2018.06.002"> DOI</a>
 
-
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
+[Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger") and
 [Binzhou Xia](https://sites.google.com/site/binzhouxia/),
 `Norman involutions' and tensor products of unipotent Jordan blocks
 *Israel J. Math.* **230**(1) (2019), 153--181.
@@ -194,10 +192,9 @@ Cyclotomic ordering Conjecture
   [arXiv](https://arxiv.org/abs/1711.04104) |
   <a href="https://doi.org/10.26493/1855-3974.1547.454"> DOI</a> 
 
-
 0.  [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-  [Luke Morgan](http://www.maths.uwa.edu.au/contact/staff), and
+  [Luke Morgan](http://www.maths.uwa.edu.au/contact/staff) and
   [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
   Maximal linear groups induced on the Frattini quotient of a *p*-group
   *J. Pure Appl. Algebra* **222** (2018), 2931--2951.
@@ -206,7 +203,6 @@ Cyclotomic ordering Conjecture
   <a href="BGMNAssocComm.mag"> Magma code: associative & commutator laws</a> |
   <a href="http://www.ams.org/mathscinet-getitem?mr=***"> MR**</a> |
   <a href="https://zbmath.org/?q=an:**********"> Zbl**</a> 
-
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger),
@@ -218,10 +214,9 @@ Cyclotomic ordering Conjecture
   [arXiv](https://arxiv.org/abs/1712.05520) |
   <a href="https://doi.org/10.1112/jlms.12138"> DOI</a>
 
-
 0. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-  [Cai Heng Li](http://www.maths.uwa.edu.au/~li), and
+  [Cai Heng Li](http://www.maths.uwa.edu.au/~li) and
   [Gabriel Verret](http://www.maths.uwa.edu.au/~verret),
   The number of composition factors of order *p* in completely
   reducible groups of characteristic *p*,
