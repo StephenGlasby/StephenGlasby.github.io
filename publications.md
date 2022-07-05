@@ -6,7 +6,7 @@ permalink: /publications/
 
 <h2> Publications (and submitted papers) </h2>
 
-
+My recent papers are on the [arXiv](https://arxiv.org/a/glasby_s_1.html)
 
 <!--
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
