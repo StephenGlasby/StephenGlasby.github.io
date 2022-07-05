@@ -18,7 +18,7 @@ The proportion of non-degenerate complementary subspaces in classical spaces.
 -->
 
 
-0. [V. Arumugam](https://staffportal.curtin.edu.au/staff/profile/view/vishnuram-arumugam-fa070dec/),
+0. [Vishnuram Arumugam](https://staffportal.curtin.edu.au/staff/profile/view/vishnuram-arumugam-fa070dec/),
 [Heiko Dietrich](https://users.monash.edu/~heikod/) and
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Derrangements in wreath products of permutation groups.
