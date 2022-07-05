@@ -8,12 +8,12 @@ permalink: /publications/
 
 
 
+<!--
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Ferdinand Ihringer](http://math.ihringer.org/) and
 [Sam Mattheus](http://homepages.vub.ac.be/~samatthe/),
 The proportion of non-degenerate complementary subspaces in classical spaces.
 [GAP FinIng code](FinIngGAPcode.g) (not submitted)
-<!--
 [arXiv](http://arxiv.org/abs/xxxxxxxx) | 
 -->
 
@@ -42,16 +42,18 @@ Subgroups of classical groups that are transitive on subspaces.
 [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 Random generation of direct sums of finite non-degenerate subspaces,
-*Linear Algebra Appl.* **XX**(X) (2022), XX--XX.
-[arXiv](https://arxiv.org/abs/2111.02198)
+*Linear Algebra Appl.* **649** (2022), 408--432.
+[arXiv](https://arxiv.org/abs/2111.02198) |
+[DOI](https://doi.org/10.1016/j.laa.2022.05.016)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
 The probability of spanning a classical space by two non-degenerate subspaces
-of complementary dimension, *Finite Fields Their Appl.* **XX**(X) (2022),
-XX--XX.
-[arXiv](https://arxiv.org/abs/2109.10015)
+of complementary dimension, *Finite Fields Their Appl.* **82** (2022),
+paper no. 102055.
+[arXiv](https://arxiv.org/abs/2109.10015) |
+[DOI](https://doi.org/10.1016/j.ffa.2022.102055)
 
 0. Faezeh Alizadeh,
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
@@ -63,8 +65,9 @@ Sequences of linear codes where the rate times distance grows rapidly,
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 G.R. Paseman,
 On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
-*Electron. J. Combin.* **XX**(X) (2022), XX--XX.
-[arXiv](https://arxiv.org/abs/2109.11396)
+*Electron. J. Combin.* **29**(2) (2022), article P2.5.
+[arXiv](https://arxiv.org/abs/2109.11396) |
+[DOI](https://doi.org/10.37236/10751) 
 
 0. [Dominik Bernhardt](https://www.mathematik.rwth-aachen.de/go/id/bkbg/gguid/0xF033AE30691E4645A7355F6BBD82B37D/ikz/11/allou/1),
 [Tim Boykett](http://www.algebra.uni-linz.ac.at/~tim/),
