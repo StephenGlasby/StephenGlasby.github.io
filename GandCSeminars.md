@@ -36,7 +36,8 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MOVE THIS LINE%%%%%%%%%%%%%%%%%%%%%%%%%-->
 <h2> Upcoming 2022 Seminars (details may change)</h2>
 
-|**Time and Place:** 4pm Fri 15 July 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Jesse Lansdown (University of Western Australia)<br>        Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 15 July 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Jesse Lansdown (University of Western Australia)<br>        Title:**  Small Schurian association schemes<br><br>                    **Abstract:** Association schemes describe highly regular combinatorial structures and
+are important in coding theory, geometry, group theory, and even statistics. An association scheme arising from a transitive group is called Schurian. With the recent classification of transitive permutation groups of degree 48 by Holt, Royle, and Tracey, we are able to classify the Schurian association schemes of order at most 48 and consequently the 2-closed transitive permutation groups of corresponding degree. In this seminar I will present details of the computational aspects of this classification, as well as an overview of some of the properties of the resulting association schemes. |
 
 |**Time and Place:** 4pm Fri 29 July 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Anton Baykalov (University of Western Australia)<br>        Title:**  <br><br>                    **Abstract:**  |
 
