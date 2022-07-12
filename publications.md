@@ -283,13 +283,14 @@ Twisted Centralizer Codes (with
 [arXiv](https://arxiv.org/abs/1410.3423) |
   <a href="https://doi.org/10.1016/j.jcta.2016.11.008"> DOI</a>
 
-0. Generalised quadrangles and transitive pseudo-hyperovals
-  (with <a href="http://www.maths.uwa.edu.au/~bamberg"> John Bamberg</a>,
-  <a href="http://www.maths.uwa.edu.au/~popiel"> Tomasz Popiel</a>,
-  <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>),
-  *J. Comb. Des.* **24**(4) (2016), 151--164.
+0.  [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
+[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[Tomasz Popiel](http://www.maths.uwa.edu.au/~popiel) and
+[Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
+Generalised quadrangles and transitive pseudo-hyperovals,
+*J. Comb. Des.* **24**(4) (2016), 151--164.
 [arXiv](https://arxiv.org/abs/1406.6445) | 
-  <a href="https://doi.org/10.1002/jcd.21411"> DOI</a>
+[DOI](https://doi.org/10.1002/jcd.21411)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
@@ -299,12 +300,13 @@ Decomposing modular tensor products, and periodicity of `Jordan partitions'
 [arXiv](https://arxiv.org/abs/1401.2748) |
 [DOI](https://doi.org/10.1016/j.jalgebra.2015.11.025)
 
-0. AS-configurations and skew-translation generalised quadrangles
-  (with <a href="http://www.maths.uwa.edu.au/~bamberg"> John Bamberg</a>
-  and <a href="https://www.wm.edu/as/mathematics/faculty-directory/swartz_e.php"> Eric Swartz</a>),
-  *J. Algebra* **421** (2015),  311--330. 
+0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
+[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+[Eric Swartz](https://www.wm.edu/as/mathematics/faculty-directory/swartz_e.php),
+AS-configurations and skew-translation generalised quadrangles,
+*J. Algebra* **421** (2015),  311--330. 
 [arXiv](https://arxiv.org/abs/1405.5063) | 
-  <a href="https://doi.org/10.1016/j.jalgebra.2014.08.031"> DOI</a>
+[DOI](https://doi.org/10.1016/j.jalgebra.2014.08.031)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
@@ -315,21 +317,24 @@ and *p*-parts
 [arXiv](https://arxiv.org/abs/1403.4685) |
 [DOI](https://doi.org/10.1007/s11856-015-1217-1)
 
-0. Distant parents in complete binary trees, *Math. Scientist*
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Distant parents in complete binary trees, *Math. Scientist*
 **38**(1) (2013), 1--10.
 [arXiv](https://arxiv.org/abs/1405.5624)
 
-0. Proportion of cyclic matrices in maximal reducible matrix algebras
-  (with Scott Brown, <a href="http://www.maths.uwa.edu.au/~giudici">
-  Michael Giudici</a>, and <a href="http://www.maths.uwa.edu.au/~praeger">
-  Cheryl E. Praeger</a> ), *J. Algebra* **369** (2012),
-  360--368.
+0. Scott Brown,
+[Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
+[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/), and
+[Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
+Proportion of cyclic matrices in maximal reducible matrix algebras,
+  *J. Algebra* **369** (2012),  360--368.
 [arXiv](https://arxiv.org/abs/1405.6609) | 
 [DOI](https://doi.org/10.1016/j.jalgebra.2012.06.024)
 
-0. *p*-groups having a unique proper nontrivial characteristic subgroup
-  (with <a href="http://www.renyi.hu/~ppp/"> P.P. P&aacute;lfy</a> and
-  <a href="http://www.sztaki.hu/~schneider/"> Csaba Schneider</a>),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[P.P. P&aacute;lfy](http://www.renyi.hu/~ppp/) and
+[Csaba Schneider](http://www.sztaki.hu/~schneider/),
+*p*-groups having a unique proper nontrivial characteristic subgroup,
   *J. Algebra* **348** (2011), 85--109.
 [arXiv](https://arxiv.org/abs/1007.4084) | 
 [DOI](https://doi.org/10.1016/j.jalgebra.2011.10.005)
@@ -340,10 +345,11 @@ Enumerating the rationals from left to right, *Amer. Math. Monthly*
 [arXiv](http://arxiv.org/abs/1011.2823) | 
 [DOI](https://doi.org/10.4169/amer.math.monthly.118.09.830)
 
-0. Towards an efficient Meat-axe algorithm using *f*-cyclic matrices:
-the density of uncyclic matrices in *M(n,q)*
-(with <a href="http://www.maths.uwa.edu.au/~praeger">
-    Cheryl E. Praeger</a> ), *J. Algebra* **322** (2009), 766--790.
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+[Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
+Towards an efficient Meat-axe algorithm using *f*-cyclic matrices:
+the density of uncyclic matrices in *M(n,q)*, 
+  *J. Algebra* **322** (2009), 766--790.
   <a href="PAPER34.FDF">pdf</a> | <a href="PAPER34.DVI"> dvi</a> | 
   <a href="https://doi.org/10.1016/j.jalgebra.2009.02.021"> DOI</a>
   <a href="APP1"> Appendix 1</a> The polynomials *unc(n,q)* for
@@ -354,17 +360,20 @@ the density of uncyclic matrices in *M(n,q)*
   Sophie Ambrose, School of Mathematics and Statistics,
   University of Western Australia, 2006.
 
-0. Worms by number (with <a href="http://www.nt.gov.au/nreta/wildlife/programs/staff/museum/chrisglasby.html"> C.J. Glasby</a>
-and <a href="http://www.mnhn.fr/mnhn/bimm/pleijel_.htm"> F. Pleijel</a> )
+0. C.J.Glasby,
+[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+[F. Pleijel](http://www.mnhn.fr/mnhn/bimm/pleijel_.htm),
+Worms by number,
 *Proc. Royal Soc. B* **295** (2008), 2071--2076.
-  <a href="PAPER31.PDF"> pdf</a> |
-  <a href="ProcRSocB2008.pdf"> ProcRoyalSocBpdf</a> |
+<a href="PAPER31.PDF"> pdf</a> |
+[ProcRoyalSocBpdf](ProcRSocB2008.pdf) |
 [DOI](https://doi.org/10.1098/rspb.2008.0418)
 
-0. Writing representations over proper division subrings,
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+Writing representations over proper division subrings,
 <a href=""></a> *J. Algebra* **319** (2008), 77--92.
 [arXiv](https://arxiv.org/abs/math/0312070) | 
-  <a href="https://doi.org/10.1016/j.jalgebra.2007.10.024"> DOI</a>
+[DOI](https://doi.org/10.1016/j.jalgebra.2007.10.024)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 The shape of solvable groups with odd order,
@@ -375,14 +384,16 @@ Univ. Press, (2007), 432--437.
 [arXiv](https://arxiv.org/abs/1801.05536) | 
 [DOI](https://doi.org/10.1017/CBO9780511721205.006)
 
-0. The Meat-axe and *f*-cyclic matrices
+0.  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+The Meat-axe and *f*-cyclic matrices
 *J. Algebra* **300** (2006), 77--90.
   <a href="PAPER33.PDF"> pdf</a> |
 [DOI](https://doi.org/10.1016/j.jalgebra.2006.01.026)
   
-0. Writing projective representations over proper subfields (with
-  <a href="http://www.maths.qmul.ac.uk/~crlg/"> C.R. Leedham-Green</a> and
-  <a href="http://www.math.auckland.ac.nz/~obrien/"> E.A. O'Brien</a> )
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+[C.R. Leedham-Green](http://www.maths.qmul.ac.uk/~crlg/), and 
+[E.A. O'Brien](http://www.math.auckland.ac.nz/~obrien/),
+ Writing projective representations over proper subfields,
   *J. Algebra* **295** (2006), 51--61.
   <a href="PAPER30.PDF"> pdf</a>
 
@@ -424,16 +435,15 @@ in Groups St Andrews 1997 in Bath, I, Edited by C.M. Campbell
 <a href="PAPER20.PDF"> pdf</a> |
 [arXiv](https://arxiv.org/abs/1410.5052)
 
-
-0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Writing representations over minimal fields (with 
-<a href="http://www.maths.usyd.edu.au:8000/u/bobh/"> R.B. Howlett</a> ),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+[R.B. Howlett](http://www.maths.usyd.edu.au:8000/u/bobh/),
+Writing representations over minimal fields,
 *Comm. Algebra* **25** (1997), 1703--1712.
 <a href="PAPER15.PDF"> pdf</a>
 
-0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Irreducible modules and normal subgroups of prime index (with
-<a href="http://maths.anu.edu.au/about-us/news/dr-laci-kovacs"> L.G. Kov&aacute;cs</a> ),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+[L.G. Kov&aacute;cs](http://maths.anu.edu.au/about-us/news/dr-laci-kovacs)
+Irreducible modules and normal subgroups of prime index,
 *Comm. Algebra* **24** (1996), 1529--1546.
 <a href="PAPER18.PDF"> pdf</a> |
 <a href="WallKovacsAustMS2001.JPG"> WallKovacs</a>
@@ -449,15 +459,15 @@ extensions of 2-groups by orthogonal or symplectic groups,
 *J. Austral. Math. Soc. Ser. A* **58** (1995), 232--247.
 <a href="PAPER10.PDF"> pdf</a>
 
-0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Extraspecial towers and Weil representations (with 
-<a href="http://www.maths.usyd.edu.au:8000/u/bobh/"> R.B. Howlett</a> ),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+[R.B. Howlett](http://www.maths.usyd.edu.au:8000/u/bobh/),
+Extraspecial towers and Weil representations,
 *J. Algebra* **151** (1992), 236--260.
 <a href="PAPER6.PDF"> pdf</a>
 
-0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Computing intersections and normalizers in soluble groups (with
-<a href="http://www.mscs.mu.edu/~mikes/"> M.C. Slattery</a> ),
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+[M.C. Slattery](http://www.mscs.mu.edu/~mikes/),
+Computing intersections and normalizers in soluble groups,
 *J. Symbolic Comput.* **9** (1990), 637--651.
 <a href="PAPER5.PDF"> pdf</a>
 
