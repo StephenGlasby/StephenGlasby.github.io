@@ -15,7 +15,7 @@ He described how mathematics was being negatively impacted by Elsevier, and
 it did not need to be. Mathematicians can set up high quality journals
 which are free to the user, or very low cost. Your university library has likely
 cut the number of journals it offers because it can not afford the
-astronomical prices of journals offered by large publishers such as Elsevier/Springer.
+astronomical prices of journals offered by large publishers such as Elsevier/Taylor-Francis.
 
 One of the oldest electronic journals, founded in 1994 by Herbert S. Wilf
 and Neil Calkin, is
@@ -25,7 +25,8 @@ there have been others including:
 Enumerative Combinatorics and Applications,
 Algebraic Combinatorics,
 Advances in Combinatorics,
-Discrete Analysis.
+Discrete Analysis,
+Ars Inveniendi Analytica.
 I am surprised that the list of Open Access, arXiv overlay journals is so
 small and that commercial publishers abound. There are many commercial
 journals (as opposed to society journals) with very low academic standards
@@ -38,12 +39,12 @@ with Open Access publishing, then you may be interested in
 [Open Access Directory](http://oad.simmons.edu/oadwiki/Main_Page).
 
 For an informative (if lengthy) historical account of background to
-this area, see the [letter](joalet.pdf) from Donald E. Knuth to fellow members
+this area, see the [letter](files/joalet.pdf) from Donald E. Knuth to fellow members
 of the Journal of Algorithms editorial board outlining the problem, describing
 the open-access solution.
 
 A list of journals whose editorial boards have resigned can be found
-[here](http://oad.simmons.edu/oadwiki/Journal_declarations_of_independence)
+[here](http://oad.simmons.edu/oadwiki/Journal_declarations_of_independence).
 
 So my questions are: Why are there so few Open Access journals? and
 Why do ruthless commercial publishers like Elsevier/Springer have such a
@@ -56,4 +57,4 @@ submit to, referee for, and act as editors for, commercial journals even if it i
 In a separate blog I will consider best practice academic publishing: how are
 errors/updates handled? when non-trivial computer programs form part of a proof
 is computer code stored? is mathematical research immediately available?
-can one search long papers for key information? etc
+Can mathematics flourish with 5, 10, 20 year copyright agreements? etc
