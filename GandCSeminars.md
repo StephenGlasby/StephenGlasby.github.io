@@ -35,8 +35,12 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 
 |**Time and Place:** 4pm Fri 15 July 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Jesse Lansdown (University of Western Australia)<br>        **Title:**  Small Schurian association schemes<br><br>                    **Abstract:** Association schemes describe highly regular combinatorial structures and are important in coding theory, geometry, group theory, and even statistics. An association scheme arising from a transitive group is called Schurian. With the recent classification of transitive permutation groups of degree 48 by Holt, Royle, and Tracey, we are able to classify the Schurian association schemes of order at most 48 and consequently the 2-closed transitive permutation groups of corresponding degree. In this seminar I will present details of the computational aspects of this classification, as well as an overview of some of the properties of the resulting association schemes. |
 
+|**Time and Place:** 4pm Fri 29 July 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Lie Chen (University of Western Australia)<br>        **Title:** The maximal subgroups of the finite symplectic groups <br><br>                    **Abstract:** The research of the maximal subgroups of the finite classical groups is intimately connected to the study of the primitive permutation groups. In 1984, Aschbacher developed a fundamental theorem that roughly depicts the subgroups of almost all of the finite almost simple classical groups, which divides these subgroups into nine classes. The result was then enriched by Kleidman and Liebeck in 1989. They provided remarkably detailed enumeration of the maximal subgroups of geometric type of the almost simple finite classical groups of dimension greater than 12. In this talk I will discuss Aschbacher’s theorem in the finite symplectic groups. |
+
+
 <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MOVE THIS LINE%%%%%%%%%%%%%%%%%%%%%%%%%-->
 <h2> Upcoming 2022 Seminars (details may change)</h2>
+
 
 |**Time and Place:** 4pm Fri 29 July 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Anton Baykalov (University of Western Australia)<br>        Title:**  <br><br>                    **Abstract:**  |
 
