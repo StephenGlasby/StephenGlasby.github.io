@@ -42,7 +42,7 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 <h2> Upcoming 2022 Seminars (details may change)</h2>
 
 
-|**Time and Place:** 4pm Fri 12 Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Anton Baykalov (University of Western Australia)<br>        Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 12 Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Anton Baykalov (University of Western Australia)<br>        Title:** Intersection of conjugate solvable subgroups in finite groups <br><br>                    **Abstract:**  Consider the following problem stated by Vdovin (2010) in the “Kourovka notebook” (Problem 17.41):   <br><br> Let $H$ be a solvable subgroup of a finite group $G$ that has no nontrivial solvable normal subgroups. Do there always exist five conjugates of $H$ whose intersection is trivial?   <br><br> This problem is closely related to a conjecture by Babai, Goodman and Pyber (1997) about an upper bound for the index of a normal solvable subgroup in a finite group. The problem was reduced by Vdovin (2012) to the case when $G$ is an almost simple group. In this talk, we discuss the latest progress on the problem.|
 
 
 |**Time and Place:** 4pm Fri XXX Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Cheryl Praeger (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
