@@ -38,14 +38,16 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 |**Time and Place:** 4pm Fri 22 July 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Lie Chen (University of Western Australia)<br>        **Title:** The maximal subgroups of the finite symplectic groups <br><br>                    **Abstract:** The research of the maximal subgroups of the finite classical groups is intimately connected to the study of the primitive permutation groups. In 1984, Aschbacher developed a fundamental theorem that roughly depicts the subgroups of almost all of the finite almost simple classical groups, which divides these subgroups into nine classes. The result was then enriched by Kleidman and Liebeck in 1989. They provided remarkably detailed enumeration of the maximal subgroups of geometric type of the almost simple finite classical groups of dimension greater than 12. In this talk I will discuss Aschbacher’s theorem in the finite symplectic groups. |
 
 
-<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MOVE THIS LINE%%%%%%%%%%%%%%%%%%%%%%%%%-->
-<h2> Upcoming 2022 Seminars (details may change)</h2>
-
 
 |**Time and Place:** 4pm Fri 12 Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Anton Baykalov (University of Western Australia)<br>        **Title:** Intersection of conjugate solvable subgroups in finite groups <br><br>                    **Abstract:**  Consider the following problem stated by Vdovin (2010) in the “Kourovka notebook” (Problem 17.41):   <br><br> Let $H$ be a solvable subgroup of a finite group $G$ that has no nontrivial solvable normal subgroups. Do there always exist five conjugates of $H$ whose intersection is trivial?   <br><br> This problem is closely related to a conjecture by Babai, Goodman and Pyber (1997) about an upper bound for the index of a normal solvable subgroup in a finite group. The problem was reduced by Vdovin (2012) to the case when $G$ is an almost simple group. In this talk, we discuss the latest progress on the problem.|
 
 
+<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MOVE THIS LINE%%%%%%%%%%%%%%%%%%%%%%%%%-->
+<h2> Upcoming 2022 Seminars (details may change)</h2>
+
 |**Time and Place:** 4pm Fri XXX Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Cheryl Praeger (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
+
+|**Time and Place:** 4pm Fri XXX Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
 
 |**Time and Place:** 4pm Fri 16 Sep 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Nick Gill (Open University)<br>       **Title:**  <br><br>                    **Abstract:**  |
