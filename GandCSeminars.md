@@ -45,7 +45,7 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MOVE THIS LINE%%%%%%%%%%%%%%%%%%%%%%%%%-->
 <h2> Upcoming 2022 Seminars (details may change)</h2>
 
-|**Time and Place:** 4pm Fri XXX Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Cheryl Praeger (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri XXX Aug 2022, Weatherburn LT<br>                 **Speaker:** Cheryl E. Praeger (University of Western Australia)<br>       **Title:**  The pleasure of working with Jan Saxl<br><br>                    **Abstract:**  Jan Saxl was Professor of Algebra at Cambridge, and a Fellow of Gonville and Caius College, until his death in 2020. <br><br> Jan and I were exact contemporaries as DPhil students of Peter Neumann in Oxford. Our first research collaboration began six years later, a year before the finite simple  group classification (FSGC) was announced. My talk will reflect on our research collaborations, often also with Martin Liebeck. A major theme was application of the FSGC on problems involving permutation groups, graph symmetry, and simple group structure.  I wrote this talk to give at the Jan Saxl Memorial Day which Martin Liebeck and I organised in Cambridge on July 23.  |
 
 |**Time and Place:** 4pm Fri XXX Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
