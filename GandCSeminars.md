@@ -49,10 +49,10 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 
 |**Time and Place:** 4pm Fri 26 Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>       **Title:**  The proportion of non-degenerate complementary subspaces in classical spaces. <br><br>                    **Abstract:**  Recognising classical groups is a key problem in computational group theory. This talk shows how a powerful technique in algebraic graph theory, the expander mixing lemma, can be used to solve a geometric problem needed for classical recognition. The problem is to find a lower bound for the proportion of pairs of complementary non-degenerate subspaces of prescribed dimensions. Once the eigenvalues are known, the computation is straightforward. This is joint work with Ferdinand Ihringer and Sam Mattheus. |
 
-|**Time and Place:** 4pm Fri XXX Sep 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Natalia Maslova (RAS and Krasovsky Institute of Mathematics and Mechanics)<br>       **Title:**  On characterization of finite groups by Gruenberg-Kegel graph <br><br>                    **Abstract:**  |
-
-
 |**Time and Place:** 4pm Fri 16 Sep 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Nick Gill (Open University)<br>       **Title:**  <br><br>                    **Abstract:**  |
+
+
+|**Time and Place:** 4pm Fri 23 Sep 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Natalia Maslova (RAS and Krasovsky Institute of Mathematics and Mechanics)<br>       **Title:**  On characterization of finite groups by Gruenberg-Kegel graph <br><br>                    **Abstract:**  |
 
 
 |**Time and Place:** 4pm Fri 28 Oct 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Tim Burness (University of Bristol)<br>       **Title:**  <br><br>                    **Abstract:**  |
