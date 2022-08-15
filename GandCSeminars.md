@@ -42,18 +42,22 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 |**Time and Place:** 4pm Fri 12 Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Anton Baykalov (University of Western Australia)<br>        **Title:** Intersection of conjugate solvable subgroups in finite groups <br><br>                    **Abstract:**  Consider the following problem stated by Vdovin (2010) in the “Kourovka notebook” (Problem 17.41):   <br><br> Let $H$ be a solvable subgroup of a finite group $G$ that has no nontrivial solvable normal subgroups. Do there always exist five conjugates of $H$ whose intersection is trivial?   <br><br> This problem is closely related to a conjecture by Babai, Goodman and Pyber (1997) about an upper bound for the index of a normal solvable subgroup in a finite group. The problem was reduced by Vdovin (2012) to the case when $G$ is an almost simple group. In this talk, we discuss the latest progress on the problem.|
 
 
+|**Time and Place:** 4pm Fri 19 Aug 2022, Weatherburn LT<br>                 **Speaker:** Cheryl E. Praeger (University of Western Australia)<br>       **Title:**  The pleasure of working with Jan Saxl<br><br>                    **Abstract:**  Jan Saxl was Professor of Algebra at Cambridge, and a Fellow of Gonville and Caius College, until his death in 2020. <br><br> Jan and I were exact contemporaries as DPhil students of Peter Neumann in Oxford. Our first research collaboration began six years later, a year before the finite simple  group classification (FSGC) was announced. My talk will reflect on our research collaborations, often also with Martin Liebeck. A major theme was application of the FSGC on problems involving permutation groups, graph symmetry, and simple group structure.  I wrote this talk to give at the Jan Saxl Memorial Day which Martin Liebeck and I organised in Cambridge on July 23.  |
+
 <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%MOVE THIS LINE%%%%%%%%%%%%%%%%%%%%%%%%%-->
 <h2> Upcoming 2022 Seminars (details may change)</h2>
 
-|**Time and Place:** 4pm Fri XXX Aug 2022, Weatherburn LT<br>                 **Speaker:** Cheryl E. Praeger (University of Western Australia)<br>       **Title:**  The pleasure of working with Jan Saxl<br><br>                    **Abstract:**  Jan Saxl was Professor of Algebra at Cambridge, and a Fellow of Gonville and Caius College, until his death in 2020. <br><br> Jan and I were exact contemporaries as DPhil students of Peter Neumann in Oxford. Our first research collaboration began six years later, a year before the finite simple  group classification (FSGC) was announced. My talk will reflect on our research collaborations, often also with Martin Liebeck. A major theme was application of the FSGC on problems involving permutation groups, graph symmetry, and simple group structure.  I wrote this talk to give at the Jan Saxl Memorial Day which Martin Liebeck and I organised in Cambridge on July 23.  |
+|**Time and Place:** 4pm Fri 26 Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>       **Title:**  The proportion of non-degenerate complementary subspaces in classical spaces. <br><br>                    **Abstract:**  Recognising classical groups is a key problem in computational group theory. This talk shows how a powerful technique in algebraic graph theory, the expander mixing lemma, can be used to solve a geometric problem needed for classical recognition. The problem is to find a lower bound for the proportion of pairs of complementary non-degenerate subspaces of prescribed dimensions. Once the eigenvalues are known, the computation is straightforward. This is joint work with Ferdinand Ihringer and Sam Mattheus. |
 
-|**Time and Place:** 4pm Fri XXX Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Stephen Glasby (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri XXX Aug 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Natalia Maslova (RAS and Krasovsky Institute of Mathematics and Mechanics)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
 
 |**Time and Place:** 4pm Fri 16 Sep 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Nick Gill (Open University)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
 
 |**Time and Place:** 4pm Fri 28 Oct 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Tim Burness (University of Bristol)<br>       **Title:**  <br><br>                    **Abstract:**  |
+
+|**Time and Place:** 4pm Fri XXX Nov 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** John Bamberg (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
 
 <h2> 2021 Seminars</h2>
