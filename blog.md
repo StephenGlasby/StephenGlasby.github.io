@@ -84,8 +84,8 @@ so it is conceivable that if mistakes proliferate that in hundred years
 Mathematics could face a crisis of reliability.
 
 Mathematics has undergone crises in the past, for example the foundational
-problems in set theory and problems of rigor in algebraic geometry
-[see](https://mathoverflow.net/questions/19420/what-mistakes-did-the-italian-algebraic-geometers-actually-make). It is possible that future mathematics may
+problems in set theory and
+[problems of rigor in algebraic geometry](https://mathoverflow.net/questions/19420/what-mistakes-did-the-italian-algebraic-geometers-actually-make). It is possible that future mathematics may
 inadvertently build large bodies of knowledge based on some erroneous results.
 
 You may be aware of [Crossmark](https://www.crossref.org/services/crossmark/)
