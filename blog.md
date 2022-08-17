@@ -66,7 +66,7 @@ than previously. Data from the International Association of Scientific,
 Technical and Medical Publishers (STM) from 1968-2018 can be seen
 [here](https://academia.stackexchange.com/questions/126980/global-number-of-publications-over-time). They show a threefold increase from 1980 to 2012 and a
 five-sixfold increase from 1975 to 2018. It is reasonable to assume that the
-number of mathematical errors have increased proportionaly, or maybe at a
+number of mathematical errors have increased proportionally, or maybe at a
 greater rate as the number of publications per mathematician grows.
 
 Not all mistakes are equal. The simplest mistake is a typo, and this is
@@ -74,16 +74,19 @@ can commonly be detected and corrected, but occasionally the typo occurs in
 a complex mathematical expression and correction is not straightforward.
 Sometimes authors give incomplete arguments and while the reader may believe
 the claimed result, the proof might be lacking. Of course there are examples
-also of results/statemests that are just plain wrong. Mathematics builds
-on itself it a way that is unique in the sciences, and authors coomonly
-trust the corectness of the published literature,
-so it is concievable that if mistakes proliferate that in hundred years
+also of results/statements that are just plain wrong.
+Over the last century many databases of groups have been published
+(*p*-groups, simple groups, primitive groups, groups of ``small'' order). Almost all had errors of omission, of duplication, or incorrect entries commonly due to typos. How reliable are current databases? 
+Mathematics builds
+on itself it a way that is unique in the sciences, and authors commonly
+trust the correctness of the published literature,
+so it is conceivable that if mistakes proliferate that in hundred years
 Mathematics could face a crisis of reliability.
 
 Mathematics has undergone crises in the past, for example the foundational
-problems in set theory and problems of rigour in algebraic geometry
+problems in set theory and problems of rigor in algebraic geometry
 [see](https://mathoverflow.net/questions/19420/what-mistakes-did-the-italian-algebraic-geometers-actually-make). It is possible that future mathematics may
-in advertently build large bodies of knowledge based on some eroneous results.
+inadvertently build large bodies of knowledge based on some erroneous results.
 
 You may be aware of [Crossmark](https://www.crossref.org/services/crossmark/)
 which says: *Research doesn’t stand still: even after publication, articles can be updated with supplementary data or corrections. It’s important to know if the content being cited has been updated, corrected, or retracted - and that’s the assurance that publishers can offer readers by using Crossmark. It’s a standardized button, consistent across platforms, revealing the status of an item of content, and can display any additional metadata the member chooses. Crucially, the Crossmark button can also be embedded in PDFs, which means that members have a way of alerting readers to changes months or even years after it’s been downloaded.*
