@@ -4,7 +4,7 @@ title: Blog
 permalink: /Blog/
 ---
 
-<h2> Academic publishing</h2>
+<h2> Why so few open access journals?</h2>
 
 Mathematicians are good at seeing how to solve problems, but how good
 are they at implementing the solutions?
@@ -69,24 +69,58 @@ five-sixfold increase from 1975 to 2018. It is reasonable to assume that the
 number of mathematical errors have increased proportionally, or maybe at a
 greater rate as the number of publications per mathematician grows.
 
-Not all mistakes are equal. The simplest mistake is a typo, and this is
+Some mistakes are worse than others. The simplest mistake is a typo, and this is
 can commonly be detected and corrected, but occasionally the typo occurs in
 a complex mathematical expression and correction is not straightforward.
 Sometimes authors give incomplete arguments and while the reader may believe
-the claimed result, the proof might be lacking. Of course there are examples
-also of results/statements that are just plain wrong.
+the claimed result, the proof might be have a gap. Of course there are examples
+also of results/statements that are just plain wrong. The last two examples
+raise questions of what should be done for the paper concerned and for
+the papers that rely on erroneous or incomplete arguments.
+
 Over the last century many databases of groups have been published
-(*p*-groups, simple groups, primitive groups, groups of ``small'' order). Almost all had errors of omission, of duplication, or incorrect entries commonly due to typos. How reliable are current databases? 
-Mathematics builds
-on itself it a way that is unique in the sciences, and authors commonly
-trust the correctness of the published literature,
-so it is conceivable that if mistakes proliferate that in hundred years
-Mathematics could face a crisis of reliability.
+(*p*-groups, simple groups, primitive groups, groups of ``small'' order).
+Many had errors of omission, of duplication, or incorrect entries commonly
+due to typos or transcription errors. For example, 
+the number of groups of order
+1024 was believed to be 49,487,365,422 for 20 years. However, recently
+David Burrell rechecked the original computer calculations and found that
+1,867 groups had been omitted from the correct total of 49,487,367,289.
+
+Proofs that depend on long and complicated arguments, or on
+complicated computer calculations, are naturally more prone to error. Worse,
+such results are less likely to be rechecked by others, so errors can go
+undetected for a long time as illustrated above. I do not believe that
+computer-free proofs are less or more error-prone than computer-assisted proofs.
+A simple computer check can be more convincing than a very long and complicated
+hand calculation. Complexity is the problem. But there is another problem:
+many mathematical publications do not have accompanying computer code for a
+referee to check. Of course this is not needed for simple computer checks, but
+for complicated checks it certainly is, and mathematicians have not collectively
+insisted that a complete proof (including supporting calculations) should
+be published.
+
+Mathematics builds on itself it a way that is unique in the sciences,
+and authors commonly trust the correctness of the published
+literature, so it is conceivable that if mistakes proliferate that in
+the future Mathematics could face a crisis of reliability. A replication crisis
+has been observed in the Medical Sciences, Psychology and other fields since
+roughly 2010. These fields have taken a number of steps to address this problem,
+see [here](https://en.wikipedia.org/wiki/Replication_crisis). The arbitrary
+choice of p < 0.05 for significance is less of a problem for pure mathematics.
+However other biases such as lack of availability of qualified referees,
+pressure to publish, confirmation bias, etc can play a role. Should mathematics
+place more emphasis on reproving central results whose veracity has been
+checked only by one or two people ever?  
 
 Mathematics has undergone crises in the past, for example the foundational
 problems in set theory and
 [problems of rigor in algebraic geometry](https://mathoverflow.net/questions/19420/what-mistakes-did-the-italian-algebraic-geometers-actually-make). It is possible that future mathematics may
 inadvertently build large bodies of knowledge based on some erroneous results.
 
-You may be aware of [Crossmark](https://www.crossref.org/services/crossmark/)
-which says: *Research doesn’t stand still: even after publication, articles can be updated with supplementary data or corrections. It’s important to know if the content being cited has been updated, corrected, or retracted - and that’s the assurance that publishers can offer readers by using Crossmark. It’s a standardized button, consistent across platforms, revealing the status of an item of content, and can display any additional metadata the member chooses. Crucially, the Crossmark button can also be embedded in PDFs, which means that members have a way of alerting readers to changes months or even years after it’s been downloaded.*
+There are many issues: who rechecks results? should MathSciNet be updated
+to include errors? what if canonical names for groups in databases change
+because of errors? what about publications that depend on flawed results?
+
+Published papers can in principle be updated by using [Crossmark](https://www.crossref.org/services/crossmark/).
+This says: *Research doesn’t stand still: even after publication, articles can be updated with supplementary data or corrections. It’s important to know if the content being cited has been updated, corrected, or retracted - and that’s the assurance that publishers can offer readers by using Crossmark. It’s a standardized button, consistent across platforms, revealing the status of an item of content, and can display any additional metadata the member chooses. Crucially, the Crossmark button can also be embedded in PDFs, which means that members have a way of alerting readers to changes months or even years after it’s been downloaded.*
