@@ -10,11 +10,9 @@ The Groups and Combinatorics Seminar occurs regularly on Friday afternoons at 16
 
 <h2> 2022 Seminars</h2>
 
-0. |**Time and Place:** 4pm Fri 25 March 2022, MS Teams<br>                 **Speaker:** Tony Li (University of Western Australia)<br>                 **Title:**  The chromatic polynomial of a graph and its roots<br><br> |
+|**Time and Place:** 4pm Fri 25 March 2022, MS Teams<br>                 **Speaker:** Tony Li (University of Western Australia)<br>                 **Title:**  The chromatic polynomial of a graph and its roots<br><br> |
 
-0. |**Time and Place:** 4pm Fri 01 April 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Michael Giudici (University of Western Australia)<br>                 **Title:**  $2$-closed groups and automorphism groups of digraphs<br><br>                    **Abstract:** Wielandt introduced the notion of the 2-closure of a permutation group $G$ on a set $\Omega$. This is the largest subgroup of $\mathrm{Sym}(\Omega)$ with the same set of orbits on ordered pairs as $G$. We say that $G$ is 2-closed if $G$ is equal to its 2-closure. The automorphism group of a graph or digraph is a 2-closed group. In this talk I will discuss some recent work with Luke Morgan and Jin-Xin Zhou on 2-closed groups that are not the automorphism group of a graph or digraph.|
-
-{: reversed="reversed"}
+|**Time and Place:** 4pm Fri 01 April 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Michael Giudici (University of Western Australia)<br>                 **Title:**  $2$-closed groups and automorphism groups of digraphs<br><br>                    **Abstract:** Wielandt introduced the notion of the 2-closure of a permutation group $G$ on a set $\Omega$. This is the largest subgroup of $\mathrm{Sym}(\Omega)$ with the same set of orbits on ordered pairs as $G$. We say that $G$ is 2-closed if $G$ is equal to its 2-closure. The automorphism group of a graph or digraph is a 2-closed group. In this talk I will discuss some recent work with Luke Morgan and Jin-Xin Zhou on 2-closed groups that are not the automorphism group of a graph or digraph.|
 
 |**Time and Place:** 4pm Fri 22 April 2021, Weatherburn LT, MS Teams<br>                 **Speaker:** Heiko Dietrich (Monash University)<br>                 **Title:**  Computing with groups<br><br>                    **Abstract:** Many groups (and other algebraic structures) can be described concisely by small generating sets, which makes them suitable for machine computations. My talk will report on some common ways to describe groups for a computer and how to compute them, and then focus on a survey of known and new quotient algorithms.|
 
