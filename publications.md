@@ -195,7 +195,7 @@ Cyclotomic ordering Conjecture
   [arXiv](https://arxiv.org/abs/1711.04104) |
   <a href="https://doi.org/10.26493/1855-3974.1547.454"> DOI</a> 
 
-0.  [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
+0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Luke Morgan](http://www.maths.uwa.edu.au/contact/staff) and
   [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
