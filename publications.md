@@ -138,7 +138,7 @@ Roots of unity and unreasonable differentiation,
 [arXiv](https://arxiv.org/abs/1901.06157) | 
 [DOI](https://doi.org/10.1007/s00013-019-01342-5)
 
-0.[John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
+0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Luke Morgan](https://www.famnit.upr.si/en/about-faculty/staff/luke.morgan/) and
   [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
