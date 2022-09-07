@@ -124,3 +124,44 @@ because of errors? what about publications that depend on flawed results?
 
 Published papers can in principle be updated by using [Crossmark](https://www.crossref.org/services/crossmark/).
 This says: *Research doesn’t stand still: even after publication, articles can be updated with supplementary data or corrections. It’s important to know if the content being cited has been updated, corrected, or retracted - and that’s the assurance that publishers can offer readers by using Crossmark. It’s a standardized button, consistent across platforms, revealing the status of an item of content, and can display any additional metadata the member chooses. Crucially, the Crossmark button can also be embedded in PDFs, which means that members have a way of alerting readers to changes months or even years after it’s been downloaded.*
+
+<h2> Journal of Conjectures and Proof Strategies</h2>
+
+Academics want publications. I will talk about academic mathematicians because I
+know them best. Lots of publications make you stand out as an
+applicant for a job, or for a promotion. Junior mathematicians are advised to
+research safe topics: perhaps were established methods can be applied to
+a new problem that has a good chance of success. If the problem has
+applications or is interesting, then the fact that the methods are established
+may not be an impediment to publication. Many established mathematicians follow
+this lower risk approach.
+
+Should Mathematics encourage more risk-taking?
+If so, there had better be publications as a reward.
+It is not uncommon in a mathematical paper to see a conjecture or
+question stated, after a series of established theorems/propositions/lemmas.
+We tend to be cautious about stating conjectures: if it can be solved
+quickly with little effort, we will feel embarrassed. A mathematician may well
+have many reasons for believing a conjecture and maybe has an outline of
+a proof but some part can not be completed. The evidence for a conjecture and
+strategies for its proof are commonly not published, so different researchers
+who try to solve the conjecture may well repeat the same work. If mathematics
+had respected avenues to publish what could be regarded as incomplete work, then
+the field may advance more quickly. There are caveats. The work should
+(a) be on a conjecture of interest to a broad community of mathematicians;
+(b) the proposed methods should offer some hope of success;
+(c) the research should be written in a general manner so that other researchers
+  can build on the results to either prove the conjecture or significantly close
+  the gap;
+(d) the paper may include computational evidence that the conjecture is true
+  (ideally with well written supporting computer code),  or the paper
+  may reduce the problem to a different problem requiring specific expertise.
+
+Is MathOverflow a suitable avenue for such risk-taking. Yes and no. A posting on
+MathOverflow is different to a refereed journal article. Also if a
+junior mathematician posts 70% of a solution on MathOverflow (I know
+that is hard to quantify) and someone contributes the remaining 30% in
+a single author publication generously acknowledging your post, then that
+does not help your career.
+
+
