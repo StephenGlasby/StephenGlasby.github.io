@@ -1,7 +1,7 @@
 --
 layout: page
 title: Blog
-permalink: /Blog/
+permalink: /blog/
 ---
 
 <h2> Why so few open access journals?</h2>
