@@ -20,13 +20,12 @@ astronomical prices of journals offered by large publishers such as Elsevier/Tay
 One of the oldest electronic journals, founded in 1994 by Herbert S. Wilf
 and Neil Calkin, is
 [The Electronic Journal of Combinatorics](https://www.combinatorics.org/).
-Since then
-there have been others including:
-Enumerative Combinatorics and Applications,
-Algebraic Combinatorics,
-Advances in Combinatorics,
-Discrete Analysis,
-Ars Inveniendi Analytica.
+Since then there have been others including:
++ Enumerative Combinatorics and Applications,
++ Algebraic Combinatorics,
++ Advances in Combinatorics,
++ Discrete Analysis,
++ Ars Inveniendi Analytica.
 I am surprised that the list of Open Access, arXiv overlay journals is so
 small and that commercial publishers abound. There are many commercial
 journals (as opposed to society journals) with very low academic standards
@@ -160,9 +159,9 @@ a proof but some part can not be completed. The evidence for a conjecture and
 strategies for its proof are commonly not published, so different researchers
 who try to solve the conjecture may well repeat the same work. If Mathematics
 had respected avenues to publish what could be regarded as incomplete work, then
-the field may advance more quickly. There are caveats. The work should
-1. be on a conjecture of interest to a broad community of mathematicians;
-2. the proposed methods should offer some hope of success;
+the field may advance more quickly. There are caveats:
+1. the work should be on a conjecture of interest to a broad community of mathematicians;
+2. the proposed methods/ideas should make notable progress, ideally offering some hope of success;
 3. the research should be written in a general manner so that other researchers
   can build on the results to either prove the conjecture or significantly close
   the gap;
