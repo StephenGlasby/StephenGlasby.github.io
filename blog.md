@@ -59,6 +59,7 @@ errors/updates handled? when non-trivial computer programs form part of a proof
 is computer code stored? is mathematical research immediately available?
 Can mathematics flourish with 5, 10, 20 year copyright agreements? etc
 
+<hr />
 <h2> How should we handle errors?</h2>
 
 It is no surprise that there are many more mathematical papers published now
