@@ -137,6 +137,7 @@ because of errors? what about publications that depend on flawed results?
 Published papers can in principle be updated by using [Crossmark](https://www.crossref.org/services/crossmark/).
 This says: *Research doesn't stand still: even after publication, articles can be updated with supplementary data or corrections. It’s important to know if the content being cited has been updated, corrected, or retracted - and that’s the assurance that publishers can offer readers by using Crossmark. It’s a standardized button, consistent across platforms, revealing the status of an item of content, and can display any additional metadata the member chooses. Crucially, the Crossmark button can also be embedded in PDFs, which means that members have a way of alerting readers to changes months or even years after it’s been downloaded.*
 
+<hr />
 <h2> Journal of Conjectures and Proof Strategies</h2>
 
 Academics want publications. I will talk about academic mathematicians because I
