@@ -86,6 +86,12 @@ the number of groups of order
 1024 was believed to be 49,487,365,422 for 20 years. However, recently
 David Burrell rechecked the original computer calculations and found that
 1,867 groups had been omitted from the correct total of 49,487,367,289.
+Moreover, software can have bugs, known to experts but no fixed due to lack
+of resources. For example a 
+[bug](https://github.com/gap-system/gap/issues/3940)
+in GAP regarding isomorphism of groups of
+order 512 has not yet been fixed since April 2020. Volunteers are often not
+rewarded/regognized for their service.
 
 Proofs that depend on long and complicated arguments, or on
 complicated computer calculations, are naturally more prone to error. Worse,
@@ -107,7 +113,8 @@ the future Mathematics could face a crisis of reliability. A replication crisis
 has been observed in the Medical Sciences, Psychology and other fields since
 roughly 2010. These fields have taken a number of steps to address this problem,
 see [here](https://en.wikipedia.org/wiki/Replication_crisis). The arbitrary
-choice of p < 0.05 for significance is less of a problem for pure mathematics.
+choice of p < 0.05 for significance, and the attendant problem pf p-hacking,
+is less of a problem for pure mathematics.
 However other biases such as lack of availability of qualified referees,
 pressure to publish, confirmation bias, etc can play a role. Should mathematics
 place more emphasis on reproving central results whose veracity has been
@@ -168,8 +175,8 @@ losers and gracious and ungracious authors. Having a published partial result
 is less risky, and more attractive (especially to junior mathematicians).
 A 70% proof of the P = NP conjecture may well be easy to get published, but for
 less important (but still significant) problems I think you could find it hard
-to get your work published by a respectable journal. I wonder whether by
-made up journals such as "Journal of Conjectures and Proof Strategies" could
+to get your work published by a respectable journal. I wonder whether fictional
+journals such as "Journal of Conjectures and Proof Strategies" could
 help mathematics advance more rapidly, by reducing the amount of replication,
 and by building on the shoulders of other researchers?
 
