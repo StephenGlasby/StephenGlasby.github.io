@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: Blog
 permalink: /Blog/
@@ -160,12 +160,12 @@ strategies for its proof are commonly not published, so different researchers
 who try to solve the conjecture may well repeat the same work. If Mathematics
 had respected avenues to publish what could be regarded as incomplete work, then
 the field may advance more quickly. There are caveats. The work should
-(a) be on a conjecture of interest to a broad community of mathematicians;
-(b) the proposed methods should offer some hope of success;
-(c) the research should be written in a general manner so that other researchers
+1. be on a conjecture of interest to a broad community of mathematicians;
+2. the proposed methods should offer some hope of success;
+3. the research should be written in a general manner so that other researchers
   can build on the results to either prove the conjecture or significantly close
   the gap;
-(d) the paper may include computational evidence that the conjecture is true
+4. the paper may include computational evidence that the conjecture is true
   (ideally with well written supporting computer code),  or the paper
   may reduce the problem to a different problem requiring specific expertise.
 
