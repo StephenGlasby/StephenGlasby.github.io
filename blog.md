@@ -87,7 +87,7 @@ the number of groups of order
 1024 was believed to be 49,487,365,422 for 20 years. However, recently
 David Burrell rechecked the original computer calculations and found that
 1,867 groups had been omitted from the correct total of 49,487,367,289.
-Moreover, software can have bugs, known to experts but no fixed due to lack
+Moreover, software can have bugs, known to experts but not fixed due to lack
 of resources. For example a 
 [bug](https://github.com/gap-system/gap/issues/3940)
 in [GAP](https://www.gap-system.org/), involving isomorphism of groups of
