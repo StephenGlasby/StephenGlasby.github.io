@@ -89,8 +89,8 @@ David Burrell rechecked the original computer calculations and found that
 Moreover, software can have bugs, known to experts but no fixed due to lack
 of resources. For example a 
 [bug](https://github.com/gap-system/gap/issues/3940)
-in GAP regarding isomorphism of groups of
-order 512 has not yet been fixed since April 2020. Volunteers are often not
+in [GAP](https://www.gap-system.org/), involving isomorphism of groups of
+order 512, has not yet been fixed since April 2020. Volunteers are often not
 rewarded/regognized for their service.
 
 Proofs that depend on long and complicated arguments, or on
@@ -113,12 +113,17 @@ the future Mathematics could face a crisis of reliability. A replication crisis
 has been observed in the Medical Sciences, Psychology and other fields since
 roughly 2010. These fields have taken a number of steps to address this problem,
 see [here](https://en.wikipedia.org/wiki/Replication_crisis). The arbitrary
-choice of p < 0.05 for significance, and the attendant problem pf p-hacking,
+choice of p < 0.05 for significance, and the attendant problem of p-hacking,
 is less of a problem for pure mathematics.
-However other biases such as lack of availability of qualified referees,
+However, other biases such as lack of availability of qualified referees,
 pressure to publish, confirmation bias, etc can play a role. Should mathematics
 place more emphasis on reproving central results whose veracity has been
-checked only by one or two people ever?  
+checked only by one or two people ever? A rare example of this is the
+"The Classification of the Finite Simple Groups" by Gorenstein, Lyons, Solomon.
+At the time of writing 8 of the 12 proposed volumes have been written.
+It is unclear whether the surviving authors (Lyons and Solomon) will complete
+the proof or whether another proof strategy will prevail. It would be a
+rude shock if a new finite simple group was discovered (but nobody suspect this).
 
 Mathematics has undergone crises in the past, for example the foundational
 problems in set theory and
