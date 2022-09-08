@@ -26,6 +26,7 @@ Since then there have been others including:
 + Advances in Combinatorics,
 + Discrete Analysis,
 + Ars Inveniendi Analytica.
+
 I am surprised that the list of Open Access, arXiv overlay journals is so
 small and that commercial publishers abound. There are many commercial
 journals (as opposed to society journals) with very low academic standards
