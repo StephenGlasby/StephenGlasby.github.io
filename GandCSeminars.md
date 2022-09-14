@@ -55,14 +55,19 @@ The Maths and Stastistics Coloquium on *Thursday 28 April* will be by Heiko Diet
 |**Time and Place:** 4pm Fri 16 Sep 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Nick Gill (Open University, UK)<br>       **Title:** Binary actions of simple groups <br><br>                    **Abstract:**  A permutation action of a group G on a set X is “binary” if, roughly speaking, one can deduce the orbits on X^n (for all positive integers n) from the orbits on X^2. This notion arose first in model theory, thanks to the work of Gregory Cherlin.<br><br> I’m interested in the following question: if G is simple, what are its TRANSITIVE binary actions? Thanks to the work of various authors we know that there are no PRIMITIVE binary actions but, until recently, that was pretty much the extent of our knowledge.<br><br> It turns out that interesting transitive binary actions do exist for G simple and I will describe some of these. If there is time, I will also describe a nice graph that connects the notion of a transitive binary action to the classical notion of a “strongly embedded subgroup”. This connection offers hope that it may be possible to classify all such actions and I will describe recent progress in this direction.|
 
 
-|**Time and Place:** 4pm Fri 23 Sep 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Natalia Maslova (RAS and Krasovsky Institute of Mathematics and Mechanics)<br>       **Title:**  On characterization of finite groups by Gruenberg-Kegel graph <br><br>                    **Abstract:**  |
+|**Time and Place:** 4pm Fri 14 Oct 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Natalia Maslova (RAS and Krasovsky Institute of Mathematics and Mechanics)<br>       **Title:**  On characterization of finite groups by Gruenberg-Kegel graph <br><br>                    **Abstract:**  |
 
 
 |**Time and Place:** 4pm Fri 28 Oct 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Tim Burness (University of Bristol, UK)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
+|**Time and Place:** 4pm Fri 11 Nov 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** Tim Boykett (Johannes-Kepler University, Linz)<br>       **Title:**  <br><br>                    **Abstract:**  |
+
 |**Time and Place:** 4pm Fri XXX Nov 2022, Weatherburn LT, MS Teams<br>                 **Speaker:** John Bamberg (University of Western Australia)<br>       **Title:**  <br><br>                    **Abstract:**  |
 
 
+
+<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 2021 Seminars %%%%%%%%%%%%%%%%%%%%%%%%%-->
+<hr />
 <h2> 2021 Seminars</h2>
 
 |**Speaker:** Stephen Glasby (University of Western Australia)<br />**Title:** Recognizing simple groups: alternating and classical<br />**Time and place:** 26 Feb 2021, 4pm at Weatherburn LT<br /><br />**Abstract:**  The structure of a non-solvable finite group is strongly influenced by its non-abelian composition factors.  A central problem in computational group theory, therefore, involves quickly recognizing non-abelian simple composition factors. I will consider the most commonly occurring non-abelian simple groups namely the alternating (Alt_n) or the classical groups (PSL_d(q), PSp_d(q), PSU_d(q), POmega_d(q)).  The idea is to find by random selection group elements with certain properties including being relatively abundant. This is joint work with Niemeyer, Praeger and Unger.|
