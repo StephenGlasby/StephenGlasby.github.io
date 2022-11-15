@@ -29,7 +29,10 @@ Derrangements in wreath products of permutation groups.
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Saul D. Freedman and
 [Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
-Tournaments and even graphs are equinumerous.
+Tournaments and even graphs are equinumerous,
+<!--
+*J. Algebraic Combin.* **XX** (202X), XX--XX.
+-->
 [arXiv](http://arxiv.org/abs/2204.01947)
 
 0. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
