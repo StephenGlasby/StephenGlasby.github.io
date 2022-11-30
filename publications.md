@@ -30,9 +30,10 @@ Derrangements in wreath products of permutation groups.
 Saul D. Freedman and
 [Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
 Tournaments and even graphs are equinumerous,
-<!--
-*J. Algebraic Combin.* **XX** (202X), XX--XX.
--->
+*J. Algebraic Combin.* **XX** (2022), XX--XX.
+[arXiv](https://arxiv.org/abs/2204.01947) | 
+[DOI](https://doi.org/10.1007/s10801-022-01197-0)
+
 [arXiv](http://arxiv.org/abs/2204.01947)
 
 0. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
