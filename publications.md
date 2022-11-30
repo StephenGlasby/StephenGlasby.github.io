@@ -34,8 +34,6 @@ Tournaments and even graphs are equinumerous,
 [arXiv](https://arxiv.org/abs/2204.01947) | 
 [DOI](https://doi.org/10.1007/s10801-022-01197-0)
 
-[arXiv](http://arxiv.org/abs/2204.01947)
-
 0. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
 [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
 [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
