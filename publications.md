@@ -388,6 +388,7 @@ AS-configurations and skew-translation generalised quadrangles,
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   The Meat-axe and *f*-cyclic matrices
   *J. Algebra* **300** (2006), 77--90.
+  [pdf](PAPER33.PDF) |
   <a href="PAPER33.PDF"> pdf</a> |
   [DOI](https://doi.org/10.1016/j.jalgebra.2006.01.026)
   
