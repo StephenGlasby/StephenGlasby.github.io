@@ -205,9 +205,7 @@ Cyclotomic ordering Conjecture
   *J. Pure Appl. Algebra* **222** (2018), 2931--2951.
   [arXiv](https://arxiv.org/abs/1603.05384) |
   <a href="https://doi.org/10.1016/j.jpaa.2017.11.006"> DOI</a> |
-  <a href="BGMNAssocComm.mag"> Magma code: associative & commutator laws</a> |
-  <a href="http://www.ams.org/mathscinet-getitem?mr=***"> MR**</a> |
-  <a href="https://zbmath.org/?q=an:**********"> Zbl**</a> 
+  [Magma code: associative & commutator laws](BGMNAssocComm.mag)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger),
@@ -448,7 +446,7 @@ AS-configurations and skew-translation generalised quadrangles,
   *Comm. Algebra* **24** (1996), 1529--1546.
   <!--  <a href="files/PAPER18.PDF"> pdf</a> | -->
   [pdf](PAPER18.PDF) |
-  <a href="WallKovacsAustMS2001.JPG"> WallKovacs</a>
+  [WallKovacs](WallKovacsAustMS2001.JPG)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   On generators for the group of units of the ring of integers modulo *n*,
