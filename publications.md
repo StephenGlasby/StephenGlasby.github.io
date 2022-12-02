@@ -444,9 +444,8 @@ AS-configurations and skew-translation generalised quadrangles,
   [L.G. Kov&aacute;cs](http://maths.anu.edu.au/about-us/news/dr-laci-kovacs),
   Irreducible modules and normal subgroups of prime index,
   *Comm. Algebra* **24** (1996), 1529--1546.
-  <!--  <a href="files/PAPER18.PDF"> pdf</a> | -->
   [pdf](PAPER18.PDF) |
-  [WallKovacs](WallKovacsAustMS2001.JPG)
+  [WallKovacs](WallKovacsAustMS2001.jpg)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   On generators for the group of units of the ring of integers modulo *n*,
