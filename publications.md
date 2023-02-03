@@ -12,133 +12,132 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 -->
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Ferdinand Ihringer](http://math.ihringer.org/) and
-[Sam Mattheus](http://homepages.vub.ac.be/~samatthe/),
-The proportion of non-degenerate complementary subspaces in classical spaces.
-[arXiv](http://arxiv.org/abs/2207.04678) | 
-[GAP FinIng code](FinIngGAPcode.g)
+  [Ferdinand Ihringer](http://math.ihringer.org/) and
+  [Sam Mattheus](http://homepages.vub.ac.be/~samatthe/),
+  The proportion of non-degenerate complementary subspaces in classical spaces.
+  [arXiv](http://arxiv.org/abs/2207.04678) | 
+  [GAP FinIng code](FinIngGAPcode.g)
 
 0. [Vishnuram Arumugam](https://staffportal.curtin.edu.au/staff/profile/view/vishnuram-arumugam-fa070dec/),
-[Heiko Dietrich](https://users.monash.edu/~heikod/) and
-[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Derangements in wreath products of permutation groups.
-[arXiv](https://arxiv.org/abs/2207.01215)
+  [Heiko Dietrich](https://users.monash.edu/~heikod/) and
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+  Derangements in wreath products of permutation groups.
+  [arXiv](https://arxiv.org/abs/2207.01215)
 
 0. [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
-[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
-[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Saul D. Freedman and
-[Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
-Tournaments and even graphs are equinumerous,
-*J. Algebraic Combin.* **XX** (2022), XX--XX.
-[arXiv](https://arxiv.org/abs/2204.01947) | 
-[DOI](https://doi.org/10.1007/s10801-022-01197-0)
+  [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+  Saul D. Freedman and
+  [Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
+  Tournaments and even graphs are equinumerous,
+  *J. Algebraic Combin.* **XX** (2022), XX--XX.
+  [arXiv](https://arxiv.org/abs/2204.01947) | 
+  [DOI](https://doi.org/10.1007/s10801-022-01197-0)
 
 0. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
-[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
-[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
-Subgroups of classical groups that are transitive on subspaces.
-[arXiv](https://arxiv.org/abs/2012.07213)
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+  [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+  Subgroups of classical groups that are transitive on subspaces.
+  [arXiv](https://arxiv.org/abs/2012.07213)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
-[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
-Random generation of direct sums of finite non-degenerate subspaces,
-*Linear Algebra Appl.* **649** (2022), 408--432.
-[arXiv](https://arxiv.org/abs/2111.02198) |
-[DOI](https://doi.org/10.1016/j.laa.2022.05.016)
+  [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) 
+  and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+  Random generation of direct sums of finite non-degenerate subspaces,
+  *Linear Algebra Appl.* **649** (2022), 408--432.
+  [arXiv](https://arxiv.org/abs/2111.02198) |
+  [DOI](https://doi.org/10.1016/j.laa.2022.05.016)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
-[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
-The probability of spanning a classical space by two non-degenerate subspaces
-of complementary dimension, *Finite Fields Their Appl.* **82** (2022),
-paper no. 102055.
-[arXiv](https://arxiv.org/abs/2109.10015) |
-[DOI](https://doi.org/10.1016/j.ffa.2022.102055)
+  [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
+  and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+  The probability of spanning a classical space by two non-degenerate subspaces
+  of complementary dimension, *Finite Fields Their Appl.* **82** (2022),
+  paper no. 102055.
+  [arXiv](https://arxiv.org/abs/2109.10015) |
+  [DOI](https://doi.org/10.1016/j.ffa.2022.102055)
 
 0. Faezeh Alizadeh,
-[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
-[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
-Sequences of linear codes where the rate times distance grows rapidly,
-*J. Algebra Comb. Discrete Struct. Appl.* **XX**(X) (2022), XX--XX.
-[arXiv](https://arxiv.org/abs/2110.01277)
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+  [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+  Sequences of linear codes where the rate times distance grows rapidly,
+  *J. Algebra Comb. Discrete Struct. Appl.* **XX**(X) (2022), XX--XX.
+  [arXiv](https://arxiv.org/abs/2110.01277)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
-G.R. Paseman,
-On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
-*Electron. J. Combin.* **29**(2) (2022), article P2.5.
-[arXiv](https://arxiv.org/abs/2109.11396) |
-[DOI](https://doi.org/10.37236/10751) 
+  G.R. Paseman,
+  On the maximum of the weighted binomial sum $2^{-r}\sum_{i=0}^r\binom{m}{i}$,
+  *Electron. J. Combin.* **29**(2) (2022), article P2.5.
+  [arXiv](https://arxiv.org/abs/2109.11396) |
+  [DOI](https://doi.org/10.37236/10751) 
 
 0. [Dominik Bernhardt](https://www.mathematik.rwth-aachen.de/go/id/bkbg/gguid/0xF033AE30691E4645A7355F6BBD82B37D/ikz/11/allou/1),
-[Tim Boykett](http://www.algebra.uni-linz.ac.at/~tim/),
-[Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
-[Johannes Flake](https://johannesflake.github.io/) and
-[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-The groups *G* satisfying a functional equation
-*f(xk) = xf(x)* for some *k ∈ G*,
-*J. Group Theory* **XX**(X) (2022), XX--XX.
-[arXiv](https://arxiv.org/abs/2105.09117) |
-[DOI paper](https://doi.org/10.1515/jgth-2021-0158) |
-[Magma code](https://research-repository.uwa.edu.au/en/datasets/magma-computer-program-for-j-groups-and-exponent-polynomials) |
-[DOI Magma code](http://doi.org/10.26182/x36d-3b55)
+  [Tim Boykett](http://www.algebra.uni-linz.ac.at/~tim/),
+  [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers),
+  [Johannes Flake](https://johannesflake.github.io/) and
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+  The groups *G* satisfying a functional equation
+  *f(xk) = xf(x)* for some *k ∈ G*,
+  *J. Group Theory* **XX**(X) (2022), XX--XX.
+  [arXiv](https://arxiv.org/abs/2105.09117) |
+  [DOI paper](https://doi.org/10.1515/jgth-2021-0158) |
+  [Magma code](https://research-repository.uwa.edu.au/en/datasets/magma-computer-program-for-j-groups-and-exponent-polynomials) |
+  [DOI Magma code](http://doi.org/10.26182/x36d-3b55)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
-and
-[W.R. Unger](https://sydney.edu.au/science/about/our-people/academic-staff/william-unger.html), 
-Most permutations power to a cycle of small prime length,
-*Proc. R. Soc. Edinb.* **64**(2) (2021), 234--246.
-[arXiv](https://arxiv.org/abs/1911.12613) |
-[DOI](https://doi.org/10.1017/S0013091521000110)
+  [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger), and
+  [W.R. Unger](https://sydney.edu.au/science/about/our-people/academic-staff/william-unger.html), 
+  Most permutations power to a cycle of small prime length,
+  *Proc. R. Soc. Edinb.* **64**(2) (2021), 234--246.
+  [arXiv](https://arxiv.org/abs/1911.12613) |
+  [DOI](https://doi.org/10.1017/S0013091521000110)
 
-0.  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-E. Pierro and
-[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
-Point-primitive generalised hexagons and octagons and projective
-linear groups,
-*Ars Math. Contemp.* **21** (2021), #P2.10.
-[arXiv](https://arxiv.org/abs/2012.04189) | 
-[DOI](https://doi.org/10.26493/1855-3974.2049.3db)
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+  E. Pierro and
+  [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+  Point-primitive generalised hexagons and octagons and projective
+  linear groups,
+  *Ars Math. Contemp.* **21** (2021), #P2.10.
+  [arXiv](https://arxiv.org/abs/2012.04189) | 
+  [DOI](https://doi.org/10.26493/1855-3974.2049.3db)
 
 0. [Mariagrazia Bianchi](https://www.unimi.it/en/ugov/person/mariagrazia-bianchi),
-[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/)
-and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
-Conjugacy class sizes in arithmetic progression
-*J. Group Theory* **23**(6) (2020), 1039--1056.
-[pdf](https://staffhome.ecm.uwa.edu.au/~00059629/BianchiGlasbyPraegerConjugacyClassSizesInAP.pdf) | [arXiv](https://arxiv.org/abs/2003.03906) |
-[DOI](https://doi.org/10.1515/jgth-2020-0046)
-
-0.   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger) and
-[Colva M. Roney-Dougal](http://www-groups.mcs.st-and.ac.uk/~colva/),
-Involution centralisers in finite unitary groups of odd characteristic
-*J. Algebra* **545** (2020), 245--299.
-[arXiv](https://arxiv.org/abs/1812.01362)
-
-0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
-[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Scott Harper](https://seis.bristol.ac.uk/~sh15083/) and
-[Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
-Permutations with orders coprime to a given integer,
-*Electron. J. Combin.* **27**(1) (2020), #P1.6.
-[arXiv](https://arxiv.org/abs/1807.10450) | 
-[Magma code](DataSPG.mag) |
-[DOI](https://doi.org/10.37236/8678)
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/)
+  and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+  Conjugacy class sizes in arithmetic progression
+  *J. Group Theory* **23**(6) (2020), 1039--1056.
+  [pdf](https://staffhome.ecm.uwa.edu.au/~00059629/BianchiGlasbyPraegerConjugacyClassSizesInAP.pdf) | [arXiv](https://arxiv.org/abs/2003.03906) |
+  [DOI](https://doi.org/10.1515/jgth-2020-0046)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Classifying uniformly generated groups,
-*Commun. Algebra* **48** (2020), 101--104. 
-[arXiv](https://arxiv.org/abs/1901.06480) | 
-[DOI](https://doi.org/10.1080/00927872.2019.1632333)
+  [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger) and
+  [Colva M. Roney-Dougal](http://www-groups.mcs.st-and.ac.uk/~colva/),
+  Involution centralisers in finite unitary groups of odd characteristic
+  *J. Algebra* **545** (2020), 245--299.
+  [arXiv](https://arxiv.org/abs/1812.01362)
+
+0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+  [Scott Harper](https://seis.bristol.ac.uk/~sh15083/) and
+  [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+  Permutations with orders coprime to a given integer,
+  *Electron. J. Combin.* **27**(1) (2020), #P1.6.
+  [arXiv](https://arxiv.org/abs/1807.10450) | 
+  [Magma code](DataSPG.mag) |
+  [DOI](https://doi.org/10.37236/8678)
+
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+  Classifying uniformly generated groups,
+  *Commun. Algebra* **48** (2020), 101--104. 
+  [arXiv](https://arxiv.org/abs/1901.06480) | 
+  [DOI](https://doi.org/10.1080/00927872.2019.1632333)
 
 0. [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers) and
-[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-Roots of unity and unreasonable differentiation,
-*Archiv der Mathematik* **113**(4) (2019), 367--371.
-[arXiv](https://arxiv.org/abs/1901.06157) | 
-[DOI](https://doi.org/10.1007/s00013-019-01342-5)
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+  Roots of unity and unreasonable differentiation,
+  *Archiv der Mathematik* **113**(4) (2019), 367--371.
+  [arXiv](https://arxiv.org/abs/1901.06157) | 
+  [DOI](https://doi.org/10.1007/s00013-019-01342-5)
 
 0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
@@ -154,8 +153,8 @@ Roots of unity and unreasonable differentiation,
   Duality between *p*-groups with three characteristic subgroups and
   semisimple anti-commutative algebras,
   *Proc. R. Soc. Edinb.* **150**(4) (2019), 1827--1852. 
-  <a href="https://arxiv.org/abs/1711.04998"> arXiv</a> |
-  <a href="https://doi.org/10.1017/prm.2018.159"> DOI</a>
+  [arXiv](https://arxiv.org/abs/1711.04998) |
+  [DOI](https://doi.org/10.1017/prm.2018.159)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 Cyclotomic ordering Conjecture
@@ -163,13 +162,13 @@ Cyclotomic ordering Conjecture
   <a href="https://arxiv.org/abs/1903.01962"> solution</a> by Pomerance and Rubinstein-Salzedo.
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) and
-   Tomasz Popiel,
+  [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
+  and Tomasz Popiel,
   On the second-largest Sylow subgroup of a finite simple group of Lie type,
   *Bull. Austral. Math. Soc.* **99** (2019), 203--211. 
-  <a href="https://arxiv.org/abs/1712.05899"> arXiv</a> |
+  [arXiv](https://arxiv.org/abs/1712.05899) |
   <a href="ExceptionsCheck.mag"> Magma code</a> |
-  <a href="https://doi.org/10.1017/S0004972718000928"> DOI</a>
+  [DOI](https://doi.org/10.1017/S0004972718000928)
 
 0. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
@@ -177,8 +176,8 @@ Cyclotomic ordering Conjecture
   [Gabriel Verret](http://www.maths.uwa.edu.au/~verret),
   Arc-transitive digraphs with quasiprimitive local actions,
   *J. Pure Appl. Algebra* **223** (2019), 1217-1226. 
-  <a href="https://arxiv.org/abs/1610.06222"> arXiv</a> |
-  <a href="https://doi.org/10.1016/j.jpaa.2018.06.002"> DOI</a>
+  [arXiv](https://arxiv.org/abs/1610.06222) |
+  [Doi](https://doi.org/10.1016/j.jpaa.2018.06.002)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
 [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger") and
@@ -195,7 +194,7 @@ Cyclotomic ordering Conjecture
   On the parameters of intertwining codes,
   *Ars Math. Contemp.* **16** (2019), 49--58. 
   [arXiv](https://arxiv.org/abs/1711.04104) |
-  <a href="https://doi.org/10.26493/1855-3974.1547.454"> DOI</a> 
+  [DOI](https://doi.org/10.26493/1855-3974.1547.454)
 
 0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
@@ -250,14 +249,14 @@ Cyclotomic ordering Conjecture
   <a href="http://www.austms.org.au/Journal+of+the+Australian+Mathematical+Society"> *J. Austral. Math. Soc.*</a> **102**(1) (2017), 1--161. Special issue dedicated to the
   memory of L.G. Kov&aacute;cs. Editors: 
   <a href="http://www.maths.nuigalway.ie/~dane/"> Dane Flannery</a>,
-  <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>,
+  [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger),
   <a href="http://www.maths.manchester.ac.uk/~rs/"> Ralph St&ouml;hr</a>.
   Table of <a href="https://tinyurl.com/y92y3h43"> contents</a> for
   Volume 102, Issue 1.
 
 0. Editorial to this special issue in memory of Laci Kov&aacute;cs
   (with <a href="http://www.maths.nuigalway.ie/~dane/"> Dane Flannery</a>,
-  <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>,
+  [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger),
   <a href="http://www.maths.manchester.ac.uk/~rs/"> Ralph St&ouml;hr</a>),
   *J. Austral. Math. Soc.* **102**(1) (2017), 1--2.
   [DOI](https://doi.org/10.1017/S144678871600046X)
@@ -292,12 +291,12 @@ Cyclotomic ordering Conjecture
   [DOI](https://doi.org/10.1002/jcd.21411)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-[Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
-[Binzhou Xia](https://sites.google.com/site/binzhouxia/),
-Decomposing modular tensor products, and periodicity of `Jordan partitions'
-*J. Algebra* **450** (2016), 570--587.
-[arXiv](https://arxiv.org/abs/1401.2748) |
-[DOI](https://doi.org/10.1016/j.jalgebra.2015.11.025)
+  [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
+  [Binzhou Xia](https://sites.google.com/site/binzhouxia/),
+  Decomposing modular tensor products, and periodicity of `Jordan partitions'
+  *J. Algebra* **450** (2016), 570--587.
+  [arXiv](https://arxiv.org/abs/1401.2748) |
+  [DOI](https://doi.org/10.1016/j.jalgebra.2015.11.025)
 
 0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
@@ -319,7 +318,8 @@ Decomposing modular tensor products, and periodicity of `Jordan partitions'
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   Distant parents in complete binary trees, *Math. Scientist*
   **38**(1) (2013), 1--10.
-  [arXiv](https://arxiv.org/abs/1405.5624)
+  [arXiv](https://arxiv.org/abs/1405.5624) |
+  [DOI](10.48550/arxiv.1405.5624)
 
 0. Scott Brown,
   [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
@@ -408,7 +408,8 @@ Decomposing modular tensor products, and periodicity of `Jordan partitions'
   Modules induced from a normal subgroup of prime index, in
   Rings, Modules, and Abelian Groups, Eds. A. Facchini, E. Houston and L. Salce,
   Lecture Notes in Pure and Applied Mathematics **236** (2004), 257--270.
-  [pdf](PAPER27.PDF)
+  [pdf](PAPER27.PDF) |
+  [DOI(https://doi.org/10.1201/9780824750817)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   On the tensor product of polynomials over a ring, *J. Austral. Math. Soc.*
@@ -426,7 +427,7 @@ Decomposing modular tensor products, and periodicity of `Jordan partitions'
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   Extended Euclid's algorithm via backward recurrence relations,
   *Math. Mag.* **75** (1999), 228--230.
-  [pdf](PAPER19.PDF)
+  [DOI](https://doi.org/10.2307/2690887)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   Subgroups of the upper-triangular matrix group
