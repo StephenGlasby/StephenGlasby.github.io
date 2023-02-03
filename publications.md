@@ -188,7 +188,7 @@ Cyclotomic ordering Conjecture
   <a href="https://arxiv.org/abs/1711.06860"> arXiv</a> |
   <!--<a href="http://www.ams.org/mathscinet-getitem?mr=3430240"> MR**</a> |--> 
   <a href="JCF"> Magma code</a>  |
-[DOI](https://doi.org/10.1007/s11856-018-1812-z)
+  [DOI](https://doi.org/10.1007/s11856-018-1812-z)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
   [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger),
@@ -204,7 +204,7 @@ Cyclotomic ordering Conjecture
   Maximal linear groups induced on the Frattini quotient of a *p*-group
   *J. Pure Appl. Algebra* **222** (2018), 2931--2951.
   [arXiv](https://arxiv.org/abs/1603.05384) |
-  <a href="https://doi.org/10.1016/j.jpaa.2017.11.006"> DOI</a> |
+  [DOI](https://doi.org/10.1016/j.jpaa.2017.11.006) |
   [Magma code: associative & commutator laws](BGMNAssocComm.mag)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
@@ -215,7 +215,7 @@ Cyclotomic ordering Conjecture
   completely reducible linear groups,
   *J. London Math. Soc* **98**(2) (2018), 557--572.
   [arXiv](https://arxiv.org/abs/1712.05520) |
-  <a href="https://doi.org/10.1112/jlms.12138"> DOI</a>
+  [DOI](https://doi.org/10.1112/jlms.12138)
 
 0. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
@@ -225,15 +225,15 @@ Cyclotomic ordering Conjecture
   reducible groups of characteristic *p*,
   *J. Algebra* **490** (2017), 241--255. 
   [arXiv](https://arxiv.org/abs/1602.07829) |
-  <a href="https:doi.org/10.1016/j.jalgebra.2017.07.009"> DOI</a>
+  [DOI](https:doi.org/10.1016/j.jalgebra.2017.07.009)
 
-0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-  On the dimension of twisted centralizer codes (with
-  <a href="http://analahmadi.kau.edu.sa/Default.aspx?Site_ID=0003974&lng=EN"> Adel Alahmadi</a>, and
-  <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>)
+0. [Adel Alahmadi](http://analahmadi.kau.edu.sa/Default.aspx?Site_ID=0003974&lng=EN),
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+  [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger),
+  On the dimension of twisted centralizer codes,
   *Finite Fields Appl.* **48** (2017), 43--59.
-[arXiv](https://arxiv.org/abs/1607.05838)
-
+  [arXiv](https://arxiv.org/abs/1607.05838) | 
+  [DOI](https://doi.org/10.1016/j.ffa.2017.07.005)
 
 0. [Adel Alahmadi](http://analahmadi.kau.edu.sa/Default.aspx?Site_ID=0003974&lng=EN),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
@@ -243,8 +243,8 @@ Cyclotomic ordering Conjecture
   Twisted Centralizer Codes,
   *Linear Algebra Appl.* **524** (2017), 235--249.
   [arXiv](https://arxiv.org/abs/1608.04079) |
-  <a href="https:doi.org/10.1016/j.laa.2017.03.011"> DOI</a> |
-  <a href="TwistedCodesNKD.mag"> Magma code</a>
+  [DOI](https:doi.org/10.1016/j.laa.2017.03.011} |
+  [Magma code](TwistedCodesNKD.mag)
 
 0. Managing Editor:
   <a href="http://www.austms.org.au/Journal+of+the+Australian+Mathematical+Society"> *J. Austral. Math. Soc.*</a> **102**(1) (2017), 1--161. Special issue dedicated to the
@@ -260,7 +260,7 @@ Cyclotomic ordering Conjecture
   <a href="http://www.uwa.edu.au/people/cheryl.praeger"> Cheryl E. Praeger</a>,
   <a href="http://www.maths.manchester.ac.uk/~rs/"> Ralph St&ouml;hr</a>),
   *J. Austral. Math. Soc.* **102**(1) (2017), 1--2.
-  <a href="https://doi.org/10.1017/S144678871600046X"> DOI</a>
+  [DOI](https://doi.org/10.1017/S144678871600046X)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Frank L&uuml;beck](http://www.math.rwth-aachen.de/~Frank.Luebeck/),
@@ -269,7 +269,7 @@ Cyclotomic ordering Conjecture
   Primitive prime divisors and the *n*-th cyclotomic polynomial,
   *J. Austral. Math. Soc.* **102** (2017), 122--135. 
   [arXiv](https://arxiv.org/abs/1504.02598) | 
-  <a href="https://doi.org/10.1017/S1446788715000269"> DOI</a> |
+  [DOI](https://doi.org/10.1017/S1446788715000269) |
   <a href="PhiStarMagmaCode"> Magma code</a> | 
   <a href="PhiStarGAPCode"> GAP code</a>
 
@@ -280,7 +280,7 @@ Cyclotomic ordering Conjecture
   Point-primitive generalised hexagons and octagons,
   *J. Combin. Theory Ser. A* **147** (2017), 186--204.
   [arXiv](https://arxiv.org/abs/1410.3423) |
-  <a href="https://doi.org/10.1016/j.jcta.2016.11.008"> DOI</a>
+  [DOI](https://doi.org/10.1016/j.jcta.2016.11.008)
 
 0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
@@ -300,12 +300,12 @@ Decomposing modular tensor products, and periodicity of `Jordan partitions'
 [DOI](https://doi.org/10.1016/j.jalgebra.2015.11.025)
 
 0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
-[S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
-[Eric Swartz](https://www.wm.edu/as/mathematics/faculty-directory/swartz_e.php),
-AS-configurations and skew-translation generalised quadrangles,
-*J. Algebra* **421** (2015),  311--330. 
-[arXiv](https://arxiv.org/abs/1405.5063) | 
-[DOI](https://doi.org/10.1016/j.jalgebra.2014.08.031)
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+  [Eric Swartz](https://www.wm.edu/as/mathematics/faculty-directory/swartz_e.php),
+  AS-configurations and skew-translation generalised quadrangles,
+  *J. Algebra* **421** (2015),  311--330. 
+  [arXiv](https://arxiv.org/abs/1405.5063) | 
+  [DOI](https://doi.org/10.1016/j.jalgebra.2014.08.031)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
@@ -350,7 +350,7 @@ AS-configurations and skew-translation generalised quadrangles,
   the density of uncyclic matrices in *M(n,q)*, 
   *J. Algebra* **322** (2009), 766--790.
   [pdf](PAPER34.FDF) | 
-  <a href="https://doi.org/10.1016/j.jalgebra.2009.02.021"> DOI</a>
+  [DOI](https://doi.org/10.1016/j.jalgebra.2009.02.021) | 
   <a href="APP1"> Appendix 1</a> The polynomials *unc(n,q)* for
   *n* &le; 37.
   <a href="APP2"> Appendix 2</a> Magma computer programs for verifying
@@ -394,13 +394,15 @@ AS-configurations and skew-translation generalised quadrangles,
   [E.A. O'Brien](http://www.math.auckland.ac.nz/~obrien/),
   Writing projective representations over proper subfields,
   *J. Algebra* **295** (2006), 51--61.
-  [pdf](PAPER30.PDF)
+  [pdf](PAPER30.PDF) |
+  [DOI](https://doi.org/10.1016/j.jalgebra.2005.03.037)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   Solvable groups with a given solvable length, and minimal composition length,
   *J. Group Theory* **8** (2005), 339--350.
   [pdf](PAPER28.PDF) |
-  [arXiv](https://arxiv.org/abs/math/0309313)
+  [arXiv](https://arxiv.org/abs/math/0309313) |
+  [DOI](https://doi.org/10.1515/jgth.2005.8.3.339)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   Modules induced from a normal subgroup of prime index, in
@@ -411,14 +413,15 @@ AS-configurations and skew-translation generalised quadrangles,
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   On the tensor product of polynomials over a ring, *J. Austral. Math. Soc.*
   **71** (2001), 1--17.
-  [DOI](https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society/article/on-the-tensor-product-of-polynomials-over-a-ring/B99CD3A00264FABF637D615B34B78D3E)
-  [pdf](PAPER14.PDF)
+  [DOI](https://doi.org/10.1017/S1446788700002950) | 
+  [pdf](PAPER14.PDF) 
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   Using recurrence relations to count certain elements in 
   symmetric groups, *European J. Combin.*
   **22** (2001), 497--501.
-  [arXiv](https://arxiv.org/abs/1405.5620)
+  [arXiv](https://arxiv.org/abs/1405.5620) |
+  [DOI](https://doi.org/10.1006/eujc.2001.0500)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   Extended Euclid's algorithm via backward recurrence relations,
@@ -432,20 +435,23 @@ AS-configurations and skew-translation generalised quadrangles,
   *et al.*, London Mathematical Society Lecture Notes Series
   **260**, Cambridge Univ. Press, (1999), 275--281.
   [pdf](PAPER20.PDF) |
-  [arXiv](https://arxiv.org/abs/1410.5052)
+  [arXiv](https://arxiv.org/abs/1410.5052) |
+  [DOI](10.48550/arXiv.1410.5052)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
   [R.B. Howlett](http://www.maths.usyd.edu.au:8000/u/bobh/),
   Writing representations over minimal fields,
   *Comm. Algebra* **25** (1997), 1703--1712.
-  [pdf](PAPER15.PDF)
+  [pdf](PAPER15.PDF) |
+  [DOI](https://doi.org/10.1080/00927879708825947)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
   [L.G. Kov&aacute;cs](http://maths.anu.edu.au/about-us/news/dr-laci-kovacs),
   Irreducible modules and normal subgroups of prime index,
   *Comm. Algebra* **24** (1996), 1529--1546.
   [pdf](PAPER18.PDF) |
-  [WallKovacs](WallKovacsAustMS2001.jpg)
+  [WallKovacs](WallKovacsAustMS2001.jpg) |
+  [DOI](https://doi.org/10.1080/00927879608825650)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   On generators for the group of units of the ring of integers modulo *n*,
@@ -456,37 +462,37 @@ AS-configurations and skew-translation generalised quadrangles,
   On the faithful representations, of degree 2<sup>n</sup>, of certain
   extensions of 2-groups by orthogonal or symplectic groups,
   *J. Austral. Math. Soc. Ser. A* **58** (1995), 232--247.
-  [pdf](PAPER10.PDF)
+  [DOI](https://doi.org/10.1017/S1446788700038271)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
   [R.B. Howlett](http://www.maths.usyd.edu.au:8000/u/bobh/),
   Extraspecial towers and Weil representations,
   *J. Algebra* **151** (1992), 236--260.
-  [pdf](PAPER6.PDF)
+  [DOI](https://doi.org/10.1016/0021-8693(92)90142-9)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
   [M.C. Slattery](http://www.mscs.mu.edu/~mikes/),
   Computing intersections and normalizers in soluble groups,
   *J. Symbolic Comput.* **9** (1990), 637--651.
-  [pdf](PAPER5.PDF)
+  [DOI](https://doi.org/10.1016/S0747-7171(08)80079-X)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   The composition and derived lengths of a finite soluble group,
   *J. Algebra* **120** (1989), 406--413.
-  [pdf](PAPER4.PDF)
+  [DOI](https://doi.org/10.1016/0021-8693(89)90204-4)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   Constructing normalisers in finite soluble groups, *J. Symolic Comput.*
   **5** (1988), 285--294.
-  [pdf](PAPER2.PDF) 
+  [DOI](https://doi.org/10.1016/S0747-7171(88)80030-0)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   Intersecting subgroups of finite soluble groups. *J. Symbolic Comput.*
   **5** (1988), 295--301.
-  (Reprint available upon request.)
+  [DOI](https://doi.org/10.1016/S0747-7171(88)80031-2)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   2-groups with every automorphism central. 
   *J. Austral. Math. Soc. Ser. A* **41** (1986), 233--236. 
-  [pdf](PAPER1.PDF) 
+  [DOI](https://doi.org/10.1017/S1446788700033644)
 {: reversed="reversed"}
