@@ -78,7 +78,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   The groups *G* satisfying a functional equation
   *f(xk) = xf(x)* for some *k ∈ G*,
-  *J. Group Theory* **XX**(X) (2022), XX--XX.
+  *J. Group Theory* **25**(6) (2022), 1055--1081.
   [arXiv](https://arxiv.org/abs/2105.09117) |
   [DOI paper](https://doi.org/10.1515/jgth-2021-0158) |
   [Magma code](https://research-repository.uwa.edu.au/en/datasets/magma-computer-program-for-j-groups-and-exponent-polynomials) |
