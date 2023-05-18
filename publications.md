@@ -31,7 +31,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   Saul D. Freedman and
   [Alice Devillers](https://www.uwa.edu.au/people/alice.devillers),
   Tournaments and even graphs are equinumerous,
-  *J. Algebraic Combin.* **XX** (2022), XX--XX.
+  *J. Algebraic Combin.* **57** (2023), 515--524.
   [arXiv](https://arxiv.org/abs/2204.01947) | 
   [DOI](https://doi.org/10.1007/s10801-022-01197-0)
 
