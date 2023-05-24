@@ -17,7 +17,8 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   The proportion of non-degenerate complementary subspaces in classical spaces,
   *Des. Codes, Cryptogr.* **XX** (2023), XX--XX.
   [arXiv](http://arxiv.org/abs/2207.04678) | 
-  [GAP FinIng code](FinIngGAPcode.g)
+  [GAP FinIng code](FinIngGAPcode.g) |
+  [DOI](https://doi.org/10.1007/s10623-023-01235-3)
 
 0. [Vishnuram Arumugam](https://staffportal.curtin.edu.au/staff/profile/view/vishnuram-arumugam-fa070dec/),
   [Heiko Dietrich](https://users.monash.edu/~heikod/) and
