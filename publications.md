@@ -23,7 +23,8 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 0. [Vishnuram Arumugam](https://staffportal.curtin.edu.au/staff/profile/view/vishnuram-arumugam-fa070dec/),
   [Heiko Dietrich](https://users.monash.edu/~heikod/) and
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-  Derangements in wreath products of permutation groups.
+  Derangements in wreath products of permutation groups,
+  *J. Algebr. Comb.* **XX** (2023), XX--XX.
   [arXiv](https://arxiv.org/abs/2207.01215)
 
 0. [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
