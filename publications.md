@@ -25,7 +25,8 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   Derangements in wreath products of permutation groups,
   *J. Algebr. Comb.* **XX** (2023), XX--XX.
-  [arXiv](https://arxiv.org/abs/2207.01215)
+  [arXiv](https://arxiv.org/abs/2207.01215) | 
+  [DOI](https://doi.org/10.1007/s10801-023-01255-1)
 
 0. [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
   [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
