@@ -41,7 +41,8 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 0. [Michael Giudici](http://www.maths.uwa.edu.au/~giudici),
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
   [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
-  Subgroups of classical groups that are transitive on subspaces.
+  Subgroups of classical groups that are transitive on subspaces,
+  *J. Alg.*  **XX** (202X), XX--XX.
   [arXiv](https://arxiv.org/abs/2012.07213)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
