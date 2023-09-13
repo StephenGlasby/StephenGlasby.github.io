@@ -286,15 +286,6 @@ Cyclotomic ordering Conjecture
   [arXiv](https://arxiv.org/abs/1410.3423) |
   [DOI](https://doi.org/10.1016/j.jcta.2016.11.008)
 
-0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
-  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
-  [Tomasz Popiel](http://www.maths.uwa.edu.au/~popiel) and
-  [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
-  Generalised quadrangles and transitive pseudo-hyperovals,
-  *J. Comb. Des.* **24**(4) (2016), 151--164.
-  [arXiv](https://arxiv.org/abs/1406.6445) | 
-  [DOI](https://doi.org/10.1002/jcd.21411)
-
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
   [Binzhou Xia](https://sites.google.com/site/binzhouxia/),
@@ -319,6 +310,15 @@ Cyclotomic ordering Conjecture
   *Israel J. Math.* **209**(1) (2015), 215--233.
   [arXiv](https://arxiv.org/abs/1403.4685) |
   [DOI](https://doi.org/10.1007/s11856-015-1217-1)
+
+0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
+  [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
+  [Tomasz Popiel](http://www.maths.uwa.edu.au/~popiel) and
+  [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
+  Generalised quadrangles and transitive pseudo-hyperovals,
+  *J. Comb. Des.* **24**(4) (2014), 151--164.
+  [arXiv](https://arxiv.org/abs/1406.6445) | 
+  [DOI](https://doi.org/10.1002/jcd.21411)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   Distant parents in complete binary trees, *Math. Scientist*
