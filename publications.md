@@ -16,7 +16,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   G.R. Paseman,
   Maximizing weighted sums of binomial coefficients using generalized
   continued fractions,
-  [arXiv](https://arxiv.org/abs/xxxx.xxxxx)
+  [arXiv](https://arxiv.org/abs/arXiv:2310.12517)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
