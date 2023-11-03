@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GandC Seminars
+<---! title: GandC Seminars --->
 permalink: /GandCSeminars/
 ---
 
