@@ -1,6 +1,5 @@
 ---
 layout: page
-title: BerryEsseenMagmaCode
 permalink: /BerryEsseenMagmaCode/
 ---
 
@@ -47,7 +46,7 @@ end for;
 // The following code compares H_k to the Berry-Esseen approximation
 // Note that H_m equals 0, that is K equals m when r=m.
 R:=RealField(6);
-for m in [10000] do//[11..21 by 2] do
+for m in [10000] do
   for r in [1000,4500,5000] do
     s:=&+[Binomial(m,i):i in [0..r]];
     for k in [3,5,21] do
