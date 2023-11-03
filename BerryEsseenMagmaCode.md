@@ -6,7 +6,6 @@ permalink: /BerryEsseenMagmaCode/
 ```
 /*
   Compare the GCF approximation to Berry-Esseen approximation
-  Try s_m(r) = 2^(r-1) where m=2r+1.
 */
 
 _GCFValue:=function(Aseq,Bseq)
