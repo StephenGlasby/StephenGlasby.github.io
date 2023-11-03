@@ -4,6 +4,7 @@ title: BerryEsseenMagmaCode
 permalink: /BerryEsseenMagmaCode/
 ---
 
+```
 /*
   Compare the GCF approximation to Berry-Esseen approximation
   Try s_m(r) = 2^(r-1) where m=2r+1.
@@ -58,9 +59,4 @@ for m in [10000] do//[11..21 by 2] do
     end for;
   end for;
 end for;
-
-
-<---!
-
-
---->
+```
