@@ -5,7 +5,7 @@ permalink: /BerryEsseenMagmaCode/
 
 ```
 /*
-  Compare the GCF approximation to Berry-Esseen approximation
+  Compare the GCF approximation to statisical (Berry-Esseen) approximation
 */
 
 _GCFValue:=function(Aseq,Bseq)
@@ -24,14 +24,16 @@ end function;
 
 // Check that the simple continued fraction [1;2,2,2,...,2] approximates Sqrt(2)
 // S:=[1..40];Aseq:=[2:i in S];Bseq:=[1:i in S];print 1.0+_GCFValue(Aseq,Bseq);
+// This equals Sqrt(2) to very high precision :-)
 
 _Phi:=function(x)
 // The cumulative distribution function for the standard normal distribution
   return (1/2)*(1+Erf(x/Sqrt(2))); // 1/\Sqrt(2\pi)\int_{-\infty}^x e^{-t^2/2}dt
 end function;
 
-// How good is the kth head H_k of our GCF at approximating s_m(r)?
-// How does H_k compare to the approximation using the Berry-Esseen inequality?
+// How good is a_0 + H_k at approximating Q = (r+1)*Binomial(m,r+1)/s_m(r)?
+// If k = r then it is equal by Theorem 1.1
+// How does the GCF approximation compare to the statistical bound Remark 5.4?
 
 // The following code verifies the GCF expansion in Theorem 1.1
 m:=10;
@@ -43,7 +45,7 @@ for r in [0..m] do
 end for;
 
 // The following code compares H_k to the Berry-Esseen approximation
-// Note that H_m equals 0, that is K equals m when r=m.
+// Note that a_0 + H_m equals 0, that is H_m equals m -- an amazing identity.
 R:=RealField(6);
 for m in [10000] do
   for r in [1000,4500,5000] do
