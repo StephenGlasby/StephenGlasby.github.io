@@ -24,7 +24,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   Maximizing weighted sums of binomial coefficients using generalized
   continued fractions,
   [arXiv](https://arxiv.org/abs/arXiv:2310.12517) |
-  [Magma code](BerryEsseenMagmaCode.md)
+  [Magma code](files/BerryEsseenMagmaCode.md)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Ferdinand Ihringer](http://math.ihringer.org/) and
