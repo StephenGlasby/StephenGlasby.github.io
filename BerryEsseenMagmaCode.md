@@ -44,7 +44,8 @@ for r in [0..m] do
   if not (K eq Q) then print <m,r,K,Q>;end if;
 end for;
 
-// The following code compares H_k to the Berry-Esseen approximation
+// The following code compares (r+1)*Binomial(m,r+1)/((a0+Hk)*s) to the
+// statistical approximation 2^m*_Phi((2*r-m)/Sqrt(m))/s.
 // Note that a_0 + H_m equals 0, that is H_m equals m -- an amazing identity.
 R:=RealField(6);
 for m in [10000] do
