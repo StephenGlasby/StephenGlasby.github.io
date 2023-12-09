@@ -11,13 +11,11 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 <!--
 -->
 
-<!--
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
   and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
   Bipartite *q*-Kneser graphs and two-generated irreducible linear groups,
-  [arXiv](https://arxiv.org/abs/xxxx.xxxxx)
--->
+  [arXiv](https://arxiv.org/abs/5284395)
 
 0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
   G.R. Paseman,
