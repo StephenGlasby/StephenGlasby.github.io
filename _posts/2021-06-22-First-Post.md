@@ -2,6 +2,4 @@
 layout: post
 ---
 
-This is a test
-J-groups paper to appear in J. Group Theory
-Paper with Gerhard Paseman to appear Electron. J. Comb.
+Test: Name of file 2021-06-22-First-Post.md
