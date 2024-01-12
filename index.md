@@ -13,7 +13,7 @@ Stephen Glasby's research interests include Group Theory, Computational
 Group Theory, and Combinatorics. Some of his recent research in Group Theory
 includes bounding the number of composition factors of permutation and
 linear groups. A good portion of Stephen's research in Computational
-Group Theory involves designing and an analysing algorithms. The analysis
+Group Theory involves designing and analysing algorithms. The analysis
 can use techniques from Graph Theory, Number Theory, and Combinatorics.
 He is is Research Fellow at the University of Western
 Australia and he enjoys working jointly with other mathematicians on a variety
