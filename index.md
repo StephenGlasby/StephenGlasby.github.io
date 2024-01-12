@@ -14,9 +14,10 @@ Group Theory, and Combinatorics. Some of his recent research in Group Theory
 includes bounding the number of composition factors of permutation and
 linear groups. A good portion of Stephen's research in Computational
 Group Theory involves designing and an analysing algorithms. The analysis
-can uses techniques from Graph Theory, Number Theory, and Combinatorics.
+can use techniques from Graph Theory, Number Theory, and Combinatorics.
 He is is Research Fellow at the University of Western
-Australia.
+Australia and he enjoys working jointly with other mathematicians on a variety
+of different problem.
 
 <!--
 Stephen Glasby is Research Fellow at the University of Western
