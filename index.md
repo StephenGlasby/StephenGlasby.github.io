@@ -9,6 +9,15 @@ layout: home
 ---
 Home page of Stephen Glasby
 
+Stephen Glasby's research interests include Group Theory, Computational
+Group Theory, and Combinatorics. Some of his recent research in Group Theory
+includes bounding the number of composition factors of permutation and
+linear groups. A good portion of Stephen's research in Computational
+Group Theory involves designing and an analysing algorithms. The analysis
+can uses techniques from Graph Theory, Number Theory, and Combinatorics.
+He is is Research Fellow at the University of Western
+Australia.
+
 <!--
 Stephen Glasby is Research Fellow at the University of Western
 Australia.  He began his research in computational group theory
@@ -26,7 +35,6 @@ unitary, or orthogonal space V and nondegenerate proper subspaces U
 and U' with dim(U) + dim(U') <= dim(V), what is the probability that
 the subspace U + U' is
 nondegenerate and has dimension dim(U) + dim(U')?
--->
 
 Stephen has published a series of papers that bound the number of composition
 factors of various groups in terms of various parameters. In a joint paper
@@ -45,4 +53,5 @@ subgroup G of GL(n,p^f). We show that c_p(G) <= (c_p*n-s)/(p-1) where c_p is
 an explicit constant depending on p. Further, this result is best possible.
 
 Stephen enjoys solving research problems, and working jointly with
-other mathematicians. 
+other mathematicians.
+-->
