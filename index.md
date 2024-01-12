@@ -9,6 +9,7 @@ layout: home
 ---
 Home page of Stephen Glasby
 
+<!--
 Stephen Glasby is Research Fellow at the University of Western
 Australia.  He began his research in computational group theory
 developing algorithms for solvable groups (building on ideas by
@@ -25,6 +26,7 @@ unitary, or orthogonal space V and nondegenerate proper subspaces U
 and U' with dim(U) + dim(U') <= dim(V), what is the probability that
 the subspace U + U' is
 nondegenerate and has dimension dim(U) + dim(U')?
+-->
 
 Stephen has published a series of papers that bound the number of composition
 factors of various groups in terms of various parameters. In a joint paper
