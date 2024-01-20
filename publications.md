@@ -151,6 +151,11 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [arXiv](https://arxiv.org/abs/1901.06480) | 
   [DOI](https://doi.org/10.1080/00927872.2019.1632333)
 
+0. [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/) and
+  [Alexander Bors](https://alexanderbors.wordpress.com/),
+  Finite 2-groups with exactly three automorphism orbits,
+  [arXiv](https://arxiv.org/abs/2011.13016)
+
 0. [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers) and
   [S.P. Glasby](https://staffhome.ecm.uwa.edu.au/~00059629/),
   Roots of unity and unreasonable differentiation,
