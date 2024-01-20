@@ -154,7 +154,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 0. [S.P. Glasby](https://stephenglasby.github.io/) and
   [Alexander Bors](https://alexanderbors.wordpress.com/),
   Finite 2-groups with exactly three automorphism orbits,
-  [arXiv](https://arxiv.org/abs/2011.13016)
+  [arXiv](https://arxiv.org/abs/2011.13016) (not submitted)
 
 0. [Alice Devillers](https://research-repository.uwa.edu.au/en/persons/alice-devillers) and
   [S.P. Glasby](https://stephenglasby.github.io/),
