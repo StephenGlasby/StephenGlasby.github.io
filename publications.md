@@ -28,7 +28,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [Ferdinand Ihringer](http://math.ihringer.org/) and
   [Sam Mattheus](http://homepages.vub.ac.be/~samatthe/),
   The proportion of non-degenerate complementary subspaces in classical spaces,
-  *Des. Codes, Cryptogr.* **XX** (2023), XX--XX.
+  *Des. Codes, Cryptogr.* **59** (2024), 1--22.
   [arXiv](http://arxiv.org/abs/2207.04678) | 
   [GAP FinIng code](FinIngGAPcode.g) |
   [DOI](https://doi.org/10.1007/s10623-023-01235-3)
