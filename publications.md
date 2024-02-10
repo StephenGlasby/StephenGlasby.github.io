@@ -24,15 +24,6 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [arXiv](https://arxiv.org/abs/arXiv:2310.12517) |
   [Magma code](files/BerryEsseenMagmaCode.md)
 
-0. [S.P. Glasby](https://stephenglasby.github.io/),
-  [Ferdinand Ihringer](http://math.ihringer.org/) and
-  [Sam Mattheus](http://homepages.vub.ac.be/~samatthe/),
-  The proportion of non-degenerate complementary subspaces in classical spaces,
-  *Des. Codes, Cryptogr.* **XX** (202X), XX--XX.
-  [arXiv](http://arxiv.org/abs/2207.04678) | 
-  [GAP FinIng code](FinIngGAPcode.g) |
-  [DOI](https://doi.org/10.1007/s10623-023-01235-3)
-
 0. [Vishnuram Arumugam](https://staffportal.curtin.edu.au/staff/profile/view/vishnuram-arumugam-fa070dec/),
   [Heiko Dietrich](https://users.monash.edu/~heikod/) and
   [S.P. Glasby](https://stephenglasby.github.io/),
@@ -40,6 +31,15 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   *J. Algebr. Comb.* **59** (2024), 1--22.
   [arXiv](https://arxiv.org/abs/2207.01215) | 
   [DOI](https://doi.org/10.1007/s10801-023-01255-1)
+
+0. [S.P. Glasby](https://stephenglasby.github.io/),
+  [Ferdinand Ihringer](http://math.ihringer.org/) and
+  [Sam Mattheus](http://homepages.vub.ac.be/~samatthe/),
+  The proportion of non-degenerate complementary subspaces in classical spaces,
+  *Des. Codes, Cryptogr.* **91**(9) (2023), 2879--2891.
+  [arXiv](http://arxiv.org/abs/2207.04678) | 
+  [GAP FinIng code](FinIngGAPcode.g) |
+  [DOI](https://doi.org/10.1007/s10623-023-01235-3)
 
 0. [Gordon F. Royle](https://www.uwa.edu.au/people/Gordon.Royle),
   [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
