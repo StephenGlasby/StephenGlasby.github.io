@@ -28,7 +28,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [Heiko Dietrich](https://users.monash.edu/~heikod/) and
   [S.P. Glasby](https://stephenglasby.github.io/),
   Derangements in wreath products of permutation groups,
-  *J. Algebr. Comb.* **59** (2024), 1--22.
+  *J. Algebraic Combin.* **59** (2024), 1--22.
   [arXiv](https://arxiv.org/abs/2207.01215) | 
   [DOI](https://doi.org/10.1007/s10801-023-01255-1)
 
