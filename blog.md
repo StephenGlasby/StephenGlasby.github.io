@@ -26,8 +26,8 @@ removed". Hence your first cousin once removed is 2-up-3-down, and a second
 cousin once removed is 3-up-4-down.
 
 Unfortunately, our naming system for relatives also uses "once removed" if
-you go up one more than you go down. Hence 3-up-2-down is also called
-your second cousin once removed. At this point, I think you can see that our
+you go up one more than you go down. Confusingly 3-up-2-down is called
+your first cousin once removed acoording to [Wikipedia](https://en.wikipedia.org/wiki/Consanguinity). At this point, I think you can see that our
 naming system for relatives is not up to the job, and up-down notation
 is much clearer.
 
