@@ -36,12 +36,14 @@ via the position on a binary tree. Hence they take a lot of words to distinguish
 between 2-up-3-down and 3-up-2-down. I prefer to use this compact unambiguous
 notation to describe complicated relationships. I am not suggesting calling
 your sibling 1-up-1-down or your parent 1-up, but cousins and beyond would be
-fair game. The notation is gender-neutral, which some may like, but many
+fair game. The notation is gender-neutral, which some may like, but some
 genealogist will dislike. It is shorter to say my aunt than my female
 2-up-1-down, or my nephew than my male 1-up-2-down. A good compomise
 is to use *both* naming systems: choosing the one that is brief, unambiguous
 and easy to understand. To help learn the up-down system here is a
-[Table of Consanguinity](files/TableOfConsanguinityLandscape.pdf) source [Wikipedia](https://en.wikipedia.org/wiki/Consanguinity).
+[Table of Consanguinity](files/TableOfConsanguinityLandscape.pdf) source [Wikipedia](https://en.wikipedia.org/wiki/Consanguinity). While he gender neutral
+term *sibling* (sister/brother) is well-known, *nibling* (niece/nephew) and
+*pibling* (aunt/uncle) and other variants are less well-known.
 
 <h2> Why so few open access journals?</h2>
 
