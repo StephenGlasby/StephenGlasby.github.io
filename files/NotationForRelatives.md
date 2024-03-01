@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /BerryEsseenMagmaCode/
+permalink: /NotationForRelatives/
 ---
 It is very clear that a lot of children and even adults struggle with
 the nomenclature for relatives, and understanding where relatives fit onto
