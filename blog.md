@@ -40,7 +40,7 @@ fair game. The notation is gender-neutral, which some may like, but many
 genealogist will dislike. It is shorter to say my aunt than my female
 2-up-1-down, or my nephew than my male 1-up-2-down. A good compomise
 is to use *both* naming systems: choosing the one that is brief, unambiguous
-and easy to understand. To help learn the system up-down system here is a
+and easy to understand. To help learn the up-down system here is a
 [Table of Consanguinity](files/TableOfConsanguinityLandscape.pdf) source [Wikipedia](https://en.wikipedia.org/wiki/Consanguinity).
 
 <h2> Why so few open access journals?</h2>
