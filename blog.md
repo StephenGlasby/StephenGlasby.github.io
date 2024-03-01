@@ -9,7 +9,7 @@ permalink: /Blog/
 It is very clear that a lot of children and even adults struggle with
 the nomenclature for relatives, and understanding where relatives fit onto
 the family tree. What do I call my cousin's daughter? How am I related to
-my father's cousin? A helpful way is to view your relatives as located at the
+my father's cousin? A solution is to view your relatives as located at the
 vertices of a binary tree, and use the mathematical fact that there is a
 unique path from any one vertex on the tree to another. Then you just need to
 describe how many steps from you *up* to a common ancestor, and then *down* to
