@@ -14,8 +14,8 @@ yes there are *two*! A solution to these problems is to view your relatives
 as located at the
 vertices of a binary tree, and use the mathematical fact that there is a
 unique path from any one vertex on the tree to another. Then you just need to
-describe how many steps from you *up* to a common ancestor, and then *down* to
-your relative. For example, with this naming scheme your cousin is called
+describe how many steps from you **up** to a common ancestor, and then **down**
+to your relative. For example, with this naming scheme your cousin is called
 2-up-2-down because you must go up two steps (parent, then grandparent)
 to a common ancestor, and two steps down (to aunt or uncle), and then to
 their child (your first cousin).
