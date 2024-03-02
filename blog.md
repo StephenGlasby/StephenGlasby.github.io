@@ -64,8 +64,8 @@ genealogist do, then words like aunt are superior to my female
 2-up-1-down, and "nephew" is shorter than my male 1-up-2-down. A good compomise
 is to use a mixture of English names and up-down notation: choosing the one 
 that is brief, unambiguous and easy to understand. The 
-[Table of Consanguinity](files/TableOfConsanguinityLandscape.pdf) (source [Wikipedia](https://en.wikipedia.org/wiki/Consanguinity)) will help to learn the 
-up-down system. Enoy!
+[Table of Consanguinity](files/TableOfConsanguinityLandscape.pdf)
+will help to learn the up-down system. Enoy!
 
 <h2> Why so few open access journals?</h2>
 
