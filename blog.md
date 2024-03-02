@@ -36,7 +36,7 @@ different relatives have the same name. See
 ambiguity: having the same name for different relatives, who are 5 = 2+3 steps
 away from you, is bound to confuse.
 Once you feel comfortable with up-down notation, you will realise that
-1-up-1-down is your 0th cousin. In general, N-up-N-down is your (N-1)-cousin.
+1-up-1-down is your 0th cousin. In general, N-up-N-down is your (N-1)th cousin.
 
 Genealogists know relationships intuitively, but tend not to describe them
 via the position on a binary tree. They take a lot of words to distinguish
