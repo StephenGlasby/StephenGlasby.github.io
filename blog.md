@@ -38,9 +38,9 @@ away from you, is bound to confuse.
 Once you feel comfortable with up-down notation, you will realise that
 1-up-1-down is your 0th cousin. In general, N-up-N-down is your (N-1)th cousin.
 
-Genealogists know relationships intuitively, but tend not to describe them
+Genealogists know relationships intuitively, and tend not to describe them
 via the position on a binary tree. They take a lot of words to distinguish
-between 3-up-2-down and 3-up-4-down. I prefer to use this compact unambiguous
+between 3-up-2-down and 2-up-3-down. I prefer to use this compact unambiguous
 up-down notation to describe complicated relationships. I am not suggesting
 to call your sibling 1-up-1-down or your parent 1-up, but relations beyond
 cousins would be fair game, especially if you want to be unambigous and
