@@ -6,10 +6,12 @@ permalink: /Blog/
 
 <h2> How to describe relatives with up-down notation</h2>
 
-It is very clear that a lot of children and even adults struggle with
+It is very clear that a lot of children (and even adults) struggle with
 the nomenclature for relatives, and understanding where relatives fit onto
 the family tree. What do I call my cousin's daughter? How am I related to
-my father's cousin? A solution is to view your relatives as located at the
+my father's cousin? Which of my relatives are a "second cousin once removed",
+yes there are *two*! A solution to these problems is to view your relatives
+as located at the
 vertices of a binary tree, and use the mathematical fact that there is a
 unique path from any one vertex on the tree to another. Then you just need to
 describe how many steps from you *up* to a common ancestor, and then *down* to
@@ -21,29 +23,46 @@ their child (your first cousin).
 Here is a small dictionary: a sibling is 1-up-1-down, a parent is 1-up,
 a son/daughter is 1-down, a grandson/daughter is 2-down and a
 grandmother/father is 2-up. A second cousin is 3-up-3-down and a third cousin
-is 4-up-4-down. If you go down one more than you go up, then you say "once
-removed". Hence your first cousin once removed is 2-up-3-down, and a second
-cousin once removed is 3-up-4-down.
+is 4-up-4-down. 
 
-Unfortunately, our naming system for relatives also uses "once removed" if
-you go up one more than you go down. Confusingly 3-up-2-down is called
-your first cousin once removed according to [Wikipedia](https://en.wikipedia.org/wiki/Consanguinity). At this point, I think you can see that our
-naming system for relatives is not up to the job, and up-down notation
-is much clearer.
+If you go down more than up, you add "once removed" or "twice removed" or
+"thrice removed" etc. Hence 2-up-3-down is a first cousin once removed, as you
+are one generation lower than your first cousin 2-up-2-down. Similarly,
+3-up-4-down is a second cousin once removed. Makes sense, right? So 3-up-2-down
+is sadly, and confusingly, also called second cousin once removed. Yes, two
+different relatives have the same name. See [Wikipedia](https://en.wikipedia.org/wiki/Consanguinity). Thus specifying 3-up-4-down or 3-up-2-down avoids any
+ambiguity: having the same name for different relatives is rather confusing.
 
-Genealogists know all of this intuitively, but tend not to describe relations
-via the position on a binary tree. Hence they take a lot of words to distinguish
-between 2-up-3-down and 3-up-2-down. I prefer to use this compact unambiguous
-notation to describe complicated relationships. I am not suggesting calling
-your sibling 1-up-1-down or your parent 1-up, but cousins and beyond would be
-fair game. The notation is gender-neutral, which some may like, but some
-genealogist will dislike. It is shorter to say my aunt than my female
-2-up-1-down, or my nephew than my male 1-up-2-down. A good compomise
-is to use *both* naming systems: choosing the one that is brief, unambiguous
-and easy to understand. To help learn the up-down system, here is a
-[Table of Consanguinity](files/TableOfConsanguinityLandscape.pdf) source [Wikipedia](https://en.wikipedia.org/wiki/Consanguinity). While he gender neutral
-term *sibling* (sister/brother) is well-known, *nibling* (niece/nephew) and
-*pibling* (aunt/uncle) and other variants are less well-known.
+Once you feel comfortable with up-down notation, you will realise that
+1-up-1-down is your 0th cousin. In general, N-up-N-down is your (N-1)-cousin.
+
+Genealogists know relationships intuitively, but tend not to describe them
+via the position on a binary tree. They take a lot of words to distinguish
+between 3-up-2-down and 3-up-4-down. I prefer to use this compact unambiguous
+up-down notation to describe complicated relationships. I am not suggesting calling
+your sibling 1-up-1-down or your parent 1-up, but relations beyond cousins
+and beyond would be fair game, especially if you want to be unambigous and
+understandable. Up-down notation is also gender-neutral. In English
+the gender neutral word *sibling* (sister/brother) is well-known; however,
+*nibling* (niece/nephew) and *pibling* (aunt/uncle) and other variants are
+less well-known.
+
+In summary convential language is better than up-down notation is the
+relations are simple. If they are more complicated, then up-down notation
+clearly wins. How often have you hear people talk of their
+great-great-great-great grandfather, only to ask yourself:
+"How many greats was that? However, 6-up makes it clear. I get annoyed when
+you hear sentences like: "the number of atoms in the universe is 100-million-million-million-million-million-million-million-million-million-million-million-million-million". Saying 1 followed by 80 zeroes or 10<sup>80</sup> if the 
+audience can remember their hish school mathematics.
+
+If you do want to specify the sex of a relative, as many
+genealogist do, then words like aunt are superior to my female
+2-up-1-down, and "nephew" is shorter than my male 1-up-2-down. A good compomise
+is to use a mixture of English names and up-down notation: choosing the one 
+that is brief, unambiguous and easy to understand. The 
+[Table of Consanguinity](files/TableOfConsanguinityLandscape.pdf) (source [Wikipedia](https://en.wikipedia.org/wiki/Consanguinity)) will help to learn the 
+up-down system.
+.
 
 <h2> Why so few open access journals?</h2>
 
