@@ -59,7 +59,7 @@ you hear sentences like: "the number of atoms in the universe is
 to have good notation and say "1 followed by 80 zeroes" or 10<sup>80</sup>
 if the audience can remember scientific notation.
 
-If you do want to specify the gender of a relative, as many
+If you want to specify the gender of a relative, as many
 genealogist do, then words like aunt are superior to my female
 2-up-1-down, and "nephew" is shorter than my male 1-up-2-down. A good compomise
 is to use a mixture of English names and up-down notation: choosing the one 
