@@ -55,7 +55,7 @@ clearly wins. How often have you hear people talk of their
 great-great-great-great grandfather, only to ask yourself:
 "How many greats was that?". However, 6-up makes it clear. I get annoyed when
 you hear sentences like: "the number of atoms in the universe is 
-100-trillion-trillion-trillion-trillion-trillion-trillion". It is more helpful
+100-million-trillion-trillion-trillion-trillion-trillion-trillion". It is more helpful
 to have good notation and say "1 followed by 80 zeroes" or 10<sup>80</sup>
 if the audience can remember scientific notation.
 
