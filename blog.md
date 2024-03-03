@@ -30,7 +30,7 @@ If you go down more than up, you add "once removed" or "twice removed" or
 are one generation lower than your first cousin 2-up-2-down. Similarly,
 3-up-4-down is a second cousin once removed. Makes sense, right? But 3-up-2-down
 is sadly, and confusingly, also called first cousin once removed. Yes, two
-different relatives have the same name. See
+different relatives have the same name, see
 [Table of Consanguinity](files/TableOfConsanguinityLandscape.pdf) (source [Wikipedia](https://en.wikipedia.org/wiki/Consanguinity)). Thus specifying
 2-up-3-down or 3-up-2-down avoids any
 ambiguity: having the same name for different relatives, who are 5 = 2+3 steps
