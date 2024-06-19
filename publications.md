@@ -11,6 +11,11 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 <!--
 -->
 
+0. [S.P. Glasby](https://stephenglasby.github.io/),
+  Devilishly hard Waffle games,
+  [arXiv](https://arxiv.org/abs/2024.XXX) |
+  [Magma code](files/MagmaCodeDevilishWaffle.md)
+
 0. [S.P. Glasby](https://stephenglasby.github.io/) and
   [Alexander Bors](https://alexanderbors.wordpress.com/),
   Finite 2-groups with exactly three automorphism orbits,
