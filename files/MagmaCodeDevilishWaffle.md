@@ -4,28 +4,6 @@ permalink: /MagmaCodeDevilishWaffle/
 ---
 
 ```
-//-------------------------------------------------------------------------
-
-// find which pair (x,y) of consecutive letters occurs most frequently in a
-// 5-letter word
-WordsFile:=Read("FiveLetterWords");  // read ASCII file of 3103 5-letter words
-Words:=[&*[WordsFile[6*(i-1)+j]: j in [1..5]]: i in [1..3103]];
-A:=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
-M:=MatrixAlgebra(Integers(),26);
-max:=0;min:=1000;Triples:=[];
-for x in A do
-  c:=0;
-  for y in A do
-    for w in Words do
-      if x*y in {w[i]*w[i+1]: i in [1..4]} then c+:=1;end if;
-    end for;
-    if c gt max then max:=c;Append(~Triples,<c,x,y>);end if;
-//    if c lt min then min:=c;Append(~Triples,<c,x,y>);end if;
-  end for;
-end for;
-print Triples;
-//print max,Pair;   // "ey" occurs 1310 times
-//print min,Pair; // "aa" occurs 0 times
 //---------------------------------------------------------------------------
 
 /*
