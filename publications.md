@@ -12,6 +12,17 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 -->
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
+  [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
+  and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+  Absolutely irreducible quasisimple linear groups containing elements of
+  order a specified Zsigmondy prime,
+  [arXiv](https://arxiv.org/abs/2411.08270)
+
+0. [S.P. Glasby](https://stephenglasby.github.io/),
+  Classifying finite groups *G* with three *Aut(G)*-orbits,
+  [arXiv]() |
+
+0. [S.P. Glasby](https://stephenglasby.github.io/),
   Devilishly hard Waffle games,
   [arXiv](https://arxiv.org/abs/2024.XXX) |
   [Magma code](files/MagmaCodeDevilishWaffle.md)
@@ -30,7 +41,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 0. [S.P. Glasby](https://stephenglasby.github.io/) and
   G.R. Paseman,
   Maximizing weighted sums of binomial coefficients using generalized
-  continued fractions, *Proc. R. Soc. Edinb.* **XX** (20XX), XX--XX.
+  continued fractions, *Proc. R. Soc. Edinb.* **59**(1) (2024), 1--22.
   [arXiv](https://arxiv.org/abs/arXiv:2310.12517) |
   [Magma code](files/BerryEsseenMagmaCode.md)
 
