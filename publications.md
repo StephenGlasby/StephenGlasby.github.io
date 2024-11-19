@@ -9,11 +9,15 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 <h2> Publications (and submitted papers) </h2>
 
 <!--
+0. [S.P. Glasby](https://stephenglasby.github.io/),
+  Devilishly hard Waffle games,
+  [arXiv](https://arxiv.org/abs/2024.XXX) |
+  [Magma code](files/MagmaCodeDevilishWaffle.md)
 -->
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
   Classifying finite groups *G* with three *Aut(G)*-orbits,
-  [arXiv](https://arxiv.org/abs/2411.11273) |
+  [arXiv](https://arxiv.org/abs/2411.11273)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
   [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
@@ -21,13 +25,6 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   Absolutely irreducible quasisimple linear groups containing elements of
   order a specified Zsigmondy prime,
   [arXiv](https://arxiv.org/abs/2411.08270)
-
-<!--
-0. [S.P. Glasby](https://stephenglasby.github.io/),
-  Devilishly hard Waffle games,
-  [arXiv](https://arxiv.org/abs/2024.XXX) |
-  [Magma code](files/MagmaCodeDevilishWaffle.md)
--->
 
 0. [S.P. Glasby](https://stephenglasby.github.io/) and
   [Alexander Bors](https://alexanderbors.wordpress.com/),
