@@ -6,7 +6,7 @@ permalink: /publications/
 
 Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_1.html)
 
-<h2> Publications (and submitted papers) </h2>
+<h2> Publications (and submitted/accepted papers) </h2>
 
 <!--
 0. [S.P. Glasby](https://stephenglasby.github.io/),
