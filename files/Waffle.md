@@ -115,7 +115,7 @@ end for;
 //---------------------------------------------------------------------------
 
 /*
-  A Magma program to find all Waffle solutions with >= 19 distinct letters.
+  A Magma program to find all Waffle solutions with >= 20 distinct letters.
   Our words are chosen from a list of 3075 common (non-swappable) 5-letter
   English words. 
   Case 1: v1[1] ne h1[5]. Then WMA that #(h1Chars join v1Chars) eq 9
@@ -126,7 +126,7 @@ end for;
     |h1 U v1 U v3 U h2|>=15, |h1 U v1 U v3 U h2 U v2|>=18 
   Case 2: v1[1] eq h1[5] and |h1|=5, |h1 U v1|=8, |h1 U v1 U v3|>=12,
     |h1 U v1 U v3 U h2|=15, |h1 U v1 U v3 U h2 U v2|>=18
-  The program below gives 767 Waffle Case 1 solutions with d=19 in 3.0 hrs.
+  The program below gives 767 Waffle Case 1 solutions with d=20 in 3.0 hrs.
   To modify the program to find the Case 2 solutions look at the comments
   containing "*Case 2*". Case 2 has 2 solutions (both d=19) and took 1.5 hrs
   [[kings,adopt,sibyl,shack,brown,lutes], [kings,adopt,sibyl,smack,brown,lutes]]
@@ -145,8 +145,8 @@ for w in Words do if not w in SwapWords then Append(~NewWords,w);end if;end for;
 print "#Words,#NewWords =",#Words,#NewWords;
 
 Words:=NewWords; // just consider `non-swappable' words
-Solutions:=[]; // Waffle solutions with >=19 distinct letters
-c19:=0; // number of Waffle solutions with >=19 distinct letters found so far
+Solutions:=[]; // Waffle solutions with >=20 distinct letters
+c20:=0; // number of Waffle solutions with >=20 distinct letters found so far
 I:=[1..5];
 // Choose h1 to have 5 distinct letters (can assume this by taking transposes)
 h1Words:=[];
@@ -213,9 +213,9 @@ for h1 in h1Words do  // 1st word
 	    Waffle:=[h1,h2,h3,v1,v2,v3];
 	    M:={* w[i]: i in I, w in [h1,h2,h3]*};
 	    M:=M join {*w[i]: i in [2,4], w in [v1,v2,v3] *};
-            if #Chars ge 19 then
-	      c19+:=1;Append(~Solutions,Waffle);
-	      print "T,c19,#C,W,M=",Round(Cputime()),c19,#Chars,Waffle,M;
+            if #Chars ge 20 then
+	      c20+:=1;Append(~Solutions,Waffle);
+	      print "T,c20,#C,W,M=",Round(Cputime()),c20,#Chars,Waffle,M;
 	    end if;
           end for;
 	end for;
