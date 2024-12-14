@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /MagmaCodeDevilishWaffle/
+permalink: /Waffle/
 ---
 
 ```
