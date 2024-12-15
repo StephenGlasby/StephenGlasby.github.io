@@ -226,6 +226,62 @@ end for;
 Case1Solutions:=Solutions;
 // Case2Solutions:=Solutions; // *Case 2*
 
+/*
+We list examples of Waffles with 20 distinct letters. If you choose
+a repeat letter to be green, then g' permutes the 20 non-green squares.
+
+T,c20,#C,W,M= 727 1 20 [ dingy, opals, fetch, fjord, twain, husky ]
+{* a, c, d, e, f, g, h, i^^2, j, k, l, n, o, p, r, s, t, u, w, y *}
+T,c20,#C,W,M= 727 2 20 [ dingy, ovals, fetch, fjord, twain, husky ]
+{* a, c, d, e, f, g, h, i^^2, j, k, l, n, o, r, s, t, u, v, w, y *}
+T,c20,#C,W,M= 1533 3 20 [ dusky, ozone, clamp, chord, avows, piety ]
+{* a, c, d, e, h, i, k, l, m, n, o^^2, p, r, s, t, u, v, w, y, z *}
+T,c20,#C,W,M= 1779 4 20 [ empty, amigo, bucks, blade, chirp, snowy ]
+{* a, b, c, d, e, g, h, i, k, l, m^^2, n, o, p, r, s, t, u, w, y *}
+T,c20,#C,W,M= 1779 5 20 [ empty, amigo, bucks, blaze, chirp, snowy ]
+{* a, b, c, e, g, h, i, k, l, m^^2, n, o, p, r, s, t, u, w, y, z *}
+T,c20,#C,W,M= 1867 6 20 [ entry, avows, claim, chafe, adopt, musky ]
+{* a^^2, c, d, e, f, h, i, k, l, m, n, o, p, r, s, t, u, v, w, y *}
+T,c20,#C,W,M= 1876 7 20 [ entry, avoid, scamp, shake, aloft, pudgy ]
+{* a^^2, c, d, e, f, g, h, i, k, l, m, n, o, p, r, s, t, u, v, y *}
+T,c20,#C,W,M= 1876 8 20 [ entry, avoid, swamp, shake, aloft, pudgy ]
+{* a^^2, d, e, f, g, h, i, k, l, m, n, o, p, r, s, t, u, v, w, y *}
+T,c20,#C,W,M= 3284 9 20 [ husky, twain, fjord, fetch, opals, dingy ]
+{* a, c, d, e, f, g, h, i^^2, j, k, l, n, o, p, r, s, t, u, w, y *}
+T,c20,#C,W,M= 3284 10 20 [ husky, twain, fjord, fetch, ovals, dingy ]
+{* a, c, d, e, f, g, h, i^^2, j, k, l, n, o, r, s, t, u, v, w, y *}
+T,c20,#C,W,M= 3952 11 20 [ musky, adopt, chafe, claim, avows, entry ]
+{* a^^2, c, d, e, f, h, i, k, l, m, n, o, p, r, s, t, u, v, w, y *}
+T,c20,#C,W,M= 4183 12 20 [ piety, avows, chord, clamp, ozone, dusky ]
+{* a, c, d, e, h, i, k, l, m, n, o^^2, p, r, s, t, u, v, w, y, z *}
+T,c20,#C,W,M= 4348 13 20 [ pudgy, aloft, shake, scamp, avoid, entry ]
+{* a^^2, c, d, e, f, g, h, i, k, l, m, n, o, p, r, s, t, u, v, y *}
+T,c20,#C,W,M= 4349 14 20 [ pudgy, aloft, shake, swamp, avoid, entry ]
+{* a^^2, d, e, f, g, h, i, k, l, m, n, o, p, r, s, t, u, v, w, y *}
+T,c20,#C,W,M= 5997 15 20 [ sight, clove, drays, ducks, among, swept ]
+{* a, c, d, e, g, h, i, k, l, m, n, o, p, r, s^^2, t, u, v, w, y *}
+T,c20,#C,W,M= 6828 16 20 [ snowy, chirp, blade, bucks, amigo, empty ]
+{* a, b, c, d, e, g, h, i, k, l, m^^2, n, o, p, r, s, t, u, w, y *}
+T,c20,#C,W,M= 6828 17 20 [ snowy, chirp, blaze, bucks, amigo, empty ]
+{* a, b, c, e, g, h, i, k, l, m^^2, n, o, p, r, s, t, u, w, y, z *}
+T,c20,#C,W,M= 6828 18 20 [ snowy, chide, blaze, bucks, amigo, every ]
+{* a, b, c, d, e^^2, g, h, i, k, l, m, n, o, r, s, u, v, w, y, z *}
+T,c20,#C,W,M= 7550 19 20 [ sport, chide, blaze, bucks, amigo, event ]
+{* a, b, c, d, e^^2, g, h, i, k, l, m, n, o, p, r, s, t, u, v, z *}
+T,c20,#C,W,M= 7989 20 20 [ stony, chide, blaze, bucks, amigo, every ]
+{* a, b, c, d, e^^2, g, h, i, k, l, m, n, o, r, s, t, u, v, y, z *}
+T,c20,#C,W,M= 8477 21 20 [ swept, among, ducks, drays, clove, sight ]
+{* a, c, d, e, g, h, i, k, l, m, n, o, p, r, s^^2, t, u, v, w, y *}
+T,c20,#C,W,M= 8582 22 20 [ sword, clamp, bight, backs, guano, typed ]
+{* a^^2, b, c, d, e, g, h, i, k, l, m, n, o, p, r, s, t, u, w, y *}
+T,c20,#C,W,M= 8584 23 20 [ sword, clamp, bight, bucks, guano, typed ]
+{* a, b, c, d, e, g, h, i, k, l, m, n, o, p, r, s, t, u^^2, w, y *}
+T,c20,#C,W,M= 9687 24 20 [ typed, guano, backs, bight, clamp, sword ]
+{* a^^2, b, c, d, e, g, h, i, k, l, m, n, o, p, r, s, t, u, w, y *}
+T,c20,#C,W,M= 9687 25 20 [ typed, guano, bucks, bight, clamp, sword ]
+{* a, b, c, d, e, g, h, i, k, l, m, n, o, p, r, s, t, u^^2, w, y *}
+*/
+
 //-----------------------------------------------------------------------------
 
 /*
