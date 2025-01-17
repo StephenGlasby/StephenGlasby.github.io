@@ -27,7 +27,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 0. [S.P. Glasby](https://stephenglasby.github.io/),
   Mathematics of the NYT daily word game Waffle,
   [arXiv](https://arxiv.org/abs/2501.09286) |
-  [Magma code](files/MagmaCodeDevilishWaffle.md)
+  [Magma code](files/Waffle.md)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
   [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
