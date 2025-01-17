@@ -8,13 +8,6 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 
 <h2> Publications (and submitted/accepted papers) </h2>
 
-<!--
-0. [S.P. Glasby](https://stephenglasby.github.io/),
-  Devilishly hard Waffle games,
-  [arXiv](https://arxiv.org/abs/2024.XXX) |
-  [Magma code](files/MagmaCodeDevilishWaffle.md)
--->
-
 0. [S.P. Glasby](https://stephenglasby.github.io/),
   Classifying finite groups *G* with three *Aut(G)*-orbits,
   [arXiv](https://arxiv.org/abs/2411.11273)
@@ -30,6 +23,11 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [Alexander Bors](https://alexanderbors.wordpress.com/),
   Finite 2-groups with exactly three automorphism orbits,
   [arXiv](https://arxiv.org/abs/2011.13016)
+
+0. [S.P. Glasby](https://stephenglasby.github.io/),
+  Mathematics of the NYT daily word game Waffle,
+  [arXiv](https://arxiv.org/abs/2501.09286) |
+  [Magma code](files/MagmaCodeDevilishWaffle.md)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
   [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
