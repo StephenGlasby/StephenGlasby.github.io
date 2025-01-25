@@ -10,6 +10,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
   Classifying finite groups *G* with three *Aut(G)*-orbits,
+  *J. Group Theory* **XX** (20XX), XX--XX.
   [arXiv](https://arxiv.org/abs/2411.11273)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
