@@ -36,12 +36,14 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
   Bipartite *q*-Kneser graphs and two-generated irreducible linear groups,
   *Linear Algebra Appl.* **XX** (20XX), XX--XX.
+  [DOI](https://doi.org/10.1016/j.laa.2025.01.032) | 
   [arXiv](https://arxiv.org/abs/2312.05529)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/) and
   G.R. Paseman,
   Maximizing weighted sums of binomial coefficients using generalized
   continued fractions, *Proc. R. Soc. Edinb.* **59**(1) (2024), 1--22.
+  [DOI](https://doi.org/10.1017/prm.2024.46) | 
   [arXiv](https://arxiv.org/abs/arXiv:2310.12517) |
   [Magma code](files/BerryEsseenMagmaCode.md)
 
