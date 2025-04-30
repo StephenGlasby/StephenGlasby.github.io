@@ -13,7 +13,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [arXiv](https://arxiv.org/abs/2411.11273)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
-  [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
+  [Alice C. Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
   [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger) and
   [A. E. Zalesski](https://research-portal.uea.ac.uk/en/persons/alex-zalesski),
   Absolutely irreducible quasisimple linear groups containing elements of
@@ -33,7 +33,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [Magma code](files/Waffle.md)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
-  [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
+  [Alice C. Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
   and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
   Bipartite *q*-Kneser graphs and two-generated irreducible linear groups,
   *Linear Algebra Appl.* **710** (2025), 203--229.
@@ -84,7 +84,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [DOI](https://doi.org/10.1016/j.jalgebra.2023.08.032)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
-  [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) 
+  [Alice C. Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php) 
   and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
   Random generation of direct sums of finite non-degenerate subspaces,
   *Linear Algebra Appl.* **649** (2022), 408--432.
@@ -92,7 +92,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [DOI](https://doi.org/10.1016/j.laa.2022.05.016)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
-  [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
+  [Alice C. Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
   and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
   The probability of spanning a classical space by two non-degenerate subspaces
   of complementary dimension, *Finite Fields Their Appl.* **82** (2022),
@@ -185,7 +185,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
   [S.P. Glasby](https://stephenglasby.github.io/),
   [Luke Morgan](https://www.famnit.upr.si/en/about-faculty/staff/luke.morgan/) and
-  [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
+  [Alice C. Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
   Corrigendum: Maximal linear groups induced on the Frattini quotient
   of a *p*-group, *J. Pure Appl. Algebra* **223** (2019), no. 12, 5428--5429. 
   [DOI](https://doi.org/10.1016/j.jpaa.2019.04.006)
@@ -205,7 +205,7 @@ Cyclotomic ordering Conjecture
   <a href="https://arxiv.org/abs/1903.01962"> solution</a> by Pomerance and Rubinstein-Salzedo.
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
-  [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
+  [Alice C. Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
   and Tomasz Popiel,
   On the second-largest Sylow subgroup of a finite simple group of Lie type,
   *Bull. Austral. Math. Soc.* **99** (2019), 203--211. 
@@ -242,7 +242,7 @@ Cyclotomic ordering Conjecture
 0. [John Bamberg](http://www.maths.uwa.edu.au/~bamberg),
   [S.P. Glasby](https://stephenglasby.github.io/),
   [Luke Morgan](http://www.maths.uwa.edu.au/contact/staff) and
-  [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
+  [Alice C. Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php),
   Maximal linear groups induced on the Frattini quotient of a *p*-group
   *J. Pure Appl. Algebra* **222** (2018), 2931--2951.
   [arXiv](https://arxiv.org/abs/1603.05384) |
@@ -306,7 +306,7 @@ Cyclotomic ordering Conjecture
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
   [Frank L&uuml;beck](http://www.math.rwth-aachen.de/~Frank.Luebeck/),
-  [Alice Niemeyer](http://www.maths.uwa.edu.au/~alice),
+  [Alice C. Niemeyer](http://www.maths.uwa.edu.au/~alice),
   [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger),
   Primitive prime divisors and the *n*-th cyclotomic polynomial,
   *J. Austral. Math. Soc.* **102** (2017), 122--135. 
