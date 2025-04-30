@@ -23,7 +23,8 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 0. [S.P. Glasby](https://stephenglasby.github.io/) and
   [Alexander Bors](https://alexanderbors.wordpress.com/),
   Finite 2-groups with exactly three automorphism orbits,
-  *J. Group Theory* **XX** (20XX), XX--XX
+  *J. Group Theory* **XX** (2025), XX--XX.
+  [DOI](https://doi.org/10.1515/jgth-2024-0051) | 
   [arXiv](https://arxiv.org/abs/2011.13016)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
@@ -35,7 +36,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [Alice Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php)
   and [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
   Bipartite *q*-Kneser graphs and two-generated irreducible linear groups,
-  *Linear Algebra Appl.* **XX** (20XX), XX--XX.
+  *Linear Algebra Appl.* **710** (2025), 203--229.
   [DOI](https://doi.org/10.1016/j.laa.2025.01.032) | 
   [arXiv](https://arxiv.org/abs/2312.05529)
 
