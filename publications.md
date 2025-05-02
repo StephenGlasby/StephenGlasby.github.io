@@ -9,6 +9,10 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 <h2> Publications (and submitted/accepted papers) </h2>
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
+  Hilbert’s Theorem 90, periodicity, and roots of Artin-Schreier polynomials
+  [arXiv](https://arxiv.org/abs/2505.00346)
+
+0. [S.P. Glasby](https://stephenglasby.github.io/),
   Classifying finite groups *G* with three *Aut(G)*-orbits.
   [arXiv](https://arxiv.org/abs/2411.11273)
 
