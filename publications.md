@@ -108,7 +108,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [S.P. Glasby](https://stephenglasby.github.io/) and
   [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
   Sequences of linear codes where the rate times distance grows rapidly,
-  *J. Algebra Comb. Discrete Struct. Appl.* **XX**(X) (2022), XX--XX.
+  *J. Algebra Comb. Discrete Struct. Appl.* **10**(2) (2022), 105--113.
   [arXiv](https://arxiv.org/abs/2110.01277)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/) and
