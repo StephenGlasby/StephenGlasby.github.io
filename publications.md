@@ -14,7 +14,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
   Classifying finite groups *G* with three *Aut(G)*-orbits,
-  *Ischia Group Theory 2024 (IGT 2024)*, XX-XX. | 
+  *Ischia Group Theory 2024 (IGT 2024)*, **XX**(2025), XX-XX. | 
   [arXiv](https://arxiv.org/abs/2411.11273)
   <!-- accepted 2025.05.29 see email, LiZhu accepted 2025.05.12 by J. Alg --> 
 
