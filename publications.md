@@ -148,8 +148,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   linear groups,
   *Ars Math. Contemp.* **21** (2021), #P2.10.
   [arXiv](https://arxiv.org/abs/2012.04189) | 
-  [DOI](https://doi.org/10.26493/1855-3974.2049.3db) |
-  [AI podcast](files/PodcastGenHexOct2025-05-28.ogg)
+  [DOI](https://doi.org/10.26493/1855-3974.2049.3db)
 
 
 0. [Mariagrazia Bianchi](https://www.unimi.it/en/ugov/person/mariagrazia-bianchi),
@@ -330,7 +329,8 @@ Cyclotomic ordering Conjecture
   Point-primitive generalised hexagons and octagons,
   *J. Combin. Theory Ser. A* **147** (2017), 186--204.
   [arXiv](https://arxiv.org/abs/1410.3423) |
-  [DOI](https://doi.org/10.1016/j.jcta.2016.11.008)
+  [DOI](https://doi.org/10.1016/j.jcta.2016.11.008) |
+  [AI podcast](files/PodcastGenHexOct2025-05-28.ogg)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
   [Cheryl E. Praeger](http://www.uwa.edu.au/people/cheryl.praeger"),
