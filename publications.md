@@ -23,7 +23,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
   [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger) and
   [A. E. Zalesski](https://research-portal.uea.ac.uk/en/persons/alex-zalesski),
   Absolutely irreducible quasisimple linear groups containing elements of
-  order a specified Zsigmondy prime,
+  order a specified Zsigmondy prime, *J. Algebra* **XX**(202X), XX-XX.
   [arXiv](https://arxiv.org/abs/2411.08270)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/) and
