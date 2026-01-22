@@ -25,18 +25,21 @@ parent (mother/father) is 1-up, a child (son/daughter) is 1-down, a grandchild
 is 2-down and a grandparent is 2-up. A second cousin is 3-up-3-down and a
 third cousin is 4-up-4-down. 
 
-If you go down more than up, you add "once removed" or "twice removed" or
+If you go down more than up or up more than down, you add "once removed" or "twice removed" or
 "thrice removed" etc. Hence 2-up-3-down is a first cousin once removed, as you
 are one generation lower than your first cousin 2-up-2-down. Similarly,
-3-up-4-down is a second cousin once removed. Makes sense, right? But 3-up-2-down
-is sadly, and confusingly, also called first cousin once removed. Yes, two
-different relatives have the same name, see
-[Table of Consanguinity](files/TableOfConsanguinityLandscape.pdf) (source [Wikipedia](https://en.wikipedia.org/wiki/Consanguinity)). Thus specifying
-2-up-3-down or 3-up-2-down avoids any
+3-up-4-down  and 3-up-2-down is a second cousin once removed because you are
+one generation removed from a 3-up-3-down (second cousin). Makes sense,
+but it is pretty confusing to use the same name for different relatives.
+This confusion of two different relatives with the same name, can be seen in the
+[Table of Consanguinity](files/TableOfConsanguinityLandscape.pdf)
+(source [Wikipedia](https://en.wikipedia.org/wiki/Consanguinity)).
+Thus specifying 2-up-3-down or 3-up-2-down avoids any
 ambiguity: having the same name for different relatives, who are 5 = 2+3 steps
 away from you, is bound to confuse.
 Once you feel comfortable with up-down notation, you will realise that
-1-up-1-down is your 0th cousin. In general, N-up-N-down is your (N-1)th cousin.
+1-up-1-down is your 0th cousin. In general, (N+1)-up-(N+1)-down is your
+Nth cousin.
 
 Genealogists know relationships intuitively, and tend not to describe them
 via the position on a (mathematical) tree. They take a lot of words to
