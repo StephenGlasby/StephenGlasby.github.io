@@ -20,10 +20,10 @@ to your relative. For example, with this naming scheme your cousin is called
 to a common ancestor, and two steps down (to aunt or uncle), and then to
 their child (your first cousin).
 
-Here is a small dictionary: a sibling is 1-up-1-down, a parent is 1-up,
-a son/daughter is 1-down, a grandson/daughter is 2-down and a
-grandmother/father is 2-up. A second cousin is 3-up-3-down and a third cousin
-is 4-up-4-down. 
+Here is a small dictionary: a sibling (brother/sister) is 1-up-1-down, a
+parent (mother/father) is 1-up, a child (son/daughter) is 1-down, a grandchild
+is 2-down and a grandparent is 2-up. A second cousin is 3-up-3-down and a
+third cousin is 4-up-4-down. 
 
 If you go down more than up, you add "once removed" or "twice removed" or
 "thrice removed" etc. Hence 2-up-3-down is a first cousin once removed, as you
@@ -39,11 +39,11 @@ Once you feel comfortable with up-down notation, you will realise that
 1-up-1-down is your 0th cousin. In general, N-up-N-down is your (N-1)th cousin.
 
 Genealogists know relationships intuitively, and tend not to describe them
-via the position on a binary tree. They take a lot of words to distinguish
-between 3-up-2-down and 2-up-3-down. I prefer to use this compact unambiguous
-up-down notation to describe complicated relationships. I am not suggesting
-to call your sibling 1-up-1-down or your parent 1-up, but relations beyond
-cousins would be fair game, especially if you want to be unambigous and
+via the position on a (mathematical) tree. They take a lot of words to
+distinguish between 3-up-2-down and 2-up-3-down. I prefer to use this compact
+unambiguous up-down notation to describe complicated relationships. I am not
+suggesting to call your sibling 1-up-1-down or your parent 1-up, but relations
+beyond cousins would be fair game, especially if you want to be unambigous and
 understandable. Up-down notation is also *gender-neutral*. In English
 the gender neutral word *sibling* (sister/brother) is well-known; however,
 *nibling* (niece/nephew) and *pibling* (aunt/uncle) and other variants are
