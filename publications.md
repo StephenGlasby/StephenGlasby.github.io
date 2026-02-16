@@ -534,6 +534,11 @@ Cyclotomic ordering Conjecture
   [DOI](https://doi.org/10.1016/0021-8693(89)90204-4)
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
+  Computational approaches to the theory of finite soluble groups.
+  *Bull. Austral. Math. Soc.* **38** (1988), 157--158.
+  [DOI](https://doi.org/10.1017/S0004972700027386)
+
+0. [S.P. Glasby](https://stephenglasby.github.io/),
   Constructing normalisers in finite soluble groups, *J. Symolic Comput.*
   **5** (1988), 285--294.
   [DOI](https://doi.org/10.1016/S0747-7171(88)80030-0)
