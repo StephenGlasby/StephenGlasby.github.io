@@ -9,6 +9,12 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 <h2> Publications (and submitted/accepted papers) </h2>
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
+  [Alice C. Niemeyer](https://www.mathb.rwth-aachen.de/Mitarbeiter/niemeyer.php), and
+  [Cheryl E. Praeger](https://www.uwa.edu.au/people/cheryl.praeger),
+  The probability that two elements with large 1-eigenspaces
+  generate a classical group, [arXiv](ttp://arxiv.org/abs/2603.22638)
+
+0. [S.P. Glasby](https://stephenglasby.github.io/),
   Hilbert’s Theorem 90, periodicity, and roots of Artin-Schreier polynomials
   [arXiv](https://arxiv.org/abs/2505.00346)
 
