@@ -42,6 +42,7 @@ Preprints of my (recent) papers are on [the arXiv](https://arxiv.org/a/glasby_s_
 
 0. [S.P. Glasby](https://stephenglasby.github.io/),
   Mathematics of the NYT daily word game Waffle,
+  *Recreational Mathematics Magazine* **XX** (20XX), XX--XX.
   [arXiv](https://arxiv.org/abs/2501.09286) |
   [Magma code](files/Waffle.md)
 
