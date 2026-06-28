@@ -1,0 +1,202 @@
+/*
+ functions s(m,r), g(w,m,r), h(m,r), _k(w), _M1(w), _M2(w), _w(k),
+           _r0(w,m), r0(w,m) (FAST version), farey(n), _Farey(L,U,Q)
+*/
+
+s:=function(m,r)
+  local i;
+  return &+[Binomial(m,i):i in [0..r]];
+end function;
+
+g:=function(w,m,r)
+  local i;
+  return w^-r*&+[Binomial(m,i):i in [0..r]];
+end function;
+
+h:=function(m,r) return Binomial(m,r)/s(m,r-1);end function;
+
+_k:=function(w) return Ceiling(w-2-2/(w-1));end function;
+
+_w:=function(k) return (2+k+Sqrt(k^2+8))/2;end function;
+
+_f:=function(w) return -w+3/2+1/(w+1);end function;
+
+_M1:=function(w) return -2*(_k(w)+1)/(w-1)-1;end function;
+
+_M2:=function(w)
+  local k,x;
+  k:=_k(w);x:=w-1;return -2*k/x-1+4/x^2-2*(w-3)*(w+1)/(x^2*(x^2-k*x-2));
+  //return (2*k^2-x*k+4-x^2)/(x^2*(x^2-k*x-2));
+end function;
+
+_M0:=function(w)
+  return Max([_M1(w),_M2(w),0]);
+// if _k(w) gt _f(w) then return Max(_M2(w),0);else return Max(_M1(w),0);end if;
+end function;
+
+c2:=function(w)
+  local k,x;
+  k:=_k(w);x:=w-1;return 2*x*(7*w^3-3*x*k+5*w-2);
+end function;
+
+c1:=function(w)
+  local k,x;
+  k:=_k(w);x:=w-1;return 12*x*k^2+2*(23*w^2+10*w-13)*k +(45*w^3+79*w^2+23*w-11);
+end function;
+
+c0:=function(w)
+  local k,y;
+  k:=_k(w);y:=w+1;return 2*(4*k^3+18*y*k^2+28*y^2*k+4*y^3);
+end function;
+
+/*
+R:=RealField(4);a:=_w(-4);b:=_w(1);X:=[a+(b-a)*0.05*i: i in [0..20]];
+print [R!c2(x):x in X],[R!c1(x):x in X],[R!c0(x):x in X];
+*/
+
+_r0:=function(w,m)       // return the position of the largest maximizing input
+  local max,pos,r,seq;
+  //if w-1 gt m then error "_r0: w-1 gt m",w,m;end if;
+  if m le 1 then return m;end if;  // assume m \ge 2
+  seq:=[w^-r*s(m,r):r in [1..m]];
+  max,pos:=Max(seq);  // pos is *minimal* such that seq[pos] eq max
+  if pos eq m then return m;end if;
+  if seq[pos] eq seq[pos+1] then return pos+1;else return pos;end if;
+end function;
+
+r0:=function(w,m)       // return the position of the largest maximizing input
+  local r,sr,srr;       // this function is MUCH faster than the function _r0
+  if w le 1 then error "r0: w le 1",w,m;end if;
+  r:=Floor((m+2)/(w+1));
+  //if r eq 0 then return 0;end if;  // now r > 0
+  if m le 1 then return m;end if;  // assume m \ge 2
+  sr:=s(m,r);srr:=sr+Binomial(m,r+1);
+  while w*sr le srr do
+    r+:=1;sr:=srr;srr+:=Binomial(m,r+1);
+  end while;
+  if w*sr gt srr then return r;end if;
+end function;
+
+// farey(n) gives rationals in [0,1] with denominator at most n 
+farey:=func<n|Sort(Setseq({ a/b : a in { 0..n }, b in { 1..n } | a le b }))>;
+
+_Farey:=function(L,U,Q)
+// Return the sequence of the rational numbers p/q with L\le p/q\le U and q le Q
+  local l,r,s;
+  if L gt U then error "_Farey: L gt U", L,U;end if;
+  if Q le 0 then error "_Farey: Q le 0",Q;end if;
+  l:=Floor(L);
+  s:=Sort(Setseq({ l+a/b : a in {0..Ceiling(U-L)*Q}, b in {1..Q} }));
+  return [r:r in s|L le r and r le U];
+end function;
+
+//------------------------------------------------------------------------------
+
+W:=_Farey(9/8,3,12);// check that functions _r0(w,m), r0(w,m) agree
+for w in W do
+  for m in [0..70] do
+    x:=_r0(w,m);y:=r0(w,m);if x ne y then print <w,m,x,y>;end if;
+  end for;
+end for;
+
+/*
+  Find the smallest w such that Floor((m+k)/(w+1)) le r0(w,m) holds for all m>=0
+  Find the largest w such that Floor((m+k)/(w+1)) le r0(w,m) holds for all m>=0
+*/
+
+k:=0;M:=100;w1:=3/2;w2:=3;R:=RealField(6); // let w be the mediant of w1 and w2
+while w2-w1 gt 10^-2 do
+  w:=(Numerator(w1)+Numerator(w2))/(Denominator(w1)+Denominator(w2)); // mediant
+  s:=[m: m in [1..M]| r0(w,m) le Floor((m-k)/(w+1))];
+  if s eq [1..M] then w2:=w;else w1:=w;end if;
+  print <k,R!w1,R!w2>; // view rate of convergence; problem if w1 or w2 is limit
+end while;
+print <k,R!w1,R!w2>;
+
+/*
+  Test whether r0(w,m) \le Ceiling((m-k)/(w+1)) where k=Ceiling(w-2-2/(w-1))
+  and w=p/q is a rational number with 1<w\le 3 and q leq Q
+  True 1< w<=3 and q<=5    (took 1133 CPU seconds)
+  True 3/2<=w<=3 and q<=10 (took 1240 CPU seconds) **Much faster code is below**
+*/
+
+W:=_Farey(1,3/2,5);W:=[w:w in W|w ne 1];
+print Max([Ceiling(_M0(w)):w in W]);T:=Cputime();
+for w in W do
+  M:=Ceiling(_M0(w));S:=[0..M+1];k:=_k(w);
+  b:=[r0(w,m) le Ceiling((m-k)/(w+1)):m in  S] eq [true:m in  S];
+  if not b then print <w,M,b>;end if;
+end for;
+print Cputime(T); // No output means no counterexamples
+
+/*
+  Conjecture: If w>1, then Floor((m+2)/(w+1)) <=r_0(w,m) <=Ceiling((m-k)/(w+1))
+    where k=Ceiling(w-2-2/(w-1)).
+  It is faster to test the conjecture without using the function r0: instead
+  compare (w-1)*s(m,r) to Binomial(m,r+1).
+  True if w=p/q is rational with 0<q<70 and w_{-1}=2<w<=3 (Took 8.5 CPU seconds)
+  True if w=p/q is rational with 0<q<=20 and w_{-4}<w<=2 (Took 1166 CPU seconds)
+  True if w=p/q is rational with 0<q<=6 and 7/6<=w<w_{-4} (1081 CPU seconds)
+  True if w=p/q is rational with 0<q<9 and 5/4<=w<=3/2 (Took 270 CPU seconds)
+  w_{-4}=1.449, w_{-3}=1.56, w_{-2}=1.732, w_{-1}=2, w_{0}=2.414, w_{1}=3  
+*/
+
+T:=Cputime();
+W:=_Farey(_w(-20),_w(-4),6);W:=Remove(W,1);print Max([_M0(w):w in W]);
+for w in W do
+  M0:=Ceiling(_M0(w));M:=[0..M0+1];k:=_k(w);
+  if M0 gt 2000 then print "M0 =",M0,"is large when w=",w;end if;
+  if Position(W,w) mod 10 eq 0 then print "Up to ",w,"M0 = ",M0;end if;
+  for m in M do
+    r:=Ceiling((m-k)/(w+1));
+    if (w-1)*s(m,r) le Binomial(m,r+1) then print "CONJ IS WRONG",m,r,k;end if;
+  end for;
+end for;
+print Cputime(T);
+  
+/*
+  Use the first order approximation \mathcal{H}_1
+  For which w does r0(w,m) \le Ceiling((m-k)/(w+1)) hold for all m>=0?
+*/
+P<m,w,k>:=PolynomialAlgebra(Integers(),3);F<m,w,k>:=FieldOfFractions(P);
+r1:=(m-k)/(w+1);r2:=r1+1;f:=1/(r1+1)*(m-2*r1+2*r2/(m-2*r2+3));
+N:=(w+1)^2*((m-2*r1)*(m-2*r2+3)+2*r2);D:=(w+1)^2*(r1+1)*(m-2*r2+3);
+Nf:=Numerator(f);Df:=Denominator(f);A:=Df*(w-1)-Nf;
+print Nf eq N,Nf eq (w-1)^2*m^2+(4*k*(w-1)+(w+1)^2)*m+2*((w+1)^2+2*k^2);
+print Df eq D,Df eq (w-1)*m^2+(w^2-w*k+w+3*k)*m+(w+1)^2+(w+1-2*k)*k, f eq Nf/Df;
+a:=(w-1)^2-k*(w-1)-2;b:=2*k^2-(w-1)*k+4-(w-1)^2; 
+print A eq (w+1)*(a*m-b);
+M2:=(b+0)/a;print M2 eq -2*k/(w-1)-1+4/(w-1)^2-2*(w+1)*(w-3)/((w-1)^2*a);
+M1:=-2*(k+1)/(w-1)-1;x:=M2-M1;Nx:=Numerator(x);Dx:=Denominator(x);
+print Nx,Dx eq (w-1)*a,Nx eq -2*(w+1)*k+(2*w^2-2*w-4),Nx eq 2*(w+1)*(-k+w-2); 
+// Calculations for Parts 2(b) and 2(c) of Theorem 4.1
+Pk<k>:=PolynomialRing(Rationals());Ps<s>:=PolynomialRing(Pk);
+R<s>:=quo<Ps|s^2-(k^2+8)>;
+w:=1+(1/2)*(k+s);print s^2 eq (k^2+8),2*k^2-(w-1)*k+4-(w-1)^2;
+Pk<k>:=PolynomialRing(Rationals());Ps<s>:=PolynomialRing(Pk);
+R<s>:=quo<Ps|s^2-((k+1)^2+8)>; // s stands for Sqrt(k^2+8), so s^2 = k^2+8
+w:=1+(1/2)*(k+1+s);print s^2 eq ((k+1)^2+8),2*(2*k^2-(w-1)*k+4-(w-1)^2);
+
+
+/*
+  Use the third order approximation \mathcal{H}_3
+  For which w does r0(w,m) \le Ceiling((m-k)/(w+1)) hold for all m>=0?
+*/
+P<m,w,k>:=PolynomialAlgebra(Rationals(),3);F<m,w,k>:=FieldOfFractions(P);
+r1:=(m-k)/(w+1);r2:=r1+1;
+// the upper bound r0(w,m)<=Ceiling((m-w)/w+1)) holds when m=0. In this case
+// r0(w,0)=0 and 0=Ceiling((0-w)/w+1)) clearly holds. Henceforth assume m>0.
+// For the following approximation to work we need r1>=1 and r2>=2, ie m>=k+w+1
+f:=(1/(r1+1))*(m-2*r1+2*r2/(m-2*r2+3 +4*(r1-1)/(m-2*r1+6+6*(r2-2)/(m-2*r2+9))));
+Nf:=Numerator(f);Df:=Denominator(f);fDf:=Factorization(Df);
+A:=(w-1)*Df-Nf;fA:=Factorization(P!A);B:=fA[1][1];C:=fA[2][1];
+print B eq w+1,A eq B*C;
+C3:=(w-1)^2*((w-1)^2-k*(w-1)-2);
+C2:=-6*(w-1)^2*k^2 -4*(2*w+5)*(w-1)*w*k +2*(w+1)*(7*w^3-17*w^2+4);
+C1:=-12*(w-1)*k^3-2*(17*w^2+18*w-11)*k^2+(w^3-87*w^2-97*w-9)*k
+  +(w+1)^2*(45*w^2-82*w-47);
+C0:=4*(-2*k^4-(7*w+9)*k^3-5*(w+1)*(w+3)*k^2+4*(w+1)^2*(3*w-2)*k
+  +2*(w+1)^3*(w-10));
+C eq C3*m^3+C2*m^2+C1*m+C0;
+Evaluate(C,[3,w,0]);Evaluate(C,[3,w,-1]);
+
