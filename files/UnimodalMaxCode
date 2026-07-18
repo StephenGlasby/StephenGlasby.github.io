@@ -1,6 +1,8 @@
 /*
- functions s(m,r), g(w,m,r), h(m,r), _k(w), _M1(w), _M2(w), _w(k),
-           _r0(w,m), r0(w,m) (FAST version), farey(n), _Farey(L,U,Q)
+  Magma code written by S.P. Glasby 2026 to support the paper
+  "The maximizing input for a weighted partial sum of binomial coefficients".
+  functions s(m,r), g(w,m,r), h(m,r), _k(w), _M1(w), _M2(w), _w(k),
+      _r0(w,m), r0(w,m) (FAST version), farey(n), _Farey(L,U,Q), _Binomial, _S
 */
 
 s:=function(m,r)
@@ -49,11 +51,6 @@ c0:=function(w)
   k:=_k(w);y:=w+1;return 2*(4*k^3+18*y*k^2+28*y^2*k+4*y^3);
 end function;
 
-/*
-R:=RealField(4);a:=_w(-4);b:=_w(1);X:=[a+(b-a)*0.05*i: i in [0..20]];
-print [R!c2(x):x in X],[R!c1(x):x in X],[R!c0(x):x in X];
-*/
-
 _r0:=function(w,m)       // return the position of the largest maximizing input
   local max,pos,r,seq;
   //if w-1 gt m then error "_r0: w-1 gt m",w,m;end if;
@@ -90,28 +87,23 @@ _Farey:=function(L,U,Q)
   return [r:r in s|L le r and r le U];
 end function;
 
+_Binomial:=function(m,r) // m is an indeterminant, r is a nonnegative integer
+  P:=Parent(m);if r eq 0 then return P!1;end if;
+  return &*[(m-i):i in [0..r-1]]/Factorial(r);
+end function;
+
+_S:=function(m,r)
+  return &+[_Binomial(m,i): i in [0..r]];
+end function;
+
 //------------------------------------------------------------------------------
 
-W:=_Farey(9/8,3,12);// check that functions _r0(w,m), r0(w,m) agree
+W:=_Farey(9/8,3,12);// check that functions _r0(w,m), r0(w,m) agree for w in W
 for w in W do
-  for m in [0..70] do
+  for m in [0..80] do
     x:=_r0(w,m);y:=r0(w,m);if x ne y then print <w,m,x,y>;end if;
   end for;
 end for;
-
-/*
-  Find the smallest w such that Floor((m+k)/(w+1)) le r0(w,m) holds for all m>=0
-  Find the largest w such that Floor((m+k)/(w+1)) le r0(w,m) holds for all m>=0
-*/
-
-k:=0;M:=100;w1:=3/2;w2:=3;R:=RealField(6); // let w be the mediant of w1 and w2
-while w2-w1 gt 10^-2 do
-  w:=(Numerator(w1)+Numerator(w2))/(Denominator(w1)+Denominator(w2)); // mediant
-  s:=[m: m in [1..M]| r0(w,m) le Floor((m-k)/(w+1))];
-  if s eq [1..M] then w2:=w;else w1:=w;end if;
-  print <k,R!w1,R!w2>; // view rate of convergence; problem if w1 or w2 is limit
-end while;
-print <k,R!w1,R!w2>;
 
 /*
   Test whether r0(w,m) \le Ceiling((m-k)/(w+1)) where k=Ceiling(w-2-2/(w-1))
@@ -135,14 +127,14 @@ print Cputime(T); // No output means no counterexamples
   It is faster to test the conjecture without using the function r0: instead
   compare (w-1)*s(m,r) to Binomial(m,r+1).
   True if w=p/q is rational with 0<q<70 and w_{-1}=2<w<=3 (Took 8.5 CPU seconds)
-  True if w=p/q is rational with 0<q<=20 and w_{-4}<w<=2 (Took 1166 CPU seconds)
+  True if w=p/q is rational with 0<q<=25 and w_{-4}<w<=2 (Took 1268 CPU seconds)
   True if w=p/q is rational with 0<q<=6 and 7/6<=w<w_{-4} (1081 CPU seconds)
   True if w=p/q is rational with 0<q<9 and 5/4<=w<=3/2 (Took 270 CPU seconds)
-  w_{-4}=1.449, w_{-3}=1.56, w_{-2}=1.732, w_{-1}=2, w_{0}=2.414, w_{1}=3  
+  w_{-4}=1.449, w_{-3}=1.56, w_{-2}=1.732, w_{-1}=2, w_0=2.414, w_1=3  
 */
 
 T:=Cputime();
-W:=_Farey(_w(-20),_w(-4),6);W:=Remove(W,1);print Max([_M0(w):w in W]);
+W:=_Farey(_w(-4),_w(1),25);W:=Remove(W,1);print Max([_M0(w):w in W]);
 for w in W do
   M0:=Ceiling(_M0(w));M:=[0..M0+1];k:=_k(w);
   if M0 gt 2000 then print "M0 =",M0,"is large when w=",w;end if;
@@ -155,18 +147,18 @@ end for;
 print Cputime(T);
   
 /*
-  Use the first order approximation \mathcal{H}_1
+  Proof of Theorem 4.1 using the first order approximation \mathcal{H}_1.
   For which w does r0(w,m) \le Ceiling((m-k)/(w+1)) hold for all m>=0?
 */
 P<m,w,k>:=PolynomialAlgebra(Integers(),3);F<m,w,k>:=FieldOfFractions(P);
 r1:=(m-k)/(w+1);r2:=r1+1;f:=1/(r1+1)*(m-2*r1+2*r2/(m-2*r2+3));
 N:=(w+1)^2*((m-2*r1)*(m-2*r2+3)+2*r2);D:=(w+1)^2*(r1+1)*(m-2*r2+3);
 Nf:=Numerator(f);Df:=Denominator(f);A:=Df*(w-1)-Nf;
-print Nf eq N,Nf eq (w-1)^2*m^2+(4*k*(w-1)+(w+1)^2)*m+2*((w+1)^2+2*k^2);
-print Df eq D,Df eq (w-1)*m^2+(w^2-w*k+w+3*k)*m+(w+1)^2+(w+1-2*k)*k, f eq Nf/Df;
+print Nf eq N,Nf eq (w-1)^2*m^2+(4*k*(w-1)+(w+1)^2)*m+2*(2*k^2+(w+1)^2);
+print Df eq D,Df eq (w-1)*m^2+(k*(3-w)+w^2+w)*m+(w+1-2*k)*k+(w+1)^2, f eq Nf/Df;
 a:=(w-1)^2-k*(w-1)-2;b:=2*k^2-(w-1)*k+4-(w-1)^2; 
 print A eq (w+1)*(a*m-b);
-M2:=(b+0)/a;print M2 eq -2*k/(w-1)-1+4/(w-1)^2-2*(w+1)*(w-3)/((w-1)^2*a);
+M2:=b/a;print M2 eq -2*k/(w-1)-1+4/(w-1)^2-2*(w+1)*(w-3)/((w-1)^2*a);
 M1:=-2*(k+1)/(w-1)-1;x:=M2-M1;Nx:=Numerator(x);Dx:=Denominator(x);
 print Nx,Dx eq (w-1)*a,Nx eq -2*(w+1)*k+(2*w^2-2*w-4),Nx eq 2*(w+1)*(-k+w-2); 
 // Calculations for Parts 2(b) and 2(c) of Theorem 4.1
@@ -174,12 +166,12 @@ Pk<k>:=PolynomialRing(Rationals());Ps<s>:=PolynomialRing(Pk);
 R<s>:=quo<Ps|s^2-(k^2+8)>;
 w:=1+(1/2)*(k+s);print s^2 eq (k^2+8),2*k^2-(w-1)*k+4-(w-1)^2;
 Pk<k>:=PolynomialRing(Rationals());Ps<s>:=PolynomialRing(Pk);
-R<s>:=quo<Ps|s^2-((k+1)^2+8)>; // s stands for Sqrt(k^2+8), so s^2 = k^2+8
+R<s>:=quo<Ps|s^2-((k+1)^2+8)>; // s is Sqrt((k+1)^2+8), so s^2 = (k+1)^2+8
 w:=1+(1/2)*(k+1+s);print s^2 eq ((k+1)^2+8),2*(2*k^2-(w-1)*k+4-(w-1)^2);
 
 
 /*
-  Use the third order approximation \mathcal{H}_3
+  Section 6. Using the third order approximation \mathcal{H}_3.
   For which w does r0(w,m) \le Ceiling((m-k)/(w+1)) hold for all m>=0?
 */
 P<m,w,k>:=PolynomialAlgebra(Rationals(),3);F<m,w,k>:=FieldOfFractions(P);
@@ -200,3 +192,96 @@ C0:=4*(-2*k^4-(7*w+9)*k^3-5*(w+1)*(w+3)*k^2+4*(w+1)^2*(3*w-2)*k
 C eq C3*m^3+C2*m^2+C1*m+C0;
 Evaluate(C,[3,w,0]);Evaluate(C,[3,w,-1]);
 
+/*
+  Conjecture 5.1: Suppose 1<w\le 3 and r=Ceiling((m-k)/(w+1)) where
+    k=Ceiling(w-2-2/(w-1)). If k<=0, then
+    \binom{m}{r}/s_m(r)\le\frac{m-2r+2-k}{m-r+1-k}
+  True for m<2000 and -10<=k<=0
+*/
+
+for k in [0..-10 by -1] do
+  w:=_w(k)+10^-6;
+  for m in [0..2000-1] do
+   if m mod 2000 eq 0 then print "Up to k,m =",k,m;end if;
+   r:=Ceiling((m-k)/(w+1));//if r ge (m-1)/2 then continue m;end if;
+   x:=Binomial(m,r)/s(m,r);y:=(m-2*r+2-k)/(m-r+1-k);
+   if x gt y then print <k,m,r,w>;break;end if;
+  end for;
+end for;
+
+/*
+  Proving Conjecture 1.1 for 1+\sqrt{2}<w\le 3 subject to the proof of
+  \frac{m-r+1}{m-2r+2}\le s_m(r)/\binom{m}{r} where r=Ceil(\frac{m}{w+1}).
+*/
+
+P<m,w,e>:=PolynomialAlgebra(Rationals(),3);F<m,w,e>:=FieldOfFractions(P);
+r:=m/(w+1)+e;x:=(w-1)*(r+1)*(m-r+1) - (m-r)*(m-2*r+2);
+N:=Numerator(x);D:=Denominator(x);print N,D;
+b:=Evaluate(N,[0,w,e]);a:=P!(N-b)/m;
+print "a =",a,"b =",b;
+print N eq a*m+b,D eq w+1,a eq (w^2+w)*e+(w-1)^2-2,b eq (1-e)*(w+1)*(w*e+w+e-1);
+
+/*
+  If k\le 0, r=Ceil(\frac{m-k}{w+1}), w_{k}<w\le w_{k+1}, then is
+  \frac{m-r+1-k}{m-2r+2-k}\le s_m(r)/\binom{m}{r}? We perform the sanity check
+  in Remark 5.3, and then the calculations in Theorem 5.4 \ref{T:I}
+*/
+P<m,w,e,k>:=PolynomialAlgebra(Rationals(),4);F<m,w,e,k>:=FieldOfFractions(P);
+r:=(m-k)/(w+1)+e;  // now perform the sanity check
+n1:=m-2*r+1;d1:=m-r+1;n2:=m-2*r+1-k;d2:=m-r+1-k;
+x:=n2/d2-n1/d1;N:=Numerator(x);D:=Denominator(x);
+print N eq (w+1)*((w-k)*m-k*(w+1)*e+k^2+k+(1-e)*(w+1));
+print D eq ((w+1)*(1-e)+(m-k)*w)*((w+1)*(1-e)+m*w+k); // hence n1/d1<=n2/d2
+// Now perform the calculations in Theorem 5.4
+x:=(w-1)*(r+1)*(m-r+1-k) - (m-r)*(m-2*r+2-k);
+N:=Numerator(x);D:=Denominator(x);//print N,D;
+b:=Evaluate(N,[0,w,e,k]);a:=P!(N-b)/m;
+print "a =",a,"b =",b;
+print N eq a*m+b,D eq w+1;
+print a eq (w^2+w)*e+(w-1)^2-k*(w-1)-2;
+print b eq -(w+1)^2*e^2+((-w^2+w+2)*k+2*(w+1))*e +((w-1)*k^2-(w^2+1)*k+w^2-1);
+print "b(1) =",Evaluate(b,[m,w,1,k]) eq (w-1)*k^2-(2*w+1)*(w-1)*k;
+
+/*
+  Code for guessing the form of an upper bound for \binom{m}{r}/s_m(r).
+  Find an upper bound of the form \binom{m}{r}/s_m(r)\le (m-2r+n)/(m-r+d)
+  where r=Ceiling(\frac{m-k(w)}{w+1}).
+  Case 1. d is given. Then n \ge (m-r+d)\binom{m}{r}/s_m(r)-(m-2r).
+  Case 2. n is given. Then d \le (m-2r+n)s_m(r)/\binom{m}{r}-(m-r).
+  Hence we take a maximum to estimate n and a minimum to estimate d.
+  If r is independent of m, then s_m(r)/\binom{m}{r} is a decreasing function
+  of r. Small s_m(r)/\binom{m}{r} = Big r = small w. Hence the supremum/infimum
+  should occur for w=_k(w)+epsilon. 
+  Conjecture 5.1: If k \in Z, then \binom{m}{r}/s_m(r) le (m-2r+2-k)/(m-r+1-k)
+*/
+
+// Case 2. n given
+R:=RealField(8);
+for k in [10..-5 by -1] do
+  w:=_w(k)+10^-6;
+  for n in [2-k] do
+    S:=[];
+    for m in [0..1000] do
+      r:=Ceiling((m-k)/(w+1));
+      if m-2*r+n le 0 then continue m;end if; // henceforth m-2*r+n > 0
+      // now m-2*r+2-k > 0 implies m-r+1-k > 0 so num and denom of rhs are >0
+      // also \binom{m}{r}/s_m(r) le (m-2r+2-k)/(m-r+1-k) is true if r>m
+      if r gt m then continue m;end if; // Conj 5.1 true in this case
+      if r lt 0 then print "ERROR: r lt 0:",r,m;break;end if;
+     Append(~S,(m-2*r+n)*s(m,r)/Binomial(m,r)-(m-r));
+    end for;
+    min,p:=Min(S);print <k,n,p,R!min,"is greater than",1-k,R!min gt (1-k)>;
+  end for;
+end for;
+
+/*
+  Suppose k=0. Show that \binom{m,r}/s_m(r)<=(m-2*r+2-k)/(m-r+1-k) noting that
+  r<=m. Delete this???????????
+*/
+
+P<m>:=PolynomialAlgebra(Rationals());F<m>:=FieldOfFractions(P);
+for r in [0..6] do
+  x:=(m-r+1)/(m-2*r+2);y:=_S(m,r)/_Binomial(m,r);z:=y-x; // I want y\geq x
+  Nz:=Numerator(z);Dz:=Denominator(z);D:=Factorial(r)*_Binomial(m,r)*(m-2*r+2);
+  print <r,IsIrreducible(Nz), Dz eq D,Evaluate(P!Nz,P!2*(r+1)),Nz>;
+end for;
